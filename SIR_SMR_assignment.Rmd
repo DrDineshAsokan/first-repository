@@ -1,0 +1,160 @@
+---
+title: "Mapmaking Exercise"
+author: "Group Activity - R4PublicHealth Workshop"
+date: "2022-12-10"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+# Load Packages
+library(sf)
+library(tidyverse)
+library(here)
+
+
+# Load Spatial file - District level boundary file with population estimates 
+# projected for 2020
+kerala_district_sf <- read_rds(here("spatial_files", "kerala_district_sf.rds"))
+
+
+# Load COVID-19 Data for Kerala by different waves
+kerala_covid_cases_df <- read_rds(here("spatial_files", "kerala_covid_cases_df.rds"))
+
+```
+
+
+# Explore non-spatial data
+
+```{r}
+kerala_covid_cases_df |> glimpse()
+
+```
+
+# Create a Total Population column
+
+```{r}
+# Lets create a total population column
+kerala_district_sf <- kerala_district_sf |> 
+  mutate(top_pop = sum(pop_2020, na.rm = T))
+```
+
+
+# Visualise the spatial files
+
+```{r}
+kerala_district_sf |> 
+  ggplot() +
+  geom_sf()
+```
+
+
+# Create a choropleth map based on the population of the district
+
+```{r}
+kerala_district_sf |> 
+  ggplot() +
+  geom_sf(aes(fill = pop_2020)) +
+  scale_fill_distiller(palette = "Spectral")
+
+```
+
+# Join both the spatial and non-spatial data
+
+```{r}
+# Step 1: Check if the district names are given correctly
+# Check if the district names in both the datasets are the same
+(kerala_covid_cases_df |> distinct(District) |> pull(District)) %in% (kerala_district_sf |> distinct(distname) |> pull(distname))
+
+# Step 2: Reshape your data
+kerala_covid_cases_df_reshaped <- kerala_covid_cases_df |> 
+  pivot_wider(names_from = Wave, values_from = c(Cases, Deaths))
+
+# Step 3: Identify the common variable in both the datasets (here it is `distname` and `District`)
+kerala_district_joined_sf <- left_join(kerala_district_sf, kerala_covid_cases_df_reshaped, by = c("distname" = "District"))
+
+
+
+```
+
+# ASSIGNMENTS
+
+### 1. Create a new variable named estimating the standarized incidence rate. 
+(SIR can be estimated by SIR = `cases / ((total_cases / total_pop) * pop)` )
+
+
+```{r}
+joined_df <- kerala_covid_cases_df |> 
+  left_join(kerala_district_sf |> st_drop_geometry(),
+            by = c("District" = "distname")) |> 
+  group_by(Wave) |> 
+  mutate(SIR = Cases / ((sum(Cases)/ top_pop) * pop_2020)) |> 
+  ungroup()
+
+kerala_district_sf <- kerala_district_sf |> left_join(joined_df |> select(District, SIR, Wave) |> rename(distname = District))
+ 
+
+kerala_district_sf |> 
+  ggplot() + 
+  geom_sf(aes(fill = SIR))  +
+  scale_fill_distiller(palette = "Spectral") +
+  facet_wrap(~Wave)
+
+
+
+```
+
+
+### 2. Create a new variable named estimating the standarized motality rate. 
+(SMR can be estimated by SMR = `deaths / ((total_deaths / total_pop) * pop)` )
+
+```{r}
+# Write the code here
+
+
+```
+
+
+### 3. Plot a choropleth map of Cases for each of the wave
+
+```{r}
+# Write the code here
+
+
+```
+
+
+
+### 4. Plot a choropleth map of Deaths for each of the wave
+
+```{r}
+# Write the code here
+
+
+```
+
+
+
+### 5. Plot a choropleth map of SIR for each of the wave
+
+```{r}
+# Write the code here
+
+
+```
+
+
+### 6. Plot a choropleth map of SMR for each of the wave
+
+```{r}
+# Write the code here
+
+
+```
+
+
+
+
+
+
