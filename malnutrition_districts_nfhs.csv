@@ -1,0 +1,2905 @@
+state,district,district_unique,indicator,nfhs4,nfhs5
+Andaman & Nicobar Islands,Nicobar,nicobar_andaman_nicobar_islands,stunting,20.3,21.6
+Andaman & Nicobar Islands,Nicobar,nicobar_andaman_nicobar_islands,wasting,2.3,7.8
+Andaman & Nicobar Islands,Nicobar,nicobar_andaman_nicobar_islands,underweight,10.5,24.6
+Andaman & Nicobar Islands,Nicobar,nicobar_andaman_nicobar_islands,overweight,4.8,1.5
+Andaman & Nicobar Islands,North & Middle Andaman,north_middle_andaman_andaman_nicobar_islands,stunting,32.5,27
+Andaman & Nicobar Islands,North & Middle Andaman,north_middle_andaman_andaman_nicobar_islands,wasting,18.5,8.3
+Andaman & Nicobar Islands,North & Middle Andaman,north_middle_andaman_andaman_nicobar_islands,underweight,33.5,42.8
+Andaman & Nicobar Islands,North & Middle Andaman,north_middle_andaman_andaman_nicobar_islands,overweight,2.1,0.8
+Andaman & Nicobar Islands,South Andaman,south_andaman_andaman_nicobar_islands,stunting,20.1,21.1
+Andaman & Nicobar Islands,South Andaman,south_andaman_andaman_nicobar_islands,wasting,4,3.5
+Andaman & Nicobar Islands,South Andaman,south_andaman_andaman_nicobar_islands,underweight,18.5,17.4
+Andaman & Nicobar Islands,South Andaman,south_andaman_andaman_nicobar_islands,overweight,3,7.2
+Andhra Pradesh,Anantapur,anantapur_andhra_pradesh,stunting,40.3,36
+Andhra Pradesh,Anantapur,anantapur_andhra_pradesh,wasting,4.5,4
+Andhra Pradesh,Anantapur,anantapur_andhra_pradesh,underweight,39.3,40.6
+Andhra Pradesh,Anantapur,anantapur_andhra_pradesh,overweight,0.6,0.3
+Andhra Pradesh,Chittoor,chittoor_andhra_pradesh,stunting,31.4,27.1
+Andhra Pradesh,Chittoor,chittoor_andhra_pradesh,wasting,4.6,6.3
+Andhra Pradesh,Chittoor,chittoor_andhra_pradesh,underweight,32.4,27.9
+Andhra Pradesh,Chittoor,chittoor_andhra_pradesh,overweight,0,0.5
+Andhra Pradesh,East Godavari,east_godavari_andhra_pradesh,stunting,27.7,23.1
+Andhra Pradesh,East Godavari,east_godavari_andhra_pradesh,wasting,3,3.8
+Andhra Pradesh,East Godavari,east_godavari_andhra_pradesh,underweight,27.1,22.4
+Andhra Pradesh,East Godavari,east_godavari_andhra_pradesh,overweight,2.7,3.4
+Andhra Pradesh,Guntur,guntur_andhra_pradesh,stunting,22.1,23.8
+Andhra Pradesh,Guntur,guntur_andhra_pradesh,wasting,9.8,8.1
+Andhra Pradesh,Guntur,guntur_andhra_pradesh,underweight,29.1,26.9
+Andhra Pradesh,Guntur,guntur_andhra_pradesh,overweight,3.9,3.6
+Andhra Pradesh,Krishna,krishna_andhra_pradesh,stunting,22.6,29.8
+Andhra Pradesh,Krishna,krishna_andhra_pradesh,wasting,5.1,5.2
+Andhra Pradesh,Krishna,krishna_andhra_pradesh,underweight,27.7,21.1
+Andhra Pradesh,Krishna,krishna_andhra_pradesh,overweight,1.8,4.2
+Andhra Pradesh,Kurnool,kurnool_andhra_pradesh,stunting,44.1,50.5
+Andhra Pradesh,Kurnool,kurnool_andhra_pradesh,wasting,4.7,6
+Andhra Pradesh,Kurnool,kurnool_andhra_pradesh,underweight,37.5,46.3
+Andhra Pradesh,Kurnool,kurnool_andhra_pradesh,overweight,0.6,1.1
+Andhra Pradesh,Prakasam,prakasam_andhra_pradesh,stunting,28.2,22.6
+Andhra Pradesh,Prakasam,prakasam_andhra_pradesh,wasting,3.6,3.3
+Andhra Pradesh,Prakasam,prakasam_andhra_pradesh,underweight,30.3,24.7
+Andhra Pradesh,Prakasam,prakasam_andhra_pradesh,overweight,0.8,5.1
+Andhra Pradesh,Srikakulam,srikakulam_andhra_pradesh,stunting,28,19.7
+Andhra Pradesh,Srikakulam,srikakulam_andhra_pradesh,wasting,3.9,7.4
+Andhra Pradesh,Srikakulam,srikakulam_andhra_pradesh,underweight,28.7,21.4
+Andhra Pradesh,Srikakulam,srikakulam_andhra_pradesh,overweight,1,4.5
+Andhra Pradesh,Sri Potti Sriramulu Nellore,sri_potti_sriramulu_nellore_andhra_pradesh,stunting,29.4,29.2
+Andhra Pradesh,Sri Potti Sriramulu Nellore,sri_potti_sriramulu_nellore_andhra_pradesh,wasting,4.3,6.9
+Andhra Pradesh,Sri Potti Sriramulu Nellore,sri_potti_sriramulu_nellore_andhra_pradesh,underweight,28.7,27.8
+Andhra Pradesh,Sri Potti Sriramulu Nellore,sri_potti_sriramulu_nellore_andhra_pradesh,overweight,1.5,0.5
+Andhra Pradesh,Visakhapatnam,visakhapatnam_andhra_pradesh,stunting,30.1,31
+Andhra Pradesh,Visakhapatnam,visakhapatnam_andhra_pradesh,wasting,1.5,11.2
+Andhra Pradesh,Visakhapatnam,visakhapatnam_andhra_pradesh,underweight,33.1,33.5
+Andhra Pradesh,Visakhapatnam,visakhapatnam_andhra_pradesh,overweight,0,4.8
+Andhra Pradesh,Vizianagaram,vizianagaram_andhra_pradesh,stunting,36.8,36.4
+Andhra Pradesh,Vizianagaram,vizianagaram_andhra_pradesh,wasting,4.7,8.3
+Andhra Pradesh,Vizianagaram,vizianagaram_andhra_pradesh,underweight,34.4,32.2
+Andhra Pradesh,Vizianagaram,vizianagaram_andhra_pradesh,overweight,0.5,4.7
+Andhra Pradesh,West Godavari,west_godavari_andhra_pradesh,stunting,28.5,31.4
+Andhra Pradesh,West Godavari,west_godavari_andhra_pradesh,wasting,3.2,4.7
+Andhra Pradesh,West Godavari,west_godavari_andhra_pradesh,underweight,30.1,22.5
+Andhra Pradesh,West Godavari,west_godavari_andhra_pradesh,overweight,0.6,5.2
+Andhra Pradesh,Y.S.R.,y_s_r_andhra_pradesh,stunting,36.3,34.4
+Andhra Pradesh,Y.S.R.,y_s_r_andhra_pradesh,wasting,5.8,4.2
+Andhra Pradesh,Y.S.R.,y_s_r_andhra_pradesh,underweight,34.4,26.7
+Andhra Pradesh,Y.S.R.,y_s_r_andhra_pradesh,overweight,1.4,0.2
+Arunachal Pradesh,Anjaw,anjaw_arunachal_pradesh,stunting,21,23.6
+Arunachal Pradesh,Anjaw,anjaw_arunachal_pradesh,wasting,10.1,7.5
+Arunachal Pradesh,Anjaw,anjaw_arunachal_pradesh,underweight,10.4,16
+Arunachal Pradesh,Anjaw,anjaw_arunachal_pradesh,overweight,4.9,2.9
+Arunachal Pradesh,Changlang,changlang_arunachal_pradesh,stunting,23.5,26.3
+Arunachal Pradesh,Changlang,changlang_arunachal_pradesh,wasting,6.3,8.3
+Arunachal Pradesh,Changlang,changlang_arunachal_pradesh,underweight,20.1,25
+Arunachal Pradesh,Changlang,changlang_arunachal_pradesh,overweight,1.3,3.9
+Arunachal Pradesh,Dibang Valley,dibang_valley_arunachal_pradesh,stunting,36.3,16.9
+Arunachal Pradesh,Dibang Valley,dibang_valley_arunachal_pradesh,wasting,5.6,7.8
+Arunachal Pradesh,Dibang Valley,dibang_valley_arunachal_pradesh,underweight,14.5,16
+Arunachal Pradesh,Dibang Valley,dibang_valley_arunachal_pradesh,overweight,7.6,4.6
+Arunachal Pradesh,East Kameng,east_kameng_arunachal_pradesh,stunting,42,35.7
+Arunachal Pradesh,East Kameng,east_kameng_arunachal_pradesh,wasting,6.8,8.5
+Arunachal Pradesh,East Kameng,east_kameng_arunachal_pradesh,underweight,20.5,14.2
+Arunachal Pradesh,East Kameng,east_kameng_arunachal_pradesh,overweight,5.5,10.2
+Arunachal Pradesh,East Siang,east_siang_arunachal_pradesh,stunting,29.4,24.6
+Arunachal Pradesh,East Siang,east_siang_arunachal_pradesh,wasting,8,4.2
+Arunachal Pradesh,East Siang,east_siang_arunachal_pradesh,underweight,19.4,10.3
+Arunachal Pradesh,East Siang,east_siang_arunachal_pradesh,overweight,4.9,9
+Arunachal Pradesh,Kra Daadi,kra_daadi_arunachal_pradesh,stunting,29.4,28.8
+Arunachal Pradesh,Kra Daadi,kra_daadi_arunachal_pradesh,wasting,8,5.7
+Arunachal Pradesh,Kra Daadi,kra_daadi_arunachal_pradesh,underweight,19.4,14.5
+Arunachal Pradesh,Kra Daadi,kra_daadi_arunachal_pradesh,overweight,4.9,20.2
+Arunachal Pradesh,Kurung Kumey,kurung_kumey_arunachal_pradesh,stunting,29.4,29.2
+Arunachal Pradesh,Kurung Kumey,kurung_kumey_arunachal_pradesh,wasting,8,5.3
+Arunachal Pradesh,Kurung Kumey,kurung_kumey_arunachal_pradesh,underweight,19.4,13.9
+Arunachal Pradesh,Kurung Kumey,kurung_kumey_arunachal_pradesh,overweight,4.9,5.8
+Arunachal Pradesh,Lohit,lohit_arunachal_pradesh,stunting,29.4,24.5
+Arunachal Pradesh,Lohit,lohit_arunachal_pradesh,wasting,8,4.9
+Arunachal Pradesh,Lohit,lohit_arunachal_pradesh,underweight,19.4,12.9
+Arunachal Pradesh,Lohit,lohit_arunachal_pradesh,overweight,4.9,7.6
+Arunachal Pradesh,Longding,longding_arunachal_pradesh,stunting,29.4,15.8
+Arunachal Pradesh,Longding,longding_arunachal_pradesh,wasting,8,14.2
+Arunachal Pradesh,Longding,longding_arunachal_pradesh,underweight,19.4,13.8
+Arunachal Pradesh,Longding,longding_arunachal_pradesh,overweight,4.9,4.2
+Arunachal Pradesh,Lower Dibang Valley,lower_dibang_valley_arunachal_pradesh,stunting,22.3,14.3
+Arunachal Pradesh,Lower Dibang Valley,lower_dibang_valley_arunachal_pradesh,wasting,12.4,2.9
+Arunachal Pradesh,Lower Dibang Valley,lower_dibang_valley_arunachal_pradesh,underweight,15.4,9.7
+Arunachal Pradesh,Lower Dibang Valley,lower_dibang_valley_arunachal_pradesh,overweight,6.5,5
+Arunachal Pradesh,Lower Subansiri,lower_subansiri_arunachal_pradesh,stunting,35.1,30.7
+Arunachal Pradesh,Lower Subansiri,lower_subansiri_arunachal_pradesh,wasting,13.4,5.9
+Arunachal Pradesh,Lower Subansiri,lower_subansiri_arunachal_pradesh,underweight,21.8,8.1
+Arunachal Pradesh,Lower Subansiri,lower_subansiri_arunachal_pradesh,overweight,9.1,14.4
+Arunachal Pradesh,Namsai,namsai_arunachal_pradesh,stunting,29.4,28.7
+Arunachal Pradesh,Namsai,namsai_arunachal_pradesh,wasting,8,4.2
+Arunachal Pradesh,Namsai,namsai_arunachal_pradesh,underweight,19.4,17.7
+Arunachal Pradesh,Namsai,namsai_arunachal_pradesh,overweight,4.9,6.2
+Arunachal Pradesh,Papum Pare,papum_pare_arunachal_pradesh,stunting,25.3,29.7
+Arunachal Pradesh,Papum Pare,papum_pare_arunachal_pradesh,wasting,2.8,5
+Arunachal Pradesh,Papum Pare,papum_pare_arunachal_pradesh,underweight,11.6,15.6
+Arunachal Pradesh,Papum Pare,papum_pare_arunachal_pradesh,overweight,5,9.1
+Arunachal Pradesh,Siang,siang_arunachal_pradesh,stunting,29.4,21.3
+Arunachal Pradesh,Siang,siang_arunachal_pradesh,wasting,8,7
+Arunachal Pradesh,Siang,siang_arunachal_pradesh,underweight,19.4,8.8
+Arunachal Pradesh,Siang,siang_arunachal_pradesh,overweight,4.9,13
+Arunachal Pradesh,Tawang,tawang_arunachal_pradesh,stunting,20.5,30.4
+Arunachal Pradesh,Tawang,tawang_arunachal_pradesh,wasting,6.1,1.9
+Arunachal Pradesh,Tawang,tawang_arunachal_pradesh,underweight,8.1,9
+Arunachal Pradesh,Tawang,tawang_arunachal_pradesh,overweight,11.9,21.1
+Arunachal Pradesh,Tirap,tirap_arunachal_pradesh,stunting,29.4,38.6
+Arunachal Pradesh,Tirap,tirap_arunachal_pradesh,wasting,8,7.3
+Arunachal Pradesh,Tirap,tirap_arunachal_pradesh,underweight,19.4,16
+Arunachal Pradesh,Tirap,tirap_arunachal_pradesh,overweight,4.9,11.7
+Arunachal Pradesh,Upper Siang,upper_siang_arunachal_pradesh,stunting,24.6,30.4
+Arunachal Pradesh,Upper Siang,upper_siang_arunachal_pradesh,wasting,15.9,5
+Arunachal Pradesh,Upper Siang,upper_siang_arunachal_pradesh,underweight,21.5,12
+Arunachal Pradesh,Upper Siang,upper_siang_arunachal_pradesh,overweight,5.9,13.5
+Arunachal Pradesh,Upper Subansiri,upper_subansiri_arunachal_pradesh,stunting,28.3,36.8
+Arunachal Pradesh,Upper Subansiri,upper_subansiri_arunachal_pradesh,wasting,5.1,8.1
+Arunachal Pradesh,Upper Subansiri,upper_subansiri_arunachal_pradesh,underweight,12.2,19.2
+Arunachal Pradesh,Upper Subansiri,upper_subansiri_arunachal_pradesh,overweight,7.2,9
+Arunachal Pradesh,West Kameng,west_kameng_arunachal_pradesh,stunting,27.3,24.2
+Arunachal Pradesh,West Kameng,west_kameng_arunachal_pradesh,wasting,4.4,11.9
+Arunachal Pradesh,West Kameng,west_kameng_arunachal_pradesh,underweight,11.6,13.4
+Arunachal Pradesh,West Kameng,west_kameng_arunachal_pradesh,overweight,4.7,15.5
+Arunachal Pradesh,West Siang,west_siang_arunachal_pradesh,stunting,29.4,24.5
+Arunachal Pradesh,West Siang,west_siang_arunachal_pradesh,wasting,8,8.1
+Arunachal Pradesh,West Siang,west_siang_arunachal_pradesh,underweight,19.4,16.2
+Arunachal Pradesh,West Siang,west_siang_arunachal_pradesh,overweight,4.9,14.9
+Assam,Baksa,baksa_assam,stunting,32.4,41.2
+Assam,Baksa,baksa_assam,wasting,2.7,6.2
+Assam,Baksa,baksa_assam,underweight,22.4,34
+Assam,Baksa,baksa_assam,overweight,2.3,8.6
+Assam,Barpeta,barpeta_assam,stunting,41.7,29.8
+Assam,Barpeta,barpeta_assam,wasting,5.8,7.5
+Assam,Barpeta,barpeta_assam,underweight,33.1,26.2
+Assam,Barpeta,barpeta_assam,overweight,1.9,6.1
+Assam,Biswanath,biswanath_assam,stunting,36.4,42.7
+Assam,Biswanath,biswanath_assam,wasting,6.2,13.7
+Assam,Biswanath,biswanath_assam,underweight,29.8,41
+Assam,Biswanath,biswanath_assam,overweight,2.3,3.3
+Assam,Bongaigaon,bongaigaon_assam,stunting,39.1,46.2
+Assam,Bongaigaon,bongaigaon_assam,wasting,12.7,7.4
+Assam,Bongaigaon,bongaigaon_assam,underweight,32.9,35.3
+Assam,Bongaigaon,bongaigaon_assam,overweight,6.1,8.8
+Assam,Cachar,cachar_assam,stunting,36.3,28.7
+Assam,Cachar,cachar_assam,wasting,11.3,12.5
+Assam,Cachar,cachar_assam,underweight,36.3,38.2
+Assam,Cachar,cachar_assam,overweight,4,3.3
+Assam,Charaideo,charaideo_assam,stunting,36.4,39
+Assam,Charaideo,charaideo_assam,wasting,6.2,7.3
+Assam,Charaideo,charaideo_assam,underweight,29.8,34.8
+Assam,Charaideo,charaideo_assam,overweight,2.3,4
+Assam,Chirang,chirang_assam,stunting,40.1,42.7
+Assam,Chirang,chirang_assam,wasting,4.4,8.5
+Assam,Chirang,chirang_assam,underweight,24.7,39.7
+Assam,Chirang,chirang_assam,overweight,2.5,4.5
+Assam,Darrang,darrang_assam,stunting,43.5,42
+Assam,Darrang,darrang_assam,wasting,5.3,9.1
+Assam,Darrang,darrang_assam,underweight,37.9,33.1
+Assam,Darrang,darrang_assam,overweight,3,5.6
+Assam,Dhemaji,dhemaji_assam,stunting,35.5,37.2
+Assam,Dhemaji,dhemaji_assam,wasting,0.8,10.1
+Assam,Dhemaji,dhemaji_assam,underweight,15.8,25.7
+Assam,Dhemaji,dhemaji_assam,overweight,0.5,3.5
+Assam,Dhubri,dhubri_assam,stunting,36.4,48.5
+Assam,Dhubri,dhubri_assam,wasting,6.2,6.7
+Assam,Dhubri,dhubri_assam,underweight,29.8,37.8
+Assam,Dhubri,dhubri_assam,overweight,2.3,6
+Assam,Dibrugarh,dibrugarh_assam,stunting,33.3,27.3
+Assam,Dibrugarh,dibrugarh_assam,wasting,8.2,8.4
+Assam,Dibrugarh,dibrugarh_assam,underweight,33,32
+Assam,Dibrugarh,dibrugarh_assam,overweight,3.3,2
+Assam,Dima Hasao,dima_hasao_assam,stunting,34.7,30.6
+Assam,Dima Hasao,dima_hasao_assam,wasting,1.3,11.3
+Assam,Dima Hasao,dima_hasao_assam,underweight,18.2,21.7
+Assam,Dima Hasao,dima_hasao_assam,overweight,1.5,12.5
+Assam,Goalpara,goalpara_assam,stunting,42.7,38.9
+Assam,Goalpara,goalpara_assam,wasting,8.9,14.3
+Assam,Goalpara,goalpara_assam,underweight,39.5,35.4
+Assam,Goalpara,goalpara_assam,overweight,2.6,5.4
+Assam,Golaghat,golaghat_assam,stunting,32.6,26.3
+Assam,Golaghat,golaghat_assam,wasting,6.5,5.4
+Assam,Golaghat,golaghat_assam,underweight,20.2,25.5
+Assam,Golaghat,golaghat_assam,overweight,3.7,2.4
+Assam,Hailakandi,hailakandi_assam,stunting,38.1,42.9
+Assam,Hailakandi,hailakandi_assam,wasting,6.3,8.2
+Assam,Hailakandi,hailakandi_assam,underweight,32.5,42.4
+Assam,Hailakandi,hailakandi_assam,overweight,1.6,2
+Assam,Hojai,hojai_assam,stunting,36.4,39.3
+Assam,Hojai,hojai_assam,wasting,6.2,4.6
+Assam,Hojai,hojai_assam,underweight,29.8,28.4
+Assam,Hojai,hojai_assam,overweight,2.3,6
+Assam,Jorhat,jorhat_assam,stunting,36.4,38.7
+Assam,Jorhat,jorhat_assam,wasting,6.2,5.1
+Assam,Jorhat,jorhat_assam,underweight,29.8,33.2
+Assam,Jorhat,jorhat_assam,overweight,2.3,5.4
+Assam,Kamrup,kamrup_assam,stunting,33.3,22.6
+Assam,Kamrup,kamrup_assam,wasting,5.3,5.3
+Assam,Kamrup,kamrup_assam,underweight,29.6,19.7
+Assam,Kamrup,kamrup_assam,overweight,0.7,7.5
+Assam,Kamrup Metropolitan,kamrup_metropolitan_assam,stunting,24.6,25.4
+Assam,Kamrup Metropolitan,kamrup_metropolitan_assam,wasting,2.4,7.3
+Assam,Kamrup Metropolitan,kamrup_metropolitan_assam,underweight,23.2,25
+Assam,Kamrup Metropolitan,kamrup_metropolitan_assam,overweight,2,8.7
+Assam,Karbi Anglong,karbi_anglong_assam,stunting,36.4,31.6
+Assam,Karbi Anglong,karbi_anglong_assam,wasting,6.2,8.7
+Assam,Karbi Anglong,karbi_anglong_assam,underweight,29.8,28.2
+Assam,Karbi Anglong,karbi_anglong_assam,overweight,2.3,4.3
+Assam,Karimganj,karimganj_assam,stunting,42.3,29.1
+Assam,Karimganj,karimganj_assam,wasting,6.1,30.5
+Assam,Karimganj,karimganj_assam,underweight,35.6,52.9
+Assam,Karimganj,karimganj_assam,overweight,1.8,1
+Assam,Kokrajhar,kokrajhar_assam,stunting,30.6,34.6
+Assam,Kokrajhar,kokrajhar_assam,wasting,6.1,8.9
+Assam,Kokrajhar,kokrajhar_assam,underweight,27.1,35.2
+Assam,Kokrajhar,kokrajhar_assam,overweight,1.4,4.3
+Assam,Lakhimpur,lakhimpur_assam,stunting,29.3,38.5
+Assam,Lakhimpur,lakhimpur_assam,wasting,4.4,7.5
+Assam,Lakhimpur,lakhimpur_assam,underweight,24.2,34.4
+Assam,Lakhimpur,lakhimpur_assam,overweight,0.8,2.3
+Assam,Majuli,majuli_assam,stunting,36.4,35.4
+Assam,Majuli,majuli_assam,wasting,6.2,3.9
+Assam,Majuli,majuli_assam,underweight,29.8,22.2
+Assam,Majuli,majuli_assam,overweight,2.3,3.8
+Assam,Morigaon,morigaon_assam,stunting,38.4,43.2
+Assam,Morigaon,morigaon_assam,wasting,0.9,7.5
+Assam,Morigaon,morigaon_assam,underweight,25.8,30.5
+Assam,Morigaon,morigaon_assam,overweight,1,4.3
+Assam,Nagaon,nagaon_assam,stunting,36.4,38.9
+Assam,Nagaon,nagaon_assam,wasting,6.2,5.2
+Assam,Nagaon,nagaon_assam,underweight,29.8,32.4
+Assam,Nagaon,nagaon_assam,overweight,2.3,7.4
+Assam,Nalbari,nalbari_assam,stunting,26.8,27.5
+Assam,Nalbari,nalbari_assam,wasting,6.2,4.9
+Assam,Nalbari,nalbari_assam,underweight,20,26.7
+Assam,Nalbari,nalbari_assam,overweight,1.8,4.6
+Assam,Sivasagar,sivasagar_assam,stunting,36.4,26.1
+Assam,Sivasagar,sivasagar_assam,wasting,6.2,6.1
+Assam,Sivasagar,sivasagar_assam,underweight,29.8,25.9
+Assam,Sivasagar,sivasagar_assam,overweight,2.3,3.5
+Assam,Sonitpur,sonitpur_assam,stunting,36.4,36.7
+Assam,Sonitpur,sonitpur_assam,wasting,6.2,4.5
+Assam,Sonitpur,sonitpur_assam,underweight,29.8,21.9
+Assam,Sonitpur,sonitpur_assam,overweight,2.3,3.2
+Assam,South Salmara Mancachar,south_salmara_mancachar_assam,stunting,36.4,38.9
+Assam,South Salmara Mancachar,south_salmara_mancachar_assam,wasting,6.2,7.1
+Assam,South Salmara Mancachar,south_salmara_mancachar_assam,underweight,29.8,27.9
+Assam,South Salmara Mancachar,south_salmara_mancachar_assam,overweight,2.3,5.9
+Assam,Tinsukia,tinsukia_assam,stunting,36,32.8
+Assam,Tinsukia,tinsukia_assam,wasting,2.2,9.4
+Assam,Tinsukia,tinsukia_assam,underweight,32.7,32.2
+Assam,Tinsukia,tinsukia_assam,overweight,2.8,2.7
+Assam,Udalguri,udalguri_assam,stunting,39.1,33.8
+Assam,Udalguri,udalguri_assam,wasting,8.1,11.6
+Assam,Udalguri,udalguri_assam,underweight,31.8,32.5
+Assam,Udalguri,udalguri_assam,overweight,4,5.2
+Assam,West Karbi Anglong,west_karbi_anglong_assam,stunting,36.4,40.9
+Assam,West Karbi Anglong,west_karbi_anglong_assam,wasting,6.2,12.7
+Assam,West Karbi Anglong,west_karbi_anglong_assam,underweight,29.8,31.1
+Assam,West Karbi Anglong,west_karbi_anglong_assam,overweight,2.3,3.9
+Bihar,Araria,araria_bihar,stunting,48.4,49.9
+Bihar,Araria,araria_bihar,wasting,7.2,5.2
+Bihar,Araria,araria_bihar,underweight,45.4,47.8
+Bihar,Araria,araria_bihar,overweight,0.5,3
+Bihar,Arwal,arwal_bihar,stunting,50.2,45.6
+Bihar,Arwal,arwal_bihar,wasting,16.4,14.8
+Bihar,Arwal,arwal_bihar,underweight,54,52.9
+Bihar,Arwal,arwal_bihar,overweight,1,2.9
+Bihar,Aurangabad,aurangabad_bihar,stunting,48.3,41.2
+Bihar,Aurangabad,aurangabad_bihar,wasting,7.2,18.5
+Bihar,Aurangabad,aurangabad_bihar,underweight,47.6,48.7
+Bihar,Aurangabad,aurangabad_bihar,overweight,1,4.7
+Bihar,Banka,banka_bihar,stunting,49.6,46.7
+Bihar,Banka,banka_bihar,wasting,9.3,11
+Bihar,Banka,banka_bihar,underweight,48.5,45.8
+Bihar,Banka,banka_bihar,overweight,1.3,5.2
+Bihar,Begusarai,begusarai_bihar,stunting,44.9,37.8
+Bihar,Begusarai,begusarai_bihar,wasting,5.8,8.8
+Bihar,Begusarai,begusarai_bihar,underweight,39.1,35.6
+Bihar,Begusarai,begusarai_bihar,overweight,1.1,4
+Bihar,Bhagalpur,bhagalpur_bihar,stunting,46.6,40
+Bihar,Bhagalpur,bhagalpur_bihar,wasting,7.8,8.3
+Bihar,Bhagalpur,bhagalpur_bihar,underweight,40.8,40.4
+Bihar,Bhagalpur,bhagalpur_bihar,overweight,1.4,2.8
+Bihar,Bhojpur,bhojpur_bihar,stunting,43.5,40.7
+Bihar,Bhojpur,bhojpur_bihar,wasting,12.3,13
+Bihar,Bhojpur,bhojpur_bihar,underweight,47.2,44
+Bihar,Bhojpur,bhojpur_bihar,overweight,0.8,2.2
+Bihar,Buxar,buxar_bihar,stunting,43.9,39.6
+Bihar,Buxar,buxar_bihar,wasting,5.7,15.1
+Bihar,Buxar,buxar_bihar,underweight,41.2,45.3
+Bihar,Buxar,buxar_bihar,overweight,1.2,4.9
+Bihar,Darbhanga,darbhanga_bihar,stunting,49,45.4
+Bihar,Darbhanga,darbhanga_bihar,wasting,4.9,6.4
+Bihar,Darbhanga,darbhanga_bihar,underweight,41.1,39.2
+Bihar,Darbhanga,darbhanga_bihar,overweight,2.1,1.5
+Bihar,Gaya,gaya_bihar,stunting,52.9,47.4
+Bihar,Gaya,gaya_bihar,wasting,7.6,9.3
+Bihar,Gaya,gaya_bihar,underweight,53.1,43.5
+Bihar,Gaya,gaya_bihar,overweight,0.9,3.7
+Bihar,Gopalganj,gopalganj_bihar,stunting,35.6,34.2
+Bihar,Gopalganj,gopalganj_bihar,wasting,5.4,9.8
+Bihar,Gopalganj,gopalganj_bihar,underweight,30.5,29.2
+Bihar,Gopalganj,gopalganj_bihar,overweight,1,3.5
+Bihar,Jamui,jamui_bihar,stunting,45.9,43
+Bihar,Jamui,jamui_bihar,wasting,10.9,8.8
+Bihar,Jamui,jamui_bihar,underweight,47.2,37.5
+Bihar,Jamui,jamui_bihar,overweight,1.3,1.7
+Bihar,Jehanabad,jehanabad_bihar,stunting,52.1,41.3
+Bihar,Jehanabad,jehanabad_bihar,wasting,8.5,15.2
+Bihar,Jehanabad,jehanabad_bihar,underweight,47.1,51.7
+Bihar,Jehanabad,jehanabad_bihar,overweight,0.8,1.8
+Bihar,Kaimur (Bhabua),kaimur_bhabua_bihar,stunting,53.8,44.1
+Bihar,Kaimur (Bhabua),kaimur_bhabua_bihar,wasting,6.9,15.9
+Bihar,Kaimur (Bhabua),kaimur_bhabua_bihar,underweight,48.1,47.2
+Bihar,Kaimur (Bhabua),kaimur_bhabua_bihar,overweight,1.6,2.5
+Bihar,Katihar,katihar_bihar,stunting,49.2,43.9
+Bihar,Katihar,katihar_bihar,wasting,6.1,8.7
+Bihar,Katihar,katihar_bihar,underweight,45.1,48.1
+Bihar,Katihar,katihar_bihar,overweight,1.2,1.4
+Bihar,Khagaria,khagaria_bihar,stunting,49.8,34.8
+Bihar,Khagaria,khagaria_bihar,wasting,6.6,9.3
+Bihar,Khagaria,khagaria_bihar,underweight,42.4,36.4
+Bihar,Khagaria,khagaria_bihar,overweight,1.7,1.4
+Bihar,Kishanganj,kishanganj_bihar,stunting,46.9,38.8
+Bihar,Kishanganj,kishanganj_bihar,wasting,9.2,7.6
+Bihar,Kishanganj,kishanganj_bihar,underweight,45.4,41.1
+Bihar,Kishanganj,kishanganj_bihar,overweight,1.4,1.5
+Bihar,Lakhisarai,lakhisarai_bihar,stunting,50.6,42.7
+Bihar,Lakhisarai,lakhisarai_bihar,wasting,6.4,10.4
+Bihar,Lakhisarai,lakhisarai_bihar,underweight,47.3,45.1
+Bihar,Lakhisarai,lakhisarai_bihar,overweight,1.1,1.4
+Bihar,Madhepura,madhepura_bihar,stunting,51.8,46.3
+Bihar,Madhepura,madhepura_bihar,wasting,9.1,6.2
+Bihar,Madhepura,madhepura_bihar,underweight,49.2,43.5
+Bihar,Madhepura,madhepura_bihar,overweight,1.6,1.5
+Bihar,Madhubani,madhubani_bihar,stunting,51.8,43.3
+Bihar,Madhubani,madhubani_bihar,wasting,6.3,6
+Bihar,Madhubani,madhubani_bihar,underweight,45.4,36
+Bihar,Madhubani,madhubani_bihar,overweight,2.1,2
+Bihar,Munger,munger_bihar,stunting,46.6,35.5
+Bihar,Munger,munger_bihar,wasting,5.6,9.1
+Bihar,Munger,munger_bihar,underweight,43.7,39.5
+Bihar,Munger,munger_bihar,overweight,1.6,2.4
+Bihar,Muzaffarpur,muzaffarpur_bihar,stunting,47.9,42.6
+Bihar,Muzaffarpur,muzaffarpur_bihar,wasting,5.6,8.1
+Bihar,Muzaffarpur,muzaffarpur_bihar,underweight,42.3,34.7
+Bihar,Muzaffarpur,muzaffarpur_bihar,overweight,0.4,1.9
+Bihar,Nalanda,nalanda_bihar,stunting,54.1,42.6
+Bihar,Nalanda,nalanda_bihar,wasting,6.9,12.1
+Bihar,Nalanda,nalanda_bihar,underweight,50.2,46.7
+Bihar,Nalanda,nalanda_bihar,overweight,0.5,1.8
+Bihar,Nawada,nawada_bihar,stunting,48.4,49.4
+Bihar,Nawada,nawada_bihar,wasting,6.9,9.1
+Bihar,Nawada,nawada_bihar,underweight,45.9,37.3
+Bihar,Nawada,nawada_bihar,overweight,1.4,1.1
+Bihar,Pashchim Champaran,pashchim_champaran_bihar,stunting,43.6,43.5
+Bihar,Pashchim Champaran,pashchim_champaran_bihar,wasting,7.1,5.4
+Bihar,Pashchim Champaran,pashchim_champaran_bihar,underweight,39.1,30.3
+Bihar,Pashchim Champaran,pashchim_champaran_bihar,overweight,1.2,2.4
+Bihar,Patna,patna_bihar,stunting,43.5,34.5
+Bihar,Patna,patna_bihar,wasting,11.5,10.6
+Bihar,Patna,patna_bihar,underweight,43.3,39.6
+Bihar,Patna,patna_bihar,overweight,0.9,1.4
+Bihar,Purba Champaran,purba_champaran_bihar,stunting,47.2,49.1
+Bihar,Purba Champaran,purba_champaran_bihar,wasting,4.8,5.7
+Bihar,Purba Champaran,purba_champaran_bihar,underweight,40.8,37.9
+Bihar,Purba Champaran,purba_champaran_bihar,overweight,0.8,3.8
+Bihar,Purnia,purnia_bihar,stunting,52.1,43.5
+Bihar,Purnia,purnia_bihar,wasting,5.7,8
+Bihar,Purnia,purnia_bihar,underweight,47,47.1
+Bihar,Purnia,purnia_bihar,overweight,2.1,0.8
+Bihar,Rohtas,rohtas_bihar,stunting,48.5,40
+Bihar,Rohtas,rohtas_bihar,wasting,6.7,18
+Bihar,Rohtas,rohtas_bihar,underweight,45.1,48.2
+Bihar,Rohtas,rohtas_bihar,overweight,0.9,2.5
+Bihar,Saharsa,saharsa_bihar,stunting,43.9,47.8
+Bihar,Saharsa,saharsa_bihar,wasting,10.5,8.3
+Bihar,Saharsa,saharsa_bihar,underweight,44.4,42.7
+Bihar,Saharsa,saharsa_bihar,overweight,0.9,1.9
+Bihar,Samastipur,samastipur_bihar,stunting,49.2,44
+Bihar,Samastipur,samastipur_bihar,wasting,6.1,7.9
+Bihar,Samastipur,samastipur_bihar,underweight,41.3,42.8
+Bihar,Samastipur,samastipur_bihar,overweight,0.7,1.7
+Bihar,Saran,saran_bihar,stunting,46.1,39.7
+Bihar,Saran,saran_bihar,wasting,4.6,10
+Bihar,Saran,saran_bihar,underweight,40.4,45
+Bihar,Saran,saran_bihar,overweight,1.5,2
+Bihar,Sheikhpura,sheikhpura_bihar,stunting,46.4,53.6
+Bihar,Sheikhpura,sheikhpura_bihar,wasting,10.8,7.7
+Bihar,Sheikhpura,sheikhpura_bihar,underweight,51.7,37.6
+Bihar,Sheikhpura,sheikhpura_bihar,overweight,0.8,5.6
+Bihar,Sheohar,sheohar_bihar,stunting,53,34.4
+Bihar,Sheohar,sheohar_bihar,wasting,4.3,21.4
+Bihar,Sheohar,sheohar_bihar,underweight,42.8,42.2
+Bihar,Sheohar,sheohar_bihar,overweight,0.8,3.4
+Bihar,Sitamarhi,sitamarhi_bihar,stunting,57.3,54.2
+Bihar,Sitamarhi,sitamarhi_bihar,wasting,4.6,4.7
+Bihar,Sitamarhi,sitamarhi_bihar,underweight,47.7,40.8
+Bihar,Sitamarhi,sitamarhi_bihar,overweight,1,2.2
+Bihar,Siwan,siwan_bihar,stunting,37.9,36.7
+Bihar,Siwan,siwan_bihar,wasting,6,5.8
+Bihar,Siwan,siwan_bihar,underweight,31.6,30.8
+Bihar,Siwan,siwan_bihar,overweight,1.9,3.1
+Bihar,Supaul,supaul_bihar,stunting,48.1,42.3
+Bihar,Supaul,supaul_bihar,wasting,7.2,8.2
+Bihar,Supaul,supaul_bihar,underweight,43.4,45
+Bihar,Supaul,supaul_bihar,overweight,1.7,1.4
+Bihar,Vaishali,vaishali_bihar,stunting,53.7,38.3
+Bihar,Vaishali,vaishali_bihar,wasting,4.9,6.5
+Bihar,Vaishali,vaishali_bihar,underweight,41.3,38.4
+Bihar,Vaishali,vaishali_bihar,overweight,1.1,3.8
+Chhattisgarh,Balod,balod_chhattisgarh,stunting,37.6,33.6
+Chhattisgarh,Balod,balod_chhattisgarh,wasting,8.4,8
+Chhattisgarh,Balod,balod_chhattisgarh,underweight,37.7,36
+Chhattisgarh,Balod,balod_chhattisgarh,overweight,2.9,7.7
+Chhattisgarh,Baloda Bazar,baloda_bazar_chhattisgarh,stunting,37.6,40.9
+Chhattisgarh,Baloda Bazar,baloda_bazar_chhattisgarh,wasting,8.4,9.4
+Chhattisgarh,Baloda Bazar,baloda_bazar_chhattisgarh,underweight,37.7,34.1
+Chhattisgarh,Baloda Bazar,baloda_bazar_chhattisgarh,overweight,2.9,7.3
+Chhattisgarh,Balrampur,balrampur_chhattisgarh,stunting,37.6,35.1
+Chhattisgarh,Balrampur,balrampur_chhattisgarh,wasting,8.4,7.9
+Chhattisgarh,Balrampur,balrampur_chhattisgarh,underweight,37.7,38.8
+Chhattisgarh,Balrampur,balrampur_chhattisgarh,overweight,2.9,1.6
+Chhattisgarh,Bastar,bastar_chhattisgarh,stunting,37.6,48.1
+Chhattisgarh,Bastar,bastar_chhattisgarh,wasting,8.4,9.1
+Chhattisgarh,Bastar,bastar_chhattisgarh,underweight,37.7,45.2
+Chhattisgarh,Bastar,bastar_chhattisgarh,overweight,2.9,5.2
+Chhattisgarh,Bemetara,bemetara_chhattisgarh,stunting,37.6,38.4
+Chhattisgarh,Bemetara,bemetara_chhattisgarh,wasting,8.4,3.9
+Chhattisgarh,Bemetara,bemetara_chhattisgarh,underweight,37.7,27.6
+Chhattisgarh,Bemetara,bemetara_chhattisgarh,overweight,2.9,4.1
+Chhattisgarh,Bijapur,bijapur_chhattisgarh,stunting,48.2,53.8
+Chhattisgarh,Bijapur,bijapur_chhattisgarh,wasting,13.8,8
+Chhattisgarh,Bijapur,bijapur_chhattisgarh,underweight,47.2,46.1
+Chhattisgarh,Bijapur,bijapur_chhattisgarh,overweight,7.8,3.9
+Chhattisgarh,Bilaspur,bilaspur_chhattisgarh,stunting,37.6,25.7
+Chhattisgarh,Bilaspur,bilaspur_chhattisgarh,wasting,8.4,10.9
+Chhattisgarh,Bilaspur,bilaspur_chhattisgarh,underweight,37.7,28
+Chhattisgarh,Bilaspur,bilaspur_chhattisgarh,overweight,2.9,4.4
+Chhattisgarh,Dantewada,dantewada_chhattisgarh,stunting,37.6,45.6
+Chhattisgarh,Dantewada,dantewada_chhattisgarh,wasting,8.4,9.6
+Chhattisgarh,Dantewada,dantewada_chhattisgarh,underweight,37.7,45.8
+Chhattisgarh,Dantewada,dantewada_chhattisgarh,overweight,2.9,9.8
+Chhattisgarh,Dhamtari,dhamtari_chhattisgarh,stunting,34.2,30.5
+Chhattisgarh,Dhamtari,dhamtari_chhattisgarh,wasting,9.9,6
+Chhattisgarh,Dhamtari,dhamtari_chhattisgarh,underweight,40.2,28.9
+Chhattisgarh,Dhamtari,dhamtari_chhattisgarh,overweight,0.9,2.7
+Chhattisgarh,Durg,durg_chhattisgarh,stunting,37.6,38.9
+Chhattisgarh,Durg,durg_chhattisgarh,wasting,8.4,10.1
+Chhattisgarh,Durg,durg_chhattisgarh,underweight,37.7,27.7
+Chhattisgarh,Durg,durg_chhattisgarh,overweight,2.9,3
+Chhattisgarh,Gariyaband,gariyaband_chhattisgarh,stunting,37.6,28.9
+Chhattisgarh,Gariyaband,gariyaband_chhattisgarh,wasting,8.4,10.6
+Chhattisgarh,Gariyaband,gariyaband_chhattisgarh,underweight,37.7,22.1
+Chhattisgarh,Gariyaband,gariyaband_chhattisgarh,overweight,2.9,13.5
+Chhattisgarh,Janjgir - Champa,janjgir_champa_chhattisgarh,stunting,36.8,32.5
+Chhattisgarh,Janjgir - Champa,janjgir_champa_chhattisgarh,wasting,7.3,12
+Chhattisgarh,Janjgir - Champa,janjgir_champa_chhattisgarh,underweight,34.7,30.2
+Chhattisgarh,Janjgir - Champa,janjgir_champa_chhattisgarh,overweight,3.5,6.6
+Chhattisgarh,Jashpur,jashpur_chhattisgarh,stunting,35.1,35.8
+Chhattisgarh,Jashpur,jashpur_chhattisgarh,wasting,4.8,3.9
+Chhattisgarh,Jashpur,jashpur_chhattisgarh,underweight,35.2,33.6
+Chhattisgarh,Jashpur,jashpur_chhattisgarh,overweight,1.3,1
+Chhattisgarh,Kabeerdham,kabeerdham_chhattisgarh,stunting,40.4,37.9
+Chhattisgarh,Kabeerdham,kabeerdham_chhattisgarh,wasting,4.3,3.1
+Chhattisgarh,Kabeerdham,kabeerdham_chhattisgarh,underweight,38.4,27.3
+Chhattisgarh,Kabeerdham,kabeerdham_chhattisgarh,overweight,1,6
+Chhattisgarh,Kodagaon,kodagaon_chhattisgarh,stunting,37.6,37.6
+Chhattisgarh,Kodagaon,kodagaon_chhattisgarh,wasting,8.4,8.8
+Chhattisgarh,Kodagaon,kodagaon_chhattisgarh,underweight,37.7,42.2
+Chhattisgarh,Kodagaon,kodagaon_chhattisgarh,overweight,2.9,5.5
+Chhattisgarh,Korba,korba_chhattisgarh,stunting,33.2,34.7
+Chhattisgarh,Korba,korba_chhattisgarh,wasting,6.6,8
+Chhattisgarh,Korba,korba_chhattisgarh,underweight,36.6,27.9
+Chhattisgarh,Korba,korba_chhattisgarh,overweight,0,6.3
+Chhattisgarh,Koriya,koriya_chhattisgarh,stunting,30.6,32.1
+Chhattisgarh,Koriya,koriya_chhattisgarh,wasting,10.2,4.7
+Chhattisgarh,Koriya,koriya_chhattisgarh,underweight,34.5,31.8
+Chhattisgarh,Koriya,koriya_chhattisgarh,overweight,1.4,0.3
+Chhattisgarh,Mahasamund,mahasamund_chhattisgarh,stunting,43.7,36.8
+Chhattisgarh,Mahasamund,mahasamund_chhattisgarh,wasting,5.8,3.6
+Chhattisgarh,Mahasamund,mahasamund_chhattisgarh,underweight,38.1,25.8
+Chhattisgarh,Mahasamund,mahasamund_chhattisgarh,overweight,1.7,3.4
+Chhattisgarh,Mungeli,mungeli_chhattisgarh,stunting,37.6,30.1
+Chhattisgarh,Mungeli,mungeli_chhattisgarh,wasting,8.4,5
+Chhattisgarh,Mungeli,mungeli_chhattisgarh,underweight,37.7,30.6
+Chhattisgarh,Mungeli,mungeli_chhattisgarh,overweight,2.9,2.1
+Chhattisgarh,Narayanpur,narayanpur_chhattisgarh,stunting,49,43.7
+Chhattisgarh,Narayanpur,narayanpur_chhattisgarh,wasting,16.2,8.3
+Chhattisgarh,Narayanpur,narayanpur_chhattisgarh,underweight,49.2,39.5
+Chhattisgarh,Narayanpur,narayanpur_chhattisgarh,overweight,7.7,6.3
+Chhattisgarh,Raigarh,raigarh_chhattisgarh,stunting,39.2,39.1
+Chhattisgarh,Raigarh,raigarh_chhattisgarh,wasting,8.1,2.9
+Chhattisgarh,Raigarh,raigarh_chhattisgarh,underweight,37.1,28
+Chhattisgarh,Raigarh,raigarh_chhattisgarh,overweight,0.7,0.6
+Chhattisgarh,Raipur,raipur_chhattisgarh,stunting,37.6,32.2
+Chhattisgarh,Raipur,raipur_chhattisgarh,wasting,8.4,10.3
+Chhattisgarh,Raipur,raipur_chhattisgarh,underweight,37.7,32.3
+Chhattisgarh,Raipur,raipur_chhattisgarh,overweight,2.9,5.6
+Chhattisgarh,Rajnandgaon,rajnandgaon_chhattisgarh,stunting,48.8,27.6
+Chhattisgarh,Rajnandgaon,rajnandgaon_chhattisgarh,wasting,6.2,6.5
+Chhattisgarh,Rajnandgaon,rajnandgaon_chhattisgarh,underweight,36.6,31
+Chhattisgarh,Rajnandgaon,rajnandgaon_chhattisgarh,overweight,11.1,2.2
+Chhattisgarh,Sukma,sukma_chhattisgarh,stunting,37.6,41.8
+Chhattisgarh,Sukma,sukma_chhattisgarh,wasting,8.4,9.9
+Chhattisgarh,Sukma,sukma_chhattisgarh,underweight,37.7,37.4
+Chhattisgarh,Sukma,sukma_chhattisgarh,overweight,2.9,6.5
+Chhattisgarh,Surajpur,surajpur_chhattisgarh,stunting,37.6,27.6
+Chhattisgarh,Surajpur,surajpur_chhattisgarh,wasting,8.4,5.8
+Chhattisgarh,Surajpur,surajpur_chhattisgarh,underweight,37.7,32.3
+Chhattisgarh,Surajpur,surajpur_chhattisgarh,overweight,2.9,0.4
+Chhattisgarh,Surguja,surguja_chhattisgarh,stunting,37.6,29.4
+Chhattisgarh,Surguja,surguja_chhattisgarh,wasting,8.4,7.6
+Chhattisgarh,Surguja,surguja_chhattisgarh,underweight,37.7,30.6
+Chhattisgarh,Surguja,surguja_chhattisgarh,overweight,2.9,1.3
+Chhattisgarh,Uttar Bastar Kanker,uttar_bastar_kanker_chhattisgarh,stunting,36.3,24.8
+Chhattisgarh,Uttar Bastar Kanker,uttar_bastar_kanker_chhattisgarh,wasting,10.1,15.7
+Chhattisgarh,Uttar Bastar Kanker,uttar_bastar_kanker_chhattisgarh,underweight,49.9,36.1
+Chhattisgarh,Uttar Bastar Kanker,uttar_bastar_kanker_chhattisgarh,overweight,0.8,2.6
+Dadra & Nagar Haveli And Daman & Diu,Dadra & Nagar Haveli,dadra_nagar_haveli_dadra_nagar_haveli_and_daman_diu,stunting,41.7,42.4
+Dadra & Nagar Haveli And Daman & Diu,Dadra & Nagar Haveli,dadra_nagar_haveli_dadra_nagar_haveli_and_daman_diu,wasting,11.4,3.3
+Dadra & Nagar Haveli And Daman & Diu,Dadra & Nagar Haveli,dadra_nagar_haveli_dadra_nagar_haveli_and_daman_diu,underweight,38.9,42.1
+Dadra & Nagar Haveli And Daman & Diu,Dadra & Nagar Haveli,dadra_nagar_haveli_dadra_nagar_haveli_and_daman_diu,overweight,4.5,1.5
+Dadra & Nagar Haveli And Daman & Diu,Daman,daman_dadra_nagar_haveli_and_daman_diu,stunting,18.9,30
+Dadra & Nagar Haveli And Daman & Diu,Daman,daman_dadra_nagar_haveli_and_daman_diu,wasting,14,7.9
+Dadra & Nagar Haveli And Daman & Diu,Daman,daman_dadra_nagar_haveli_and_daman_diu,underweight,25.2,29.3
+Dadra & Nagar Haveli And Daman & Diu,Daman,daman_dadra_nagar_haveli_and_daman_diu,overweight,2.5,1.4
+Dadra & Nagar Haveli And Daman & Diu,Diu,diu_dadra_nagar_haveli_and_daman_diu,stunting,37.3,33.9
+Dadra & Nagar Haveli And Daman & Diu,Diu,diu_dadra_nagar_haveli_and_daman_diu,wasting,5.7,3.8
+Dadra & Nagar Haveli And Daman & Diu,Diu,diu_dadra_nagar_haveli_and_daman_diu,underweight,31.1,28.5
+Dadra & Nagar Haveli And Daman & Diu,Diu,diu_dadra_nagar_haveli_and_daman_diu,overweight,0.7,8.2
+NCT Delhi,Central,central_nct_delhi,stunting,31.9,33.5
+NCT Delhi,Central,central_nct_delhi,wasting,4.6,7
+NCT Delhi,Central,central_nct_delhi,underweight,27,25.5
+NCT Delhi,Central,central_nct_delhi,overweight,1.2,4.1
+NCT Delhi,East,east_nct_delhi,stunting,31.9,35.2
+NCT Delhi,East,east_nct_delhi,wasting,4.6,4.3
+NCT Delhi,East,east_nct_delhi,underweight,27,29.9
+NCT Delhi,East,east_nct_delhi,overweight,1.2,6.1
+NCT Delhi,New Delhi,new_delhi_nct_delhi,stunting,31.9,27.4
+NCT Delhi,New Delhi,new_delhi_nct_delhi,wasting,4.6,2.9
+NCT Delhi,New Delhi,new_delhi_nct_delhi,underweight,27,20.7
+NCT Delhi,New Delhi,new_delhi_nct_delhi,overweight,1.2,3.7
+NCT Delhi,North,north_nct_delhi,stunting,31.9,25
+NCT Delhi,North,north_nct_delhi,wasting,4.6,3.8
+NCT Delhi,North,north_nct_delhi,underweight,27,17.4
+NCT Delhi,North,north_nct_delhi,overweight,1.2,2.9
+NCT Delhi,North East,north_east_nct_delhi,stunting,31.9,38.7
+NCT Delhi,North East,north_east_nct_delhi,wasting,4.6,3.8
+NCT Delhi,North East,north_east_nct_delhi,underweight,27,21.8
+NCT Delhi,North East,north_east_nct_delhi,overweight,1.2,6.2
+NCT Delhi,North West,north_west_nct_delhi,stunting,31.9,26.9
+NCT Delhi,North West,north_west_nct_delhi,wasting,4.6,5.9
+NCT Delhi,North West,north_west_nct_delhi,underweight,27,22.8
+NCT Delhi,North West,north_west_nct_delhi,overweight,1.2,3.2
+NCT Delhi,Shahdara,shahdara_nct_delhi,stunting,31.9,32.9
+NCT Delhi,Shahdara,shahdara_nct_delhi,wasting,4.6,11.5
+NCT Delhi,Shahdara,shahdara_nct_delhi,underweight,27,30.2
+NCT Delhi,Shahdara,shahdara_nct_delhi,overweight,1.2,3.7
+NCT Delhi,South,south_nct_delhi,stunting,31.9,33.4
+NCT Delhi,South,south_nct_delhi,wasting,4.6,1.7
+NCT Delhi,South,south_nct_delhi,underweight,27,18.9
+NCT Delhi,South,south_nct_delhi,overweight,1.2,7.1
+NCT Delhi,South East,south_east_nct_delhi,stunting,31.9,21.7
+NCT Delhi,South East,south_east_nct_delhi,wasting,4.6,7.1
+NCT Delhi,South East,south_east_nct_delhi,underweight,27,20.4
+NCT Delhi,South East,south_east_nct_delhi,overweight,1.2,4.6
+NCT Delhi,South West,south_west_nct_delhi,stunting,31.9,27.1
+NCT Delhi,South West,south_west_nct_delhi,wasting,4.6,3.4
+NCT Delhi,South West,south_west_nct_delhi,underweight,27,16.8
+NCT Delhi,South West,south_west_nct_delhi,overweight,1.2,4.7
+NCT Delhi,West,west_nct_delhi,stunting,31.9,36.1
+NCT Delhi,West,west_nct_delhi,wasting,4.6,3.5
+NCT Delhi,West,west_nct_delhi,underweight,27,19
+NCT Delhi,West,west_nct_delhi,overweight,1.2,2.1
+Goa,North Goa,north_goa_goa,stunting,21.4,24.2
+Goa,North Goa,north_goa_goa,wasting,7.2,7.3
+Goa,North Goa,north_goa_goa,underweight,23.8,25.8
+Goa,North Goa,north_goa_goa,overweight,3.9,2.7
+Goa,South Goa,south_goa_goa,stunting,18.3,28.3
+Goa,South Goa,south_goa_goa,wasting,12.5,8
+Goa,South Goa,south_goa_goa,underweight,23.9,21
+Goa,South Goa,south_goa_goa,overweight,3.5,2.8
+Gujarat,Ahmedabad,ahmedabad_gujarat,stunting,38.5,35.5
+Gujarat,Ahmedabad,ahmedabad_gujarat,wasting,9.5,7.4
+Gujarat,Ahmedabad,ahmedabad_gujarat,underweight,39.3,34
+Gujarat,Ahmedabad,ahmedabad_gujarat,overweight,1.9,4.6
+Gujarat,Amreli,amreli_gujarat,stunting,37.8,35.3
+Gujarat,Amreli,amreli_gujarat,wasting,6.4,7.2
+Gujarat,Amreli,amreli_gujarat,underweight,31.7,30.6
+Gujarat,Amreli,amreli_gujarat,overweight,0.5,6.8
+Gujarat,Anand,anand_gujarat,stunting,48.2,38.4
+Gujarat,Anand,anand_gujarat,wasting,7.4,10.9
+Gujarat,Anand,anand_gujarat,underweight,41.3,46.6
+Gujarat,Anand,anand_gujarat,overweight,0.7,3.8
+Gujarat,Aravali,aravali_gujarat,stunting,38.5,47.1
+Gujarat,Aravali,aravali_gujarat,wasting,9.5,9.3
+Gujarat,Aravali,aravali_gujarat,underweight,39.3,47.2
+Gujarat,Aravali,aravali_gujarat,overweight,1.9,3.3
+Gujarat,Banaskantha,banaskantha_gujarat,stunting,40.7,39
+Gujarat,Banaskantha,banaskantha_gujarat,wasting,8.5,8.5
+Gujarat,Banaskantha,banaskantha_gujarat,underweight,43.1,44.1
+Gujarat,Banaskantha,banaskantha_gujarat,overweight,0.7,1.2
+Gujarat,Bharuch,bharuch_gujarat,stunting,41.5,40.9
+Gujarat,Bharuch,bharuch_gujarat,wasting,7.6,8
+Gujarat,Bharuch,bharuch_gujarat,underweight,44.2,45.5
+Gujarat,Bharuch,bharuch_gujarat,overweight,0,4.7
+Gujarat,Bhavnagar,bhavnagar_gujarat,stunting,38.5,32.6
+Gujarat,Bhavnagar,bhavnagar_gujarat,wasting,9.5,6.3
+Gujarat,Bhavnagar,bhavnagar_gujarat,underweight,39.3,39.5
+Gujarat,Bhavnagar,bhavnagar_gujarat,overweight,1.9,1.8
+Gujarat,Botad,botad_gujarat,stunting,38.5,32.2
+Gujarat,Botad,botad_gujarat,wasting,9.5,9.6
+Gujarat,Botad,botad_gujarat,underweight,39.3,32.3
+Gujarat,Botad,botad_gujarat,overweight,1.9,5.8
+Gujarat,Chhota Udaipur,chhota_udaipur_gujarat,stunting,38.5,48.6
+Gujarat,Chhota Udaipur,chhota_udaipur_gujarat,wasting,9.5,13.8
+Gujarat,Chhota Udaipur,chhota_udaipur_gujarat,underweight,39.3,48.1
+Gujarat,Chhota Udaipur,chhota_udaipur_gujarat,overweight,1.9,4.8
+Gujarat,Dahod,dahod_gujarat,stunting,44.4,55.3
+Gujarat,Dahod,dahod_gujarat,wasting,7.8,13.4
+Gujarat,Dahod,dahod_gujarat,underweight,50.8,53
+Gujarat,Dahod,dahod_gujarat,overweight,0.5,5.8
+Gujarat,Devbhumi Dwarka,devbhumi_dwarka_gujarat,stunting,38.5,30.2
+Gujarat,Devbhumi Dwarka,devbhumi_dwarka_gujarat,wasting,9.5,17.2
+Gujarat,Devbhumi Dwarka,devbhumi_dwarka_gujarat,underweight,39.3,36.2
+Gujarat,Devbhumi Dwarka,devbhumi_dwarka_gujarat,overweight,1.9,4.9
+Gujarat,Gandhinagar,gandhinagar_gujarat,stunting,36.5,38.1
+Gujarat,Gandhinagar,gandhinagar_gujarat,wasting,10.2,9.9
+Gujarat,Gandhinagar,gandhinagar_gujarat,underweight,42.7,44.6
+Gujarat,Gandhinagar,gandhinagar_gujarat,overweight,0.3,0.5
+Gujarat,Gir Somnath,gir_somnath_gujarat,stunting,38.5,44.4
+Gujarat,Gir Somnath,gir_somnath_gujarat,wasting,9.5,4.9
+Gujarat,Gir Somnath,gir_somnath_gujarat,underweight,39.3,30.3
+Gujarat,Gir Somnath,gir_somnath_gujarat,overweight,1.9,5
+Gujarat,Jamnagar,jamnagar_gujarat,stunting,38.5,28.4
+Gujarat,Jamnagar,jamnagar_gujarat,wasting,9.5,12.5
+Gujarat,Jamnagar,jamnagar_gujarat,underweight,39.3,28.9
+Gujarat,Jamnagar,jamnagar_gujarat,overweight,1.9,3.6
+Gujarat,Junagadh,junagadh_gujarat,stunting,38.5,37.3
+Gujarat,Junagadh,junagadh_gujarat,wasting,9.5,7.1
+Gujarat,Junagadh,junagadh_gujarat,underweight,39.3,26.4
+Gujarat,Junagadh,junagadh_gujarat,overweight,1.9,4.4
+Gujarat,Kachchh,kachchh_gujarat,stunting,40.8,37.5
+Gujarat,Kachchh,kachchh_gujarat,wasting,15.5,10.6
+Gujarat,Kachchh,kachchh_gujarat,underweight,39,33.4
+Gujarat,Kachchh,kachchh_gujarat,overweight,1.6,2.6
+Gujarat,Kheda,kheda_gujarat,stunting,38.5,37.3
+Gujarat,Kheda,kheda_gujarat,wasting,9.5,12.1
+Gujarat,Kheda,kheda_gujarat,underweight,39.3,39.5
+Gujarat,Kheda,kheda_gujarat,overweight,1.9,2.5
+Gujarat,Mahesana,mahesana_gujarat,stunting,40.5,31
+Gujarat,Mahesana,mahesana_gujarat,wasting,11.6,12
+Gujarat,Mahesana,mahesana_gujarat,underweight,41.9,41.4
+Gujarat,Mahesana,mahesana_gujarat,overweight,1.3,1.5
+Gujarat,Mahisagar,mahisagar_gujarat,stunting,38.5,43.4
+Gujarat,Mahisagar,mahisagar_gujarat,wasting,9.5,12
+Gujarat,Mahisagar,mahisagar_gujarat,underweight,39.3,49
+Gujarat,Mahisagar,mahisagar_gujarat,overweight,1.9,2.6
+Gujarat,Morbi,morbi_gujarat,stunting,38.5,32.9
+Gujarat,Morbi,morbi_gujarat,wasting,9.5,12.5
+Gujarat,Morbi,morbi_gujarat,underweight,39.3,32.3
+Gujarat,Morbi,morbi_gujarat,overweight,1.9,4
+Gujarat,Narmada,narmada_gujarat,stunting,47.4,47.2
+Gujarat,Narmada,narmada_gujarat,wasting,12.7,9.9
+Gujarat,Narmada,narmada_gujarat,underweight,53.6,52.8
+Gujarat,Narmada,narmada_gujarat,overweight,1,3.1
+Gujarat,Navsari,navsari_gujarat,stunting,38.9,36.8
+Gujarat,Navsari,navsari_gujarat,wasting,5.7,9.3
+Gujarat,Navsari,navsari_gujarat,underweight,37.4,43.6
+Gujarat,Navsari,navsari_gujarat,overweight,0,3.4
+Gujarat,Panchmahal,panchmahal_gujarat,stunting,38.5,47.1
+Gujarat,Panchmahal,panchmahal_gujarat,wasting,9.5,19.7
+Gujarat,Panchmahal,panchmahal_gujarat,underweight,39.3,51.9
+Gujarat,Panchmahal,panchmahal_gujarat,overweight,1.9,3.4
+Gujarat,Patan,patan_gujarat,stunting,37.6,50.5
+Gujarat,Patan,patan_gujarat,wasting,9.2,6.5
+Gujarat,Patan,patan_gujarat,underweight,38.4,42.3
+Gujarat,Patan,patan_gujarat,overweight,1.2,3.1
+Gujarat,Porbandar,porbandar_gujarat,stunting,22.6,18.2
+Gujarat,Porbandar,porbandar_gujarat,wasting,10.6,14.2
+Gujarat,Porbandar,porbandar_gujarat,underweight,27.7,25.5
+Gujarat,Porbandar,porbandar_gujarat,overweight,2.3,3.9
+Gujarat,Rajkot,rajkot_gujarat,stunting,38.5,38.9
+Gujarat,Rajkot,rajkot_gujarat,wasting,9.5,7.3
+Gujarat,Rajkot,rajkot_gujarat,underweight,39.3,37
+Gujarat,Rajkot,rajkot_gujarat,overweight,1.9,8.1
+Gujarat,Sabarkantha,sabarkantha_gujarat,stunting,38.5,37
+Gujarat,Sabarkantha,sabarkantha_gujarat,wasting,9.5,16.6
+Gujarat,Sabarkantha,sabarkantha_gujarat,underweight,39.3,41
+Gujarat,Sabarkantha,sabarkantha_gujarat,overweight,1.9,4.9
+Gujarat,Surat,surat_gujarat,stunting,30,36.1
+Gujarat,Surat,surat_gujarat,wasting,8.1,14.7
+Gujarat,Surat,surat_gujarat,underweight,36.1,32.5
+Gujarat,Surat,surat_gujarat,overweight,2.9,5.3
+Gujarat,Surendranagar,surendranagar_gujarat,stunting,38.5,39.2
+Gujarat,Surendranagar,surendranagar_gujarat,wasting,9.5,8.8
+Gujarat,Surendranagar,surendranagar_gujarat,underweight,39.3,41.8
+Gujarat,Surendranagar,surendranagar_gujarat,overweight,1.9,5.2
+Gujarat,Tapi,tapi_gujarat,stunting,35.9,41.7
+Gujarat,Tapi,tapi_gujarat,wasting,9.6,17.1
+Gujarat,Tapi,tapi_gujarat,underweight,42.4,51.8
+Gujarat,Tapi,tapi_gujarat,overweight,1.2,1.9
+Gujarat,The Dangs,the_dangs_gujarat,stunting,48.1,37.6
+Gujarat,The Dangs,the_dangs_gujarat,wasting,18.9,22.2
+Gujarat,The Dangs,the_dangs_gujarat,underweight,60,53.1
+Gujarat,The Dangs,the_dangs_gujarat,overweight,2.3,1.1
+Gujarat,Vadodara,vadodara_gujarat,stunting,38.5,42.3
+Gujarat,Vadodara,vadodara_gujarat,wasting,9.5,5.2
+Gujarat,Vadodara,vadodara_gujarat,underweight,39.3,39.9
+Gujarat,Vadodara,vadodara_gujarat,overweight,1.9,6.4
+Gujarat,Valsad,valsad_gujarat,stunting,43.3,37.8
+Gujarat,Valsad,valsad_gujarat,wasting,11.9,9.1
+Gujarat,Valsad,valsad_gujarat,underweight,41.9,34.8
+Gujarat,Valsad,valsad_gujarat,overweight,3.9,0.3
+Himachal Pradesh,Bilaspur,bilaspur_himachal_pradesh,stunting,27.2,40.1
+Himachal Pradesh,Bilaspur,bilaspur_himachal_pradesh,wasting,4.5,2.8
+Himachal Pradesh,Bilaspur,bilaspur_himachal_pradesh,underweight,23.4,38.8
+Himachal Pradesh,Bilaspur,bilaspur_himachal_pradesh,overweight,1.6,5
+Himachal Pradesh,Chamba,chamba_himachal_pradesh,stunting,29.9,42.6
+Himachal Pradesh,Chamba,chamba_himachal_pradesh,wasting,4.8,5.8
+Himachal Pradesh,Chamba,chamba_himachal_pradesh,underweight,22.5,26
+Himachal Pradesh,Chamba,chamba_himachal_pradesh,overweight,2.4,9
+Himachal Pradesh,Hamirpur,hamirpur_himachal_pradesh,stunting,29.3,27.3
+Himachal Pradesh,Hamirpur,hamirpur_himachal_pradesh,wasting,5,4.9
+Himachal Pradesh,Hamirpur,hamirpur_himachal_pradesh,underweight,19.4,23.6
+Himachal Pradesh,Hamirpur,hamirpur_himachal_pradesh,overweight,3.3,0.8
+Himachal Pradesh,Kangra,kangra_himachal_pradesh,stunting,25.6,28
+Himachal Pradesh,Kangra,kangra_himachal_pradesh,wasting,2.4,7.7
+Himachal Pradesh,Kangra,kangra_himachal_pradesh,underweight,23.3,32
+Himachal Pradesh,Kangra,kangra_himachal_pradesh,overweight,1,2.3
+Himachal Pradesh,Kinnaur,kinnaur_himachal_pradesh,stunting,18.4,32.2
+Himachal Pradesh,Kinnaur,kinnaur_himachal_pradesh,wasting,5.4,4.3
+Himachal Pradesh,Kinnaur,kinnaur_himachal_pradesh,underweight,15.9,18.9
+Himachal Pradesh,Kinnaur,kinnaur_himachal_pradesh,overweight,2.4,9
+Himachal Pradesh,Kullu,kullu_himachal_pradesh,stunting,19,35.9
+Himachal Pradesh,Kullu,kullu_himachal_pradesh,wasting,5.4,5.8
+Himachal Pradesh,Kullu,kullu_himachal_pradesh,underweight,11,25.6
+Himachal Pradesh,Kullu,kullu_himachal_pradesh,overweight,2.5,11.2
+Himachal Pradesh,Lahul & Spiti,lahul_spiti_himachal_pradesh,stunting,23,28.5
+Himachal Pradesh,Lahul & Spiti,lahul_spiti_himachal_pradesh,wasting,7.3,10.3
+Himachal Pradesh,Lahul & Spiti,lahul_spiti_himachal_pradesh,underweight,16.1,18.4
+Himachal Pradesh,Lahul & Spiti,lahul_spiti_himachal_pradesh,overweight,5,7.4
+Himachal Pradesh,Mandi,mandi_himachal_pradesh,stunting,26.3,31.3
+Himachal Pradesh,Mandi,mandi_himachal_pradesh,wasting,4.5,8
+Himachal Pradesh,Mandi,mandi_himachal_pradesh,underweight,16.2,21.3
+Himachal Pradesh,Mandi,mandi_himachal_pradesh,overweight,2.4,7
+Himachal Pradesh,Shimla,shimla_himachal_pradesh,stunting,30.3,27.1
+Himachal Pradesh,Shimla,shimla_himachal_pradesh,wasting,2.2,7.8
+Himachal Pradesh,Shimla,shimla_himachal_pradesh,underweight,24.8,14.9
+Himachal Pradesh,Shimla,shimla_himachal_pradesh,overweight,1.7,8.1
+Himachal Pradesh,Sirmaur,sirmaur_himachal_pradesh,stunting,23.5,28.6
+Himachal Pradesh,Sirmaur,sirmaur_himachal_pradesh,wasting,7.1,9.1
+Himachal Pradesh,Sirmaur,sirmaur_himachal_pradesh,underweight,25.3,24.2
+Himachal Pradesh,Sirmaur,sirmaur_himachal_pradesh,overweight,2.6,6.6
+Himachal Pradesh,Solan,solan_himachal_pradesh,stunting,27.6,32.3
+Himachal Pradesh,Solan,solan_himachal_pradesh,wasting,2.9,5.6
+Himachal Pradesh,Solan,solan_himachal_pradesh,underweight,29.4,26.7
+Himachal Pradesh,Solan,solan_himachal_pradesh,overweight,1.9,5.7
+Himachal Pradesh,Una,una_himachal_pradesh,stunting,22.6,24.7
+Himachal Pradesh,Una,una_himachal_pradesh,wasting,3.5,5.9
+Himachal Pradesh,Una,una_himachal_pradesh,underweight,14.6,25.8
+Himachal Pradesh,Una,una_himachal_pradesh,overweight,0.8,2.8
+Haryana,Ambala,ambala_haryana,stunting,19.8,24.1
+Haryana,Ambala,ambala_haryana,wasting,18.4,4
+Haryana,Ambala,ambala_haryana,underweight,32.9,13.7
+Haryana,Ambala,ambala_haryana,overweight,1,6.2
+Haryana,Bhiwani,bhiwani_haryana,stunting,34,29
+Haryana,Bhiwani,bhiwani_haryana,wasting,9,1.9
+Haryana,Bhiwani,bhiwani_haryana,underweight,29.4,20.6
+Haryana,Bhiwani,bhiwani_haryana,overweight,3.1,1
+Haryana,Charkhi Dadri,charkhi_dadri_haryana,stunting,34,23.9
+Haryana,Charkhi Dadri,charkhi_dadri_haryana,wasting,9,2.6
+Haryana,Charkhi Dadri,charkhi_dadri_haryana,underweight,29.4,16.9
+Haryana,Charkhi Dadri,charkhi_dadri_haryana,overweight,3.1,1.8
+Haryana,Faridabad,faridabad_haryana,stunting,29.7,28.9
+Haryana,Faridabad,faridabad_haryana,wasting,8.9,3.6
+Haryana,Faridabad,faridabad_haryana,underweight,20.5,19.5
+Haryana,Faridabad,faridabad_haryana,overweight,1.1,2.4
+Haryana,Fatehabad,fatehabad_haryana,stunting,28.5,24.6
+Haryana,Fatehabad,fatehabad_haryana,wasting,8,5.3
+Haryana,Fatehabad,fatehabad_haryana,underweight,30,26.6
+Haryana,Fatehabad,fatehabad_haryana,overweight,1.9,1.1
+Haryana,Gurgaon,gurgaon_haryana,stunting,41.2,22.1
+Haryana,Gurgaon,gurgaon_haryana,wasting,9.5,4.2
+Haryana,Gurgaon,gurgaon_haryana,underweight,30.6,22.2
+Haryana,Gurgaon,gurgaon_haryana,overweight,6.5,2.6
+Haryana,Hisar,hisar_haryana,stunting,25.6,27.8
+Haryana,Hisar,hisar_haryana,wasting,9.3,5.1
+Haryana,Hisar,hisar_haryana,underweight,23.5,21.4
+Haryana,Hisar,hisar_haryana,overweight,5.4,1.8
+Haryana,Jhajjar,jhajjar_haryana,stunting,22.3,15.6
+Haryana,Jhajjar,jhajjar_haryana,wasting,5.5,3.5
+Haryana,Jhajjar,jhajjar_haryana,underweight,21,9.7
+Haryana,Jhajjar,jhajjar_haryana,overweight,2,6.3
+Haryana,Jind,jind_haryana,stunting,26,25.5
+Haryana,Jind,jind_haryana,wasting,14,1.6
+Haryana,Jind,jind_haryana,underweight,29.3,22.9
+Haryana,Jind,jind_haryana,overweight,1.6,2.5
+Haryana,Kaithal,kaithal_haryana,stunting,33.6,29.9
+Haryana,Kaithal,kaithal_haryana,wasting,10.2,9.5
+Haryana,Kaithal,kaithal_haryana,underweight,37.5,29.9
+Haryana,Kaithal,kaithal_haryana,overweight,2.6,2.3
+Haryana,Karnal,karnal_haryana,stunting,41,29.2
+Haryana,Karnal,karnal_haryana,wasting,7.1,4.8
+Haryana,Karnal,karnal_haryana,underweight,32.5,20.5
+Haryana,Karnal,karnal_haryana,overweight,3,2.9
+Haryana,Kurukshetra,kurukshetra_haryana,stunting,31.9,24.9
+Haryana,Kurukshetra,kurukshetra_haryana,wasting,11.9,5
+Haryana,Kurukshetra,kurukshetra_haryana,underweight,27.1,22.5
+Haryana,Kurukshetra,kurukshetra_haryana,overweight,8.6,7
+Haryana,Mahendragarh,mahendragarh_haryana,stunting,23.5,25.2
+Haryana,Mahendragarh,mahendragarh_haryana,wasting,6.8,2.1
+Haryana,Mahendragarh,mahendragarh_haryana,underweight,26.1,15.4
+Haryana,Mahendragarh,mahendragarh_haryana,overweight,1.2,5
+Haryana,Mewat,mewat_haryana,stunting,52.2,44.4
+Haryana,Mewat,mewat_haryana,wasting,7.5,7.1
+Haryana,Mewat,mewat_haryana,underweight,40.2,37.3
+Haryana,Mewat,mewat_haryana,overweight,1.5,3.5
+Haryana,Palwal,palwal_haryana,stunting,34,31
+Haryana,Palwal,palwal_haryana,wasting,10.2,4.2
+Haryana,Palwal,palwal_haryana,underweight,27.5,21
+Haryana,Palwal,palwal_haryana,overweight,4.2,3.7
+Haryana,Panchkula,panchkula_haryana,stunting,21.5,21.8
+Haryana,Panchkula,panchkula_haryana,wasting,13.6,5
+Haryana,Panchkula,panchkula_haryana,underweight,26.2,19.3
+Haryana,Panchkula,panchkula_haryana,overweight,3,3.9
+Haryana,Panipat,panipat_haryana,stunting,44.6,25.1
+Haryana,Panipat,panipat_haryana,wasting,11.8,2.8
+Haryana,Panipat,panipat_haryana,underweight,40.8,18.9
+Haryana,Panipat,panipat_haryana,overweight,2.3,2.4
+Haryana,Rewari,rewari_haryana,stunting,27.8,25.9
+Haryana,Rewari,rewari_haryana,wasting,7,4.2
+Haryana,Rewari,rewari_haryana,underweight,23,20.5
+Haryana,Rewari,rewari_haryana,overweight,2.7,5.4
+Haryana,Rohtak,rohtak_haryana,stunting,36.6,28.9
+Haryana,Rohtak,rohtak_haryana,wasting,4.5,2.9
+Haryana,Rohtak,rohtak_haryana,underweight,25.2,22.1
+Haryana,Rohtak,rohtak_haryana,overweight,2.7,4.1
+Haryana,Sirsa,sirsa_haryana,stunting,34.2,25
+Haryana,Sirsa,sirsa_haryana,wasting,7.2,5.1
+Haryana,Sirsa,sirsa_haryana,underweight,30.1,23.4
+Haryana,Sirsa,sirsa_haryana,overweight,2,0.7
+Haryana,Sonipat,sonipat_haryana,stunting,40.2,23.6
+Haryana,Sonipat,sonipat_haryana,wasting,9.7,5.1
+Haryana,Sonipat,sonipat_haryana,underweight,30.4,12.7
+Haryana,Sonipat,sonipat_haryana,overweight,6.2,3.6
+Haryana,Yamunanagar,yamunanagar_haryana,stunting,30,27.7
+Haryana,Yamunanagar,yamunanagar_haryana,wasting,11.6,4.3
+Haryana,Yamunanagar,yamunanagar_haryana,underweight,31.8,23.1
+Haryana,Yamunanagar,yamunanagar_haryana,overweight,3.8,6.4
+Jharkhand,Bokaro,bokaro_jharkhand,stunting,39.8,36.2
+Jharkhand,Bokaro,bokaro_jharkhand,wasting,17.6,9.5
+Jharkhand,Bokaro,bokaro_jharkhand,underweight,50.8,32.3
+Jharkhand,Bokaro,bokaro_jharkhand,overweight,1,3
+Jharkhand,Chatra,chatra_jharkhand,stunting,49.6,42.2
+Jharkhand,Chatra,chatra_jharkhand,wasting,9.6,3.9
+Jharkhand,Chatra,chatra_jharkhand,underweight,51.3,39.8
+Jharkhand,Chatra,chatra_jharkhand,overweight,1.3,1.3
+Jharkhand,Deoghar,deoghar_jharkhand,stunting,44.8,41.7
+Jharkhand,Deoghar,deoghar_jharkhand,wasting,5.8,6.2
+Jharkhand,Deoghar,deoghar_jharkhand,underweight,46,36.9
+Jharkhand,Deoghar,deoghar_jharkhand,overweight,1.2,1.9
+Jharkhand,Dhanbad,dhanbad_jharkhand,stunting,38.5,27
+Jharkhand,Dhanbad,dhanbad_jharkhand,wasting,11.5,5.2
+Jharkhand,Dhanbad,dhanbad_jharkhand,underweight,42.6,25.1
+Jharkhand,Dhanbad,dhanbad_jharkhand,overweight,2.5,4.1
+Jharkhand,Dumka,dumka_jharkhand,stunting,43.8,38.2
+Jharkhand,Dumka,dumka_jharkhand,wasting,21.8,11
+Jharkhand,Dumka,dumka_jharkhand,underweight,53.5,44.9
+Jharkhand,Dumka,dumka_jharkhand,overweight,0.9,2
+Jharkhand,Garhwa,garhwa_jharkhand,stunting,45.6,47.7
+Jharkhand,Garhwa,garhwa_jharkhand,wasting,11.9,5.3
+Jharkhand,Garhwa,garhwa_jharkhand,underweight,50.7,40.6
+Jharkhand,Garhwa,garhwa_jharkhand,overweight,0.5,0.5
+Jharkhand,Giridih,giridih_jharkhand,stunting,45.8,31.9
+Jharkhand,Giridih,giridih_jharkhand,wasting,10.3,14.5
+Jharkhand,Giridih,giridih_jharkhand,underweight,40.6,34.3
+Jharkhand,Giridih,giridih_jharkhand,overweight,1.9,5.4
+Jharkhand,Godda,godda_jharkhand,stunting,54,39.4
+Jharkhand,Godda,godda_jharkhand,wasting,10.6,11.2
+Jharkhand,Godda,godda_jharkhand,underweight,46,40.7
+Jharkhand,Godda,godda_jharkhand,overweight,0.5,4.7
+Jharkhand,Gumla,gumla_jharkhand,stunting,45.8,40.2
+Jharkhand,Gumla,gumla_jharkhand,wasting,10.9,8.7
+Jharkhand,Gumla,gumla_jharkhand,underweight,47.7,38.7
+Jharkhand,Gumla,gumla_jharkhand,overweight,2.2,4.1
+Jharkhand,Hazaribagh,hazaribagh_jharkhand,stunting,49.3,37.8
+Jharkhand,Hazaribagh,hazaribagh_jharkhand,wasting,8.9,5.9
+Jharkhand,Hazaribagh,hazaribagh_jharkhand,underweight,47.1,32.5
+Jharkhand,Hazaribagh,hazaribagh_jharkhand,overweight,2.9,1.4
+Jharkhand,Jamtara,jamtara_jharkhand,stunting,44.1,41.9
+Jharkhand,Jamtara,jamtara_jharkhand,wasting,12.6,9.9
+Jharkhand,Jamtara,jamtara_jharkhand,underweight,48.8,46.2
+Jharkhand,Jamtara,jamtara_jharkhand,overweight,1.3,4.3
+Jharkhand,Khunti,khunti_jharkhand,stunting,40.1,38.5
+Jharkhand,Khunti,khunti_jharkhand,wasting,27.3,16.8
+Jharkhand,Khunti,khunti_jharkhand,underweight,53.8,44
+Jharkhand,Khunti,khunti_jharkhand,overweight,0.9,6.1
+Jharkhand,Kodarma,kodarma_jharkhand,stunting,42.4,34.6
+Jharkhand,Kodarma,kodarma_jharkhand,wasting,6.9,5
+Jharkhand,Kodarma,kodarma_jharkhand,underweight,42.2,31.7
+Jharkhand,Kodarma,kodarma_jharkhand,overweight,1.2,2.5
+Jharkhand,Latehar,latehar_jharkhand,stunting,44.2,40.1
+Jharkhand,Latehar,latehar_jharkhand,wasting,10.7,5.2
+Jharkhand,Latehar,latehar_jharkhand,underweight,44.2,39.4
+Jharkhand,Latehar,latehar_jharkhand,overweight,2.1,1.8
+Jharkhand,Lohardaga,lohardaga_jharkhand,stunting,41.7,40.7
+Jharkhand,Lohardaga,lohardaga_jharkhand,wasting,11.4,10
+Jharkhand,Lohardaga,lohardaga_jharkhand,underweight,48.1,43.4
+Jharkhand,Lohardaga,lohardaga_jharkhand,overweight,1.4,1.8
+Jharkhand,Pakur,pakur_jharkhand,stunting,51.8,51.3
+Jharkhand,Pakur,pakur_jharkhand,wasting,9.8,5.9
+Jharkhand,Pakur,pakur_jharkhand,underweight,46.9,51.4
+Jharkhand,Pakur,pakur_jharkhand,overweight,2.1,1.9
+Jharkhand,Palamu,palamu_jharkhand,stunting,45.4,43.7
+Jharkhand,Palamu,palamu_jharkhand,wasting,6.5,3.9
+Jharkhand,Palamu,palamu_jharkhand,underweight,43.9,37.3
+Jharkhand,Palamu,palamu_jharkhand,overweight,2.2,0.6
+Jharkhand,Pashchimi Singhbhum,pashchimi_singhbhum_jharkhand,stunting,59.4,60.6
+Jharkhand,Pashchimi Singhbhum,pashchimi_singhbhum_jharkhand,wasting,13.1,12.9
+Jharkhand,Pashchimi Singhbhum,pashchimi_singhbhum_jharkhand,underweight,66.9,62.4
+Jharkhand,Pashchimi Singhbhum,pashchimi_singhbhum_jharkhand,overweight,0.9,2.8
+Jharkhand,Purbi Singhbhum,purbi_singhbhum_jharkhand,stunting,39.3,35.9
+Jharkhand,Purbi Singhbhum,purbi_singhbhum_jharkhand,wasting,19.9,16.8
+Jharkhand,Purbi Singhbhum,purbi_singhbhum_jharkhand,underweight,49.8,41.6
+Jharkhand,Purbi Singhbhum,purbi_singhbhum_jharkhand,overweight,1.2,1.3
+Jharkhand,Ramgarh,ramgarh_jharkhand,stunting,38.7,35.3
+Jharkhand,Ramgarh,ramgarh_jharkhand,wasting,9.9,7.2
+Jharkhand,Ramgarh,ramgarh_jharkhand,underweight,46.3,35.3
+Jharkhand,Ramgarh,ramgarh_jharkhand,overweight,1.2,1
+Jharkhand,Ranchi,ranchi_jharkhand,stunting,40.7,28.3
+Jharkhand,Ranchi,ranchi_jharkhand,wasting,7.5,16.8
+Jharkhand,Ranchi,ranchi_jharkhand,underweight,43.8,40.6
+Jharkhand,Ranchi,ranchi_jharkhand,overweight,0.7,4.3
+Jharkhand,Sahibganj,sahibganj_jharkhand,stunting,50.2,49.1
+Jharkhand,Sahibganj,sahibganj_jharkhand,wasting,10.4,5.8
+Jharkhand,Sahibganj,sahibganj_jharkhand,underweight,49.7,44.8
+Jharkhand,Sahibganj,sahibganj_jharkhand,overweight,2.1,2.6
+Jharkhand,Saraikela-Kharsawan,saraikela_kharsawan_jharkhand,stunting,45.1,40
+Jharkhand,Saraikela-Kharsawan,saraikela_kharsawan_jharkhand,wasting,8.9,23
+Jharkhand,Saraikela-Kharsawan,saraikela_kharsawan_jharkhand,underweight,52.6,48.7
+Jharkhand,Saraikela-Kharsawan,saraikela_kharsawan_jharkhand,overweight,0.8,9
+Jharkhand,Simdega,simdega_jharkhand,stunting,39.2,42.2
+Jharkhand,Simdega,simdega_jharkhand,wasting,15,7.7
+Jharkhand,Simdega,simdega_jharkhand,underweight,47.9,37
+Jharkhand,Simdega,simdega_jharkhand,overweight,2.4,2.8
+Jammu & Kashmir,Anantnag,anantnag_jammu_kashmir,stunting,18.2,28.2
+Jammu & Kashmir,Anantnag,anantnag_jammu_kashmir,wasting,2.3,14
+Jammu & Kashmir,Anantnag,anantnag_jammu_kashmir,underweight,8.2,28.3
+Jammu & Kashmir,Anantnag,anantnag_jammu_kashmir,overweight,4.3,5
+Jammu & Kashmir,Badgam,badgam_jammu_kashmir,stunting,20.4,26.8
+Jammu & Kashmir,Badgam,badgam_jammu_kashmir,wasting,1,9.1
+Jammu & Kashmir,Badgam,badgam_jammu_kashmir,underweight,8.9,20.6
+Jammu & Kashmir,Badgam,badgam_jammu_kashmir,overweight,2.6,11.1
+Jammu & Kashmir,Bandipore,bandipore_jammu_kashmir,stunting,20.5,25.2
+Jammu & Kashmir,Bandipore,bandipore_jammu_kashmir,wasting,1.9,4.6
+Jammu & Kashmir,Bandipore,bandipore_jammu_kashmir,underweight,9.9,16.8
+Jammu & Kashmir,Bandipore,bandipore_jammu_kashmir,overweight,3.6,11.4
+Jammu & Kashmir,Baramula,baramula_jammu_kashmir,stunting,28.6,23.2
+Jammu & Kashmir,Baramula,baramula_jammu_kashmir,wasting,7.8,8.8
+Jammu & Kashmir,Baramula,baramula_jammu_kashmir,underweight,12.8,17.3
+Jammu & Kashmir,Baramula,baramula_jammu_kashmir,overweight,13.4,8
+Jammu & Kashmir,Doda,doda_jammu_kashmir,stunting,36.2,32.7
+Jammu & Kashmir,Doda,doda_jammu_kashmir,wasting,6.6,6
+Jammu & Kashmir,Doda,doda_jammu_kashmir,underweight,18.8,15.2
+Jammu & Kashmir,Doda,doda_jammu_kashmir,overweight,6.3,15.1
+Jammu & Kashmir,Ganderbal,ganderbal_jammu_kashmir,stunting,24.4,18.5
+Jammu & Kashmir,Ganderbal,ganderbal_jammu_kashmir,wasting,1.9,13.3
+Jammu & Kashmir,Ganderbal,ganderbal_jammu_kashmir,underweight,8.3,20.1
+Jammu & Kashmir,Ganderbal,ganderbal_jammu_kashmir,overweight,1.8,11.8
+Jammu & Kashmir,Jammu,jammu_jammu_kashmir,stunting,23.2,27
+Jammu & Kashmir,Jammu,jammu_jammu_kashmir,wasting,7.3,10.4
+Jammu & Kashmir,Jammu,jammu_jammu_kashmir,underweight,16.6,17.6
+Jammu & Kashmir,Jammu,jammu_jammu_kashmir,overweight,7.8,7.3
+Jammu & Kashmir,Kathua,kathua_jammu_kashmir,stunting,31.5,21.8
+Jammu & Kashmir,Kathua,kathua_jammu_kashmir,wasting,4.2,13.1
+Jammu & Kashmir,Kathua,kathua_jammu_kashmir,underweight,19.1,25.9
+Jammu & Kashmir,Kathua,kathua_jammu_kashmir,overweight,6.3,18.6
+Jammu & Kashmir,Kishtwar,kishtwar_jammu_kashmir,stunting,29.3,27.5
+Jammu & Kashmir,Kishtwar,kishtwar_jammu_kashmir,wasting,8.4,15.3
+Jammu & Kashmir,Kishtwar,kishtwar_jammu_kashmir,underweight,18.9,17.7
+Jammu & Kashmir,Kishtwar,kishtwar_jammu_kashmir,overweight,4.3,21.1
+Jammu & Kashmir,Kulgam,kulgam_jammu_kashmir,stunting,20.9,28.4
+Jammu & Kashmir,Kulgam,kulgam_jammu_kashmir,wasting,2.5,4.8
+Jammu & Kashmir,Kulgam,kulgam_jammu_kashmir,underweight,10.2,15.3
+Jammu & Kashmir,Kulgam,kulgam_jammu_kashmir,overweight,2.9,20.6
+Jammu & Kashmir,Kupwara,kupwara_jammu_kashmir,stunting,30.8,24.9
+Jammu & Kashmir,Kupwara,kupwara_jammu_kashmir,wasting,1,14.7
+Jammu & Kashmir,Kupwara,kupwara_jammu_kashmir,underweight,14.4,25.5
+Jammu & Kashmir,Kupwara,kupwara_jammu_kashmir,overweight,2.4,8.8
+Jammu & Kashmir,Pulwama,pulwama_jammu_kashmir,stunting,22.7,22.4
+Jammu & Kashmir,Pulwama,pulwama_jammu_kashmir,wasting,5.1,6.4
+Jammu & Kashmir,Pulwama,pulwama_jammu_kashmir,underweight,11.5,20.2
+Jammu & Kashmir,Pulwama,pulwama_jammu_kashmir,overweight,4.7,12.1
+Jammu & Kashmir,Punch,punch_jammu_kashmir,stunting,27.6,25.9
+Jammu & Kashmir,Punch,punch_jammu_kashmir,wasting,9.2,6.6
+Jammu & Kashmir,Punch,punch_jammu_kashmir,underweight,22.2,18.8
+Jammu & Kashmir,Punch,punch_jammu_kashmir,overweight,6.2,4.5
+Jammu & Kashmir,Rajouri,rajouri_jammu_kashmir,stunting,36.7,30.3
+Jammu & Kashmir,Rajouri,rajouri_jammu_kashmir,wasting,4.2,12
+Jammu & Kashmir,Rajouri,rajouri_jammu_kashmir,underweight,22.8,32.4
+Jammu & Kashmir,Rajouri,rajouri_jammu_kashmir,overweight,7.8,5.2
+Jammu & Kashmir,Ramban,ramban_jammu_kashmir,stunting,33.6,25.7
+Jammu & Kashmir,Ramban,ramban_jammu_kashmir,wasting,7.6,6.6
+Jammu & Kashmir,Ramban,ramban_jammu_kashmir,underweight,18.8,21.2
+Jammu & Kashmir,Ramban,ramban_jammu_kashmir,overweight,4.3,3.5
+Jammu & Kashmir,Reasi,reasi_jammu_kashmir,stunting,25.4,17.7
+Jammu & Kashmir,Reasi,reasi_jammu_kashmir,wasting,6.8,5.3
+Jammu & Kashmir,Reasi,reasi_jammu_kashmir,underweight,22.7,11.7
+Jammu & Kashmir,Reasi,reasi_jammu_kashmir,overweight,0.7,16.3
+Jammu & Kashmir,Samba,samba_jammu_kashmir,stunting,19.6,24.5
+Jammu & Kashmir,Samba,samba_jammu_kashmir,wasting,1.4,9.8
+Jammu & Kashmir,Samba,samba_jammu_kashmir,underweight,9,15.5
+Jammu & Kashmir,Samba,samba_jammu_kashmir,overweight,3.3,12.1
+Jammu & Kashmir,Shupiyan,shupiyan_jammu_kashmir,stunting,22.8,22
+Jammu & Kashmir,Shupiyan,shupiyan_jammu_kashmir,wasting,3.8,17.4
+Jammu & Kashmir,Shupiyan,shupiyan_jammu_kashmir,underweight,11.1,33.5
+Jammu & Kashmir,Shupiyan,shupiyan_jammu_kashmir,overweight,6.3,2.9
+Jammu & Kashmir,Srinagar,srinagar_jammu_kashmir,stunting,26.9,33
+Jammu & Kashmir,Srinagar,srinagar_jammu_kashmir,wasting,14.3,7.6
+Jammu & Kashmir,Srinagar,srinagar_jammu_kashmir,underweight,23.2,15.8
+Jammu & Kashmir,Srinagar,srinagar_jammu_kashmir,overweight,9,12.7
+Jammu & Kashmir,Udhampur,udhampur_jammu_kashmir,stunting,43.1,37.3
+Jammu & Kashmir,Udhampur,udhampur_jammu_kashmir,wasting,4.9,9.6
+Jammu & Kashmir,Udhampur,udhampur_jammu_kashmir,underweight,27.4,31.9
+Jammu & Kashmir,Udhampur,udhampur_jammu_kashmir,overweight,3,5.8
+Karnataka,Bagalkot,bagalkot_karnataka,stunting,47.3,48.3
+Karnataka,Bagalkot,bagalkot_karnataka,wasting,8.1,4.4
+Karnataka,Bagalkot,bagalkot_karnataka,underweight,44.6,42.3
+Karnataka,Bagalkot,bagalkot_karnataka,overweight,2.3,2.4
+Karnataka,Bangalore,bangalore_karnataka,stunting,28.1,31.3
+Karnataka,Bangalore,bangalore_karnataka,wasting,11.7,11.4
+Karnataka,Bangalore,bangalore_karnataka,underweight,26.8,28.1
+Karnataka,Bangalore,bangalore_karnataka,overweight,3.5,4.3
+Karnataka,Bangalore Rural,bangalore_rural_karnataka,stunting,28.7,36.6
+Karnataka,Bangalore Rural,bangalore_rural_karnataka,wasting,6.7,9.4
+Karnataka,Bangalore Rural,bangalore_rural_karnataka,underweight,26.5,23.8
+Karnataka,Bangalore Rural,bangalore_rural_karnataka,overweight,3.8,6
+Karnataka,Belgaum,belgaum_karnataka,stunting,36.7,32.8
+Karnataka,Belgaum,belgaum_karnataka,wasting,16,10.2
+Karnataka,Belgaum,belgaum_karnataka,underweight,38.5,36.9
+Karnataka,Belgaum,belgaum_karnataka,overweight,2.4,2.9
+Karnataka,Bellary,bellary_karnataka,stunting,49.5,36.1
+Karnataka,Bellary,bellary_karnataka,wasting,10.7,13.6
+Karnataka,Bellary,bellary_karnataka,underweight,53.3,36.5
+Karnataka,Bellary,bellary_karnataka,overweight,1.4,1.3
+Karnataka,Bidar,bidar_karnataka,stunting,42.8,36.8
+Karnataka,Bidar,bidar_karnataka,wasting,11.4,11.1
+Karnataka,Bidar,bidar_karnataka,underweight,39.4,36.1
+Karnataka,Bidar,bidar_karnataka,overweight,5.1,2.5
+Karnataka,Bijapur,bijapur_karnataka,stunting,44.9,45.9
+Karnataka,Bijapur,bijapur_karnataka,wasting,10.1,4.3
+Karnataka,Bijapur,bijapur_karnataka,underweight,38.9,39
+Karnataka,Bijapur,bijapur_karnataka,overweight,2.8,2.7
+Karnataka,Chamarajanagar,chamarajanagar_karnataka,stunting,30.5,32.2
+Karnataka,Chamarajanagar,chamarajanagar_karnataka,wasting,8.8,6.8
+Karnataka,Chamarajanagar,chamarajanagar_karnataka,underweight,31.1,28.7
+Karnataka,Chamarajanagar,chamarajanagar_karnataka,overweight,1.8,1.6
+Karnataka,Chikkaballapura,chikkaballapura_karnataka,stunting,37.7,31.3
+Karnataka,Chikkaballapura,chikkaballapura_karnataka,wasting,5.9,6.1
+Karnataka,Chikkaballapura,chikkaballapura_karnataka,underweight,28.5,25.2
+Karnataka,Chikkaballapura,chikkaballapura_karnataka,overweight,4.6,2.2
+Karnataka,Chikmagalur,chikmagalur_karnataka,stunting,21.1,27.3
+Karnataka,Chikmagalur,chikmagalur_karnataka,wasting,5.4,11.5
+Karnataka,Chikmagalur,chikmagalur_karnataka,underweight,24.6,25.4
+Karnataka,Chikmagalur,chikmagalur_karnataka,overweight,0.9,6.6
+Karnataka,Chitradurga,chitradurga_karnataka,stunting,28.6,36
+Karnataka,Chitradurga,chitradurga_karnataka,wasting,16.1,8.3
+Karnataka,Chitradurga,chitradurga_karnataka,underweight,29.9,32.4
+Karnataka,Chitradurga,chitradurga_karnataka,overweight,1.2,3.1
+Karnataka,Dakshina Kannada,dakshina_kannada_karnataka,stunting,23.9,25.1
+Karnataka,Dakshina Kannada,dakshina_kannada_karnataka,wasting,4,15.7
+Karnataka,Dakshina Kannada,dakshina_kannada_karnataka,underweight,21.7,26.4
+Karnataka,Dakshina Kannada,dakshina_kannada_karnataka,overweight,1.1,6.9
+Karnataka,Davanagere,davanagere_karnataka,stunting,46.4,38.4
+Karnataka,Davanagere,davanagere_karnataka,wasting,5.5,3.9
+Karnataka,Davanagere,davanagere_karnataka,underweight,41.9,32.8
+Karnataka,Davanagere,davanagere_karnataka,overweight,1.8,2.5
+Karnataka,Dharwad,dharwad_karnataka,stunting,37.4,45.2
+Karnataka,Dharwad,dharwad_karnataka,wasting,17.7,4.6
+Karnataka,Dharwad,dharwad_karnataka,underweight,41.1,40.4
+Karnataka,Dharwad,dharwad_karnataka,overweight,2.8,2.8
+Karnataka,Gadag,gadag_karnataka,stunting,34.8,45.2
+Karnataka,Gadag,gadag_karnataka,wasting,27.5,4.5
+Karnataka,Gadag,gadag_karnataka,underweight,38.1,39.8
+Karnataka,Gadag,gadag_karnataka,overweight,4.3,1.5
+Karnataka,Gulbarga,gulbarga_karnataka,stunting,52.2,34.5
+Karnataka,Gulbarga,gulbarga_karnataka,wasting,13.2,12.2
+Karnataka,Gulbarga,gulbarga_karnataka,underweight,56.7,36.2
+Karnataka,Gulbarga,gulbarga_karnataka,overweight,1.3,4.1
+Karnataka,Hassan,hassan_karnataka,stunting,27,27.1
+Karnataka,Hassan,hassan_karnataka,wasting,6.4,5.2
+Karnataka,Hassan,hassan_karnataka,underweight,26.4,23.8
+Karnataka,Hassan,hassan_karnataka,overweight,0.6,5.1
+Karnataka,Haveri,haveri_karnataka,stunting,43.8,29.9
+Karnataka,Haveri,haveri_karnataka,wasting,7.3,3.9
+Karnataka,Haveri,haveri_karnataka,underweight,36.9,35
+Karnataka,Haveri,haveri_karnataka,overweight,3.1,0
+Karnataka,Kodagu,kodagu_karnataka,stunting,29.8,30.4
+Karnataka,Kodagu,kodagu_karnataka,wasting,4.1,9.3
+Karnataka,Kodagu,kodagu_karnataka,underweight,25.7,22.6
+Karnataka,Kodagu,kodagu_karnataka,overweight,3.1,7.3
+Karnataka,Kolar,kolar_karnataka,stunting,32,31.1
+Karnataka,Kolar,kolar_karnataka,wasting,4.6,5.8
+Karnataka,Kolar,kolar_karnataka,underweight,27.7,15.7
+Karnataka,Kolar,kolar_karnataka,overweight,1.8,5.3
+Karnataka,Koppal,koppal_karnataka,stunting,55.8,49.1
+Karnataka,Koppal,koppal_karnataka,wasting,10.8,3.8
+Karnataka,Koppal,koppal_karnataka,underweight,49.9,45.8
+Karnataka,Koppal,koppal_karnataka,overweight,5.8,0.8
+Karnataka,Mandya,mandya_karnataka,stunting,18.6,24.3
+Karnataka,Mandya,mandya_karnataka,wasting,9.5,5.3
+Karnataka,Mandya,mandya_karnataka,underweight,20.3,16.7
+Karnataka,Mandya,mandya_karnataka,overweight,1.4,1.3
+Karnataka,Mysore,mysore_karnataka,stunting,25.1,27.5
+Karnataka,Mysore,mysore_karnataka,wasting,7.5,7.2
+Karnataka,Mysore,mysore_karnataka,underweight,24.9,28.2
+Karnataka,Mysore,mysore_karnataka,overweight,3,1.3
+Karnataka,Raichur,raichur_karnataka,stunting,37.2,39.8
+Karnataka,Raichur,raichur_karnataka,wasting,18.1,11.7
+Karnataka,Raichur,raichur_karnataka,underweight,41.2,40.7
+Karnataka,Raichur,raichur_karnataka,overweight,2.6,1.6
+Karnataka,Ramanagara,ramanagara_karnataka,stunting,22,15.6
+Karnataka,Ramanagara,ramanagara_karnataka,wasting,5.1,7.7
+Karnataka,Ramanagara,ramanagara_karnataka,underweight,22.9,19.8
+Karnataka,Ramanagara,ramanagara_karnataka,overweight,1.2,4
+Karnataka,Shimoga,shimoga_karnataka,stunting,35.3,29
+Karnataka,Shimoga,shimoga_karnataka,wasting,2.7,13.5
+Karnataka,Shimoga,shimoga_karnataka,underweight,30.6,34.4
+Karnataka,Shimoga,shimoga_karnataka,overweight,0.6,6
+Karnataka,Tumkur,tumkur_karnataka,stunting,28.6,40.3
+Karnataka,Tumkur,tumkur_karnataka,wasting,10.2,3.1
+Karnataka,Tumkur,tumkur_karnataka,underweight,26,26.7
+Karnataka,Tumkur,tumkur_karnataka,overweight,3.2,6.1
+Karnataka,Udupi,udupi_karnataka,stunting,21.1,23.1
+Karnataka,Udupi,udupi_karnataka,wasting,4,6
+Karnataka,Udupi,udupi_karnataka,underweight,22.3,21
+Karnataka,Udupi,udupi_karnataka,overweight,1.2,3.2
+Karnataka,Uttara Kannada,uttara_kannada_karnataka,stunting,37.9,29.6
+Karnataka,Uttara Kannada,uttara_kannada_karnataka,wasting,4.2,13.1
+Karnataka,Uttara Kannada,uttara_kannada_karnataka,underweight,30.1,33.3
+Karnataka,Uttara Kannada,uttara_kannada_karnataka,overweight,1,3.3
+Karnataka,Yadgir,yadgir_karnataka,stunting,55.5,57.6
+Karnataka,Yadgir,yadgir_karnataka,wasting,12.5,7.2
+Karnataka,Yadgir,yadgir_karnataka,underweight,50.3,45.2
+Karnataka,Yadgir,yadgir_karnataka,overweight,4.4,2.3
+Kerala,Alappuzha,alappuzha_kerala,stunting,14.5,20.1
+Kerala,Alappuzha,alappuzha_kerala,wasting,3.5,2.1
+Kerala,Alappuzha,alappuzha_kerala,underweight,17.2,20.4
+Kerala,Alappuzha,alappuzha_kerala,overweight,4,4.5
+Kerala,Ernakulam,ernakulam_kerala,stunting,12.4,22
+Kerala,Ernakulam,ernakulam_kerala,wasting,7.9,7.4
+Kerala,Ernakulam,ernakulam_kerala,underweight,12,19.4
+Kerala,Ernakulam,ernakulam_kerala,overweight,1.3,5.4
+Kerala,Idukki,idukki_kerala,stunting,15.1,24.3
+Kerala,Idukki,idukki_kerala,wasting,14.3,6.8
+Kerala,Idukki,idukki_kerala,underweight,14.8,23.6
+Kerala,Idukki,idukki_kerala,overweight,4.7,2.3
+Kerala,Kannur,kannur_kerala,stunting,25.3,19.4
+Kerala,Kannur,kannur_kerala,wasting,3.5,6.9
+Kerala,Kannur,kannur_kerala,underweight,10.5,17.9
+Kerala,Kannur,kannur_kerala,overweight,6.7,3
+Kerala,Kasaragod,kasaragod_kerala,stunting,18.7,25.3
+Kerala,Kasaragod,kasaragod_kerala,wasting,3.2,5.7
+Kerala,Kasaragod,kasaragod_kerala,underweight,13.9,21.4
+Kerala,Kasaragod,kasaragod_kerala,overweight,0.4,1.6
+Kerala,Kollam,kollam_kerala,stunting,14.4,15.5
+Kerala,Kollam,kollam_kerala,wasting,7.4,6.9
+Kerala,Kollam,kollam_kerala,underweight,14.2,17
+Kerala,Kollam,kollam_kerala,overweight,3.8,9.4
+Kerala,Kottayam,kottayam_kerala,stunting,22,23.4
+Kerala,Kottayam,kottayam_kerala,wasting,6.2,2.3
+Kerala,Kottayam,kottayam_kerala,underweight,11.3,17.3
+Kerala,Kottayam,kottayam_kerala,overweight,3.7,3.2
+Kerala,Kozhikode,kozhikode_kerala,stunting,18,21.3
+Kerala,Kozhikode,kozhikode_kerala,wasting,5.4,3.4
+Kerala,Kozhikode,kozhikode_kerala,underweight,18.5,18.9
+Kerala,Kozhikode,kozhikode_kerala,overweight,7.4,4.4
+Kerala,Malappuram,malappuram_kerala,stunting,26.3,29.4
+Kerala,Malappuram,malappuram_kerala,wasting,9.9,6.5
+Kerala,Malappuram,malappuram_kerala,underweight,17.3,21.4
+Kerala,Malappuram,malappuram_kerala,overweight,3.2,3.3
+Kerala,Palakkad,palakkad_kerala,stunting,20.2,29.7
+Kerala,Palakkad,palakkad_kerala,wasting,4.1,9
+Kerala,Palakkad,palakkad_kerala,underweight,19.1,27.7
+Kerala,Palakkad,palakkad_kerala,overweight,0.8,1.1
+Kerala,Pathanamthitta,pathanamthitta_kerala,stunting,13.3,22.7
+Kerala,Pathanamthitta,pathanamthitta_kerala,wasting,4.7,3.9
+Kerala,Pathanamthitta,pathanamthitta_kerala,underweight,11.4,11.2
+Kerala,Pathanamthitta,pathanamthitta_kerala,overweight,3.3,5
+Kerala,Thiruvananthapuram,thiruvananthapuram_kerala,stunting,19.5,19.5
+Kerala,Thiruvananthapuram,thiruvananthapuram_kerala,wasting,3.9,6.3
+Kerala,Thiruvananthapuram,thiruvananthapuram_kerala,underweight,21.6,15.2
+Kerala,Thiruvananthapuram,thiruvananthapuram_kerala,overweight,3.5,2.8
+Kerala,Thrissur,thrissur_kerala,stunting,20.8,22
+Kerala,Thrissur,thrissur_kerala,wasting,9.4,3.8
+Kerala,Thrissur,thrissur_kerala,underweight,14,17.3
+Kerala,Thrissur,thrissur_kerala,overweight,3.5,6.1
+Kerala,Wayanad,wayanad_kerala,stunting,27.7,31.3
+Kerala,Wayanad,wayanad_kerala,wasting,10.7,5.3
+Kerala,Wayanad,wayanad_kerala,underweight,27.2,22.5
+Kerala,Wayanad,wayanad_kerala,overweight,1.6,6.5
+Ladakh,Kargil,kargil_ladakh,stunting,39.6,36.5
+Ladakh,Kargil,kargil_ladakh,wasting,3.1,10.5
+Ladakh,Kargil,kargil_ladakh,underweight,20.3,21.8
+Ladakh,Kargil,kargil_ladakh,overweight,4,14
+Ladakh,Leh (Ladakh),leh_ladakh_ladakh,stunting,20.6,24.3
+Ladakh,Leh (Ladakh),leh_ladakh_ladakh,wasting,7.4,7.6
+Ladakh,Leh (Ladakh),leh_ladakh_ladakh,underweight,16.8,19
+Ladakh,Leh (Ladakh),leh_ladakh_ladakh,overweight,4,12.7
+Maharashtra,Ahmednagar,ahmednagar_maharashtra,stunting,33.4,31.7
+Maharashtra,Ahmednagar,ahmednagar_maharashtra,wasting,4.2,8.6
+Maharashtra,Ahmednagar,ahmednagar_maharashtra,underweight,31.1,41.2
+Maharashtra,Ahmednagar,ahmednagar_maharashtra,overweight,2.1,1.8
+Maharashtra,Akola,akola_maharashtra,stunting,41.2,31.8
+Maharashtra,Akola,akola_maharashtra,wasting,7.7,14.7
+Maharashtra,Akola,akola_maharashtra,underweight,39.3,30.8
+Maharashtra,Akola,akola_maharashtra,overweight,2,8.6
+Maharashtra,Amravati,amravati_maharashtra,stunting,38.1,29
+Maharashtra,Amravati,amravati_maharashtra,wasting,9,10.7
+Maharashtra,Amravati,amravati_maharashtra,underweight,33,38
+Maharashtra,Amravati,amravati_maharashtra,overweight,1.7,2.2
+Maharashtra,Aurangabad,aurangabad_maharashtra,stunting,38.6,34.2
+Maharashtra,Aurangabad,aurangabad_maharashtra,wasting,6.3,11.8
+Maharashtra,Aurangabad,aurangabad_maharashtra,underweight,36,42.9
+Maharashtra,Aurangabad,aurangabad_maharashtra,overweight,1.7,2.8
+Maharashtra,Bhandara,bhandara_maharashtra,stunting,40.5,31.3
+Maharashtra,Bhandara,bhandara_maharashtra,wasting,2.9,13.2
+Maharashtra,Bhandara,bhandara_maharashtra,underweight,32.5,33.9
+Maharashtra,Bhandara,bhandara_maharashtra,overweight,3.2,4.7
+Maharashtra,Bid,bid_maharashtra,stunting,37.8,40.8
+Maharashtra,Bid,bid_maharashtra,wasting,12.9,11.9
+Maharashtra,Bid,bid_maharashtra,underweight,36.9,36.8
+Maharashtra,Bid,bid_maharashtra,overweight,2.7,3.5
+Maharashtra,Buldana,buldana_maharashtra,stunting,43.9,45
+Maharashtra,Buldana,buldana_maharashtra,wasting,5,14.8
+Maharashtra,Buldana,buldana_maharashtra,underweight,41.3,47.2
+Maharashtra,Buldana,buldana_maharashtra,overweight,2,4.8
+Maharashtra,Chandrapur,chandrapur_maharashtra,stunting,32.2,37.3
+Maharashtra,Chandrapur,chandrapur_maharashtra,wasting,16.1,21.8
+Maharashtra,Chandrapur,chandrapur_maharashtra,underweight,40.3,46.6
+Maharashtra,Chandrapur,chandrapur_maharashtra,overweight,3,7.6
+Maharashtra,Dhule,dhule_maharashtra,stunting,39.6,37.6
+Maharashtra,Dhule,dhule_maharashtra,wasting,11.3,18.1
+Maharashtra,Dhule,dhule_maharashtra,underweight,47.5,46
+Maharashtra,Dhule,dhule_maharashtra,overweight,2.1,0.2
+Maharashtra,Gadchiroli,gadchiroli_maharashtra,stunting,32.5,35.7
+Maharashtra,Gadchiroli,gadchiroli_maharashtra,wasting,22.2,13.5
+Maharashtra,Gadchiroli,gadchiroli_maharashtra,underweight,42.1,35.4
+Maharashtra,Gadchiroli,gadchiroli_maharashtra,overweight,0.7,9.5
+Maharashtra,Gondiya,gondiya_maharashtra,stunting,34.7,36.9
+Maharashtra,Gondiya,gondiya_maharashtra,wasting,13.3,11.1
+Maharashtra,Gondiya,gondiya_maharashtra,underweight,40.1,35.6
+Maharashtra,Gondiya,gondiya_maharashtra,overweight,0.7,8.3
+Maharashtra,Hingoli,hingoli_maharashtra,stunting,39.6,37.4
+Maharashtra,Hingoli,hingoli_maharashtra,wasting,10.2,10.5
+Maharashtra,Hingoli,hingoli_maharashtra,underweight,36.9,38.9
+Maharashtra,Hingoli,hingoli_maharashtra,overweight,2.1,1
+Maharashtra,Jalgaon,jalgaon_maharashtra,stunting,36.4,36.3
+Maharashtra,Jalgaon,jalgaon_maharashtra,wasting,7.9,8
+Maharashtra,Jalgaon,jalgaon_maharashtra,underweight,36.4,36.9
+Maharashtra,Jalgaon,jalgaon_maharashtra,overweight,1,1.5
+Maharashtra,Jalna,jalna_maharashtra,stunting,44.1,38
+Maharashtra,Jalna,jalna_maharashtra,wasting,9.5,8.2
+Maharashtra,Jalna,jalna_maharashtra,underweight,43.6,39
+Maharashtra,Jalna,jalna_maharashtra,overweight,2,1.3
+Maharashtra,Kolhapur,kolhapur_maharashtra,stunting,26.9,33.6
+Maharashtra,Kolhapur,kolhapur_maharashtra,wasting,5.9,5.9
+Maharashtra,Kolhapur,kolhapur_maharashtra,underweight,31.2,34.7
+Maharashtra,Kolhapur,kolhapur_maharashtra,overweight,1.1,4.3
+Maharashtra,Latur,latur_maharashtra,stunting,34.7,43.2
+Maharashtra,Latur,latur_maharashtra,wasting,7.7,8
+Maharashtra,Latur,latur_maharashtra,underweight,34.5,33.9
+Maharashtra,Latur,latur_maharashtra,overweight,2.8,5.3
+Maharashtra,Mumbai,mumbai_maharashtra,stunting,25.5,26.6
+Maharashtra,Mumbai,mumbai_maharashtra,wasting,7,9.1
+Maharashtra,Mumbai,mumbai_maharashtra,underweight,22.7,29.6
+Maharashtra,Mumbai,mumbai_maharashtra,overweight,4.4,6.1
+Maharashtra,Mumbai Suburban,mumbai_suburban_maharashtra,stunting,21.3,37.2
+Maharashtra,Mumbai Suburban,mumbai_suburban_maharashtra,wasting,11.9,7.2
+Maharashtra,Mumbai Suburban,mumbai_suburban_maharashtra,underweight,28.9,24.6
+Maharashtra,Mumbai Suburban,mumbai_suburban_maharashtra,overweight,2.7,10.5
+Maharashtra,Nagpur,nagpur_maharashtra,stunting,33.9,27.6
+Maharashtra,Nagpur,nagpur_maharashtra,wasting,12.1,20
+Maharashtra,Nagpur,nagpur_maharashtra,underweight,33.6,33.9
+Maharashtra,Nagpur,nagpur_maharashtra,overweight,1,10.1
+Maharashtra,Nanded,nanded_maharashtra,stunting,40.4,36
+Maharashtra,Nanded,nanded_maharashtra,wasting,6.2,8.7
+Maharashtra,Nanded,nanded_maharashtra,underweight,34.4,35.2
+Maharashtra,Nanded,nanded_maharashtra,overweight,2.5,3.5
+Maharashtra,Nandurbar,nandurbar_maharashtra,stunting,47.6,45.8
+Maharashtra,Nandurbar,nandurbar_maharashtra,wasting,15.1,13.5
+Maharashtra,Nandurbar,nandurbar_maharashtra,underweight,55.4,57.2
+Maharashtra,Nandurbar,nandurbar_maharashtra,overweight,2.3,3.7
+Maharashtra,Nashik,nashik_maharashtra,stunting,43.5,42.2
+Maharashtra,Nashik,nashik_maharashtra,wasting,13.5,11.4
+Maharashtra,Nashik,nashik_maharashtra,underweight,42.9,44.8
+Maharashtra,Nashik,nashik_maharashtra,overweight,0.4,2.2
+Maharashtra,Osmanabad,osmanabad_maharashtra,stunting,43.3,37.2
+Maharashtra,Osmanabad,osmanabad_maharashtra,wasting,9.1,5.5
+Maharashtra,Osmanabad,osmanabad_maharashtra,underweight,44.5,32.5
+Maharashtra,Osmanabad,osmanabad_maharashtra,overweight,2.2,1.8
+Maharashtra,Palghar,palghar_maharashtra,stunting,34.4,33
+Maharashtra,Palghar,palghar_maharashtra,wasting,9.4,10.5
+Maharashtra,Palghar,palghar_maharashtra,underweight,36,37.1
+Maharashtra,Palghar,palghar_maharashtra,overweight,1.9,9.3
+Maharashtra,Parbhani,parbhani_maharashtra,stunting,46.4,37.6
+Maharashtra,Parbhani,parbhani_maharashtra,wasting,7.3,7.6
+Maharashtra,Parbhani,parbhani_maharashtra,underweight,42.3,41.8
+Maharashtra,Parbhani,parbhani_maharashtra,overweight,1,3
+Maharashtra,Pune,pune_maharashtra,stunting,22.4,30.7
+Maharashtra,Pune,pune_maharashtra,wasting,9,14
+Maharashtra,Pune,pune_maharashtra,underweight,25.6,32.7
+Maharashtra,Pune,pune_maharashtra,overweight,2.9,1.3
+Maharashtra,Raigarh,raigarh_maharashtra,stunting,29.9,35.8
+Maharashtra,Raigarh,raigarh_maharashtra,wasting,8.5,8.3
+Maharashtra,Raigarh,raigarh_maharashtra,underweight,38.6,34.1
+Maharashtra,Raigarh,raigarh_maharashtra,overweight,1.2,2.1
+Maharashtra,Ratnagiri,ratnagiri_maharashtra,stunting,28.3,31.7
+Maharashtra,Ratnagiri,ratnagiri_maharashtra,wasting,6.4,12.6
+Maharashtra,Ratnagiri,ratnagiri_maharashtra,underweight,28.9,29.5
+Maharashtra,Ratnagiri,ratnagiri_maharashtra,overweight,3.5,3.8
+Maharashtra,Sangli,sangli_maharashtra,stunting,23.3,35
+Maharashtra,Sangli,sangli_maharashtra,wasting,6.2,7.8
+Maharashtra,Sangli,sangli_maharashtra,underweight,24.8,27.2
+Maharashtra,Sangli,sangli_maharashtra,overweight,1.2,6.7
+Maharashtra,Satara,satara_maharashtra,stunting,23.3,20.2
+Maharashtra,Satara,satara_maharashtra,wasting,6.3,5.2
+Maharashtra,Satara,satara_maharashtra,underweight,27.8,28
+Maharashtra,Satara,satara_maharashtra,overweight,1.2,2.3
+Maharashtra,Sindhudurg,sindhudurg_maharashtra,stunting,25.9,30.8
+Maharashtra,Sindhudurg,sindhudurg_maharashtra,wasting,3,14.9
+Maharashtra,Sindhudurg,sindhudurg_maharashtra,underweight,25.2,32
+Maharashtra,Sindhudurg,sindhudurg_maharashtra,overweight,1.4,5.9
+Maharashtra,Solapur,solapur_maharashtra,stunting,25.4,36.3
+Maharashtra,Solapur,solapur_maharashtra,wasting,10.3,10
+Maharashtra,Solapur,solapur_maharashtra,underweight,34.6,32.9
+Maharashtra,Solapur,solapur_maharashtra,overweight,2.6,4.3
+Maharashtra,Thane,thane_maharashtra,stunting,34.4,40.8
+Maharashtra,Thane,thane_maharashtra,wasting,9.4,7
+Maharashtra,Thane,thane_maharashtra,underweight,36,30.8
+Maharashtra,Thane,thane_maharashtra,overweight,1.9,5
+Maharashtra,Wardha,wardha_maharashtra,stunting,30.5,27.7
+Maharashtra,Wardha,wardha_maharashtra,wasting,10.2,12.5
+Maharashtra,Wardha,wardha_maharashtra,underweight,36.1,31.3
+Maharashtra,Wardha,wardha_maharashtra,overweight,2.3,4
+Maharashtra,Washim,washim_maharashtra,stunting,41.1,35.3
+Maharashtra,Washim,washim_maharashtra,wasting,14.8,15.2
+Maharashtra,Washim,washim_maharashtra,underweight,42.9,39.3
+Maharashtra,Washim,washim_maharashtra,overweight,3.7,6.9
+Maharashtra,Yavatmal,yavatmal_maharashtra,stunting,47.4,36.6
+Maharashtra,Yavatmal,yavatmal_maharashtra,wasting,14.6,15.1
+Maharashtra,Yavatmal,yavatmal_maharashtra,underweight,49.1,39.4
+Maharashtra,Yavatmal,yavatmal_maharashtra,overweight,3.7,6.7
+Meghalaya,East Garo Hills,east_garo_hills_meghalaya,stunting,43.8,39.7
+Meghalaya,East Garo Hills,east_garo_hills_meghalaya,wasting,6.5,6.2
+Meghalaya,East Garo Hills,east_garo_hills_meghalaya,underweight,28.9,26.5
+Meghalaya,East Garo Hills,east_garo_hills_meghalaya,overweight,3.9,4.1
+Meghalaya,East Jaintia Hills,east_jaintia_hills_meghalaya,stunting,43.8,49.8
+Meghalaya,East Jaintia Hills,east_jaintia_hills_meghalaya,wasting,6.5,2.9
+Meghalaya,East Jaintia Hills,east_jaintia_hills_meghalaya,underweight,28.9,23.6
+Meghalaya,East Jaintia Hills,east_jaintia_hills_meghalaya,overweight,3.9,3.7
+Meghalaya,East Khasi Hills,east_khasi_hills_meghalaya,stunting,48.6,44.6
+Meghalaya,East Khasi Hills,east_khasi_hills_meghalaya,wasting,3.7,4.9
+Meghalaya,East Khasi Hills,east_khasi_hills_meghalaya,underweight,30.4,23.8
+Meghalaya,East Khasi Hills,east_khasi_hills_meghalaya,overweight,2.9,4.5
+Meghalaya,North Garo Hills,north_garo_hills_meghalaya,stunting,43.8,35.6
+Meghalaya,North Garo Hills,north_garo_hills_meghalaya,wasting,6.5,5.6
+Meghalaya,North Garo Hills,north_garo_hills_meghalaya,underweight,28.9,15.8
+Meghalaya,North Garo Hills,north_garo_hills_meghalaya,overweight,3.9,7.3
+Meghalaya,Ribhoi,ribhoi_meghalaya,stunting,51.6,42.5
+Meghalaya,Ribhoi,ribhoi_meghalaya,wasting,5.1,7.5
+Meghalaya,Ribhoi,ribhoi_meghalaya,underweight,30.8,29.6
+Meghalaya,Ribhoi,ribhoi_meghalaya,overweight,4.9,4.8
+Meghalaya,South Garo Hills,south_garo_hills_meghalaya,stunting,16.8,29.8
+Meghalaya,South Garo Hills,south_garo_hills_meghalaya,wasting,23.7,8.8
+Meghalaya,South Garo Hills,south_garo_hills_meghalaya,underweight,32.6,20.8
+Meghalaya,South Garo Hills,south_garo_hills_meghalaya,overweight,1.7,2.7
+Meghalaya,South West Garo Hills,south_west_garo_hills_meghalaya,stunting,43.8,32.2
+Meghalaya,South West Garo Hills,south_west_garo_hills_meghalaya,wasting,6.5,7.1
+Meghalaya,South West Garo Hills,south_west_garo_hills_meghalaya,underweight,28.9,26.4
+Meghalaya,South West Garo Hills,south_west_garo_hills_meghalaya,overweight,3.9,3.3
+Meghalaya,South West Khasi Hills,south_west_khasi_hills_meghalaya,stunting,43.8,51.4
+Meghalaya,South West Khasi Hills,south_west_khasi_hills_meghalaya,wasting,6.5,4.1
+Meghalaya,South West Khasi Hills,south_west_khasi_hills_meghalaya,underweight,28.9,27.6
+Meghalaya,South West Khasi Hills,south_west_khasi_hills_meghalaya,overweight,3.9,3.5
+Meghalaya,West Garo Hills,west_garo_hills_meghalaya,stunting,43.8,39.5
+Meghalaya,West Garo Hills,west_garo_hills_meghalaya,wasting,6.5,4.7
+Meghalaya,West Garo Hills,west_garo_hills_meghalaya,underweight,28.9,26.3
+Meghalaya,West Garo Hills,west_garo_hills_meghalaya,overweight,3.9,5.2
+Meghalaya,West Jaintia Hills,west_jaintia_hills_meghalaya,stunting,43.8,48.7
+Meghalaya,West Jaintia Hills,west_jaintia_hills_meghalaya,wasting,6.5,4
+Meghalaya,West Jaintia Hills,west_jaintia_hills_meghalaya,underweight,28.9,28.3
+Meghalaya,West Jaintia Hills,west_jaintia_hills_meghalaya,overweight,3.9,3
+Meghalaya,West Khasi Hills,west_khasi_hills_meghalaya,stunting,43.8,59
+Meghalaya,West Khasi Hills,west_khasi_hills_meghalaya,wasting,6.5,2.7
+Meghalaya,West Khasi Hills,west_khasi_hills_meghalaya,underweight,28.9,31.1
+Meghalaya,West Khasi Hills,west_khasi_hills_meghalaya,overweight,3.9,3.1
+Manipur,Bishnupur,bishnupur_manipur,stunting,24.7,15.5
+Manipur,Bishnupur,bishnupur_manipur,wasting,2,2.1
+Manipur,Bishnupur,bishnupur_manipur,underweight,13.7,11.7
+Manipur,Bishnupur,bishnupur_manipur,overweight,2.1,3.1
+Manipur,Chandel,chandel_manipur,stunting,36.1,34
+Manipur,Chandel,chandel_manipur,wasting,3.1,3.2
+Manipur,Chandel,chandel_manipur,underweight,13.2,14.7
+Manipur,Chandel,chandel_manipur,overweight,4.1,8.7
+Manipur,Churachandpur,churachandpur_manipur,stunting,35.7,25.1
+Manipur,Churachandpur,churachandpur_manipur,wasting,2.5,5.8
+Manipur,Churachandpur,churachandpur_manipur,underweight,11.3,9.8
+Manipur,Churachandpur,churachandpur_manipur,overweight,3.1,4.5
+Manipur,Imphal East,imphal_east_manipur,stunting,26.2,18.4
+Manipur,Imphal East,imphal_east_manipur,wasting,2.4,2.4
+Manipur,Imphal East,imphal_east_manipur,underweight,17.1,14.4
+Manipur,Imphal East,imphal_east_manipur,overweight,1.5,0.5
+Manipur,Imphal West,imphal_west_manipur,stunting,21,15.6
+Manipur,Imphal West,imphal_west_manipur,wasting,1.3,3.1
+Manipur,Imphal West,imphal_west_manipur,underweight,8.4,10.2
+Manipur,Imphal West,imphal_west_manipur,overweight,3,2.6
+Manipur,Senapati,senapati_manipur,stunting,35,27.3
+Manipur,Senapati,senapati_manipur,wasting,2.5,5.5
+Manipur,Senapati,senapati_manipur,underweight,14.7,12.9
+Manipur,Senapati,senapati_manipur,overweight,6.2,6.7
+Manipur,Tamenglong,tamenglong_manipur,stunting,37.1,27.1
+Manipur,Tamenglong,tamenglong_manipur,wasting,3.9,3.2
+Manipur,Tamenglong,tamenglong_manipur,underweight,16.3,19.3
+Manipur,Tamenglong,tamenglong_manipur,overweight,4,1.6
+Manipur,Thoubal,thoubal_manipur,stunting,30.1,31.5
+Manipur,Thoubal,thoubal_manipur,wasting,1.7,2.9
+Manipur,Thoubal,thoubal_manipur,underweight,17.9,14.9
+Manipur,Thoubal,thoubal_manipur,overweight,3.1,4.9
+Manipur,Ukhrul,ukhrul_manipur,stunting,32.7,27.1
+Manipur,Ukhrul,ukhrul_manipur,wasting,3.2,5.3
+Manipur,Ukhrul,ukhrul_manipur,underweight,11.1,16
+Manipur,Ukhrul,ukhrul_manipur,overweight,3.5,2
+Madhya Pradesh,Agar Malwa,agar_malwa_madhya_pradesh,stunting,42,40.3
+Madhya Pradesh,Agar Malwa,agar_malwa_madhya_pradesh,wasting,9.2,5.7
+Madhya Pradesh,Agar Malwa,agar_malwa_madhya_pradesh,underweight,42.8,35.7
+Madhya Pradesh,Agar Malwa,agar_malwa_madhya_pradesh,overweight,1.7,0
+Madhya Pradesh,Alirajpur,alirajpur_madhya_pradesh,stunting,48.6,34.6
+Madhya Pradesh,Alirajpur,alirajpur_madhya_pradesh,wasting,11.3,5.4
+Madhya Pradesh,Alirajpur,alirajpur_madhya_pradesh,underweight,52.4,31.6
+Madhya Pradesh,Alirajpur,alirajpur_madhya_pradesh,overweight,1.3,2.3
+Madhya Pradesh,Anuppur,anuppur_madhya_pradesh,stunting,33.5,24
+Madhya Pradesh,Anuppur,anuppur_madhya_pradesh,wasting,13.9,5.3
+Madhya Pradesh,Anuppur,anuppur_madhya_pradesh,underweight,40,30.7
+Madhya Pradesh,Anuppur,anuppur_madhya_pradesh,overweight,4.5,0.9
+Madhya Pradesh,Ashoknagar,ashoknagar_madhya_pradesh,stunting,42.5,32.6
+Madhya Pradesh,Ashoknagar,ashoknagar_madhya_pradesh,wasting,10.8,4.5
+Madhya Pradesh,Ashoknagar,ashoknagar_madhya_pradesh,underweight,46.3,31.1
+Madhya Pradesh,Ashoknagar,ashoknagar_madhya_pradesh,overweight,1,0.5
+Madhya Pradesh,Balaghat,balaghat_madhya_pradesh,stunting,32.1,41.9
+Madhya Pradesh,Balaghat,balaghat_madhya_pradesh,wasting,8.9,5.4
+Madhya Pradesh,Balaghat,balaghat_madhya_pradesh,underweight,41.5,44.9
+Madhya Pradesh,Balaghat,balaghat_madhya_pradesh,overweight,0.3,1
+Madhya Pradesh,Barwani,barwani_madhya_pradesh,stunting,52,45.8
+Madhya Pradesh,Barwani,barwani_madhya_pradesh,wasting,8.7,6
+Madhya Pradesh,Barwani,barwani_madhya_pradesh,underweight,55,41
+Madhya Pradesh,Barwani,barwani_madhya_pradesh,overweight,0.8,3.6
+Madhya Pradesh,Betul,betul_madhya_pradesh,stunting,34.7,30.8
+Madhya Pradesh,Betul,betul_madhya_pradesh,wasting,11.1,4.5
+Madhya Pradesh,Betul,betul_madhya_pradesh,underweight,45,31.4
+Madhya Pradesh,Betul,betul_madhya_pradesh,overweight,0.6,0
+Madhya Pradesh,Bhind,bhind_madhya_pradesh,stunting,47.6,32.2
+Madhya Pradesh,Bhind,bhind_madhya_pradesh,wasting,12.6,4.9
+Madhya Pradesh,Bhind,bhind_madhya_pradesh,underweight,49.8,29
+Madhya Pradesh,Bhind,bhind_madhya_pradesh,overweight,1.3,1.2
+Madhya Pradesh,Bhopal,bhopal_madhya_pradesh,stunting,47.6,19.9
+Madhya Pradesh,Bhopal,bhopal_madhya_pradesh,wasting,8.1,4.3
+Madhya Pradesh,Bhopal,bhopal_madhya_pradesh,underweight,39.5,29.1
+Madhya Pradesh,Bhopal,bhopal_madhya_pradesh,overweight,5.2,1.8
+Madhya Pradesh,Burhanpur,burhanpur_madhya_pradesh,stunting,50,38.7
+Madhya Pradesh,Burhanpur,burhanpur_madhya_pradesh,wasting,6.7,13.1
+Madhya Pradesh,Burhanpur,burhanpur_madhya_pradesh,underweight,46.1,47.2
+Madhya Pradesh,Burhanpur,burhanpur_madhya_pradesh,overweight,1.3,3.2
+Madhya Pradesh,Chhatarpur,chhatarpur_madhya_pradesh,stunting,42.7,45.1
+Madhya Pradesh,Chhatarpur,chhatarpur_madhya_pradesh,wasting,7.2,5.8
+Madhya Pradesh,Chhatarpur,chhatarpur_madhya_pradesh,underweight,41.3,34.6
+Madhya Pradesh,Chhatarpur,chhatarpur_madhya_pradesh,overweight,1.2,1.4
+Madhya Pradesh,Chhindwara,chhindwara_madhya_pradesh,stunting,33.6,23.9
+Madhya Pradesh,Chhindwara,chhindwara_madhya_pradesh,wasting,10.6,4.5
+Madhya Pradesh,Chhindwara,chhindwara_madhya_pradesh,underweight,41.4,32.8
+Madhya Pradesh,Chhindwara,chhindwara_madhya_pradesh,overweight,2.1,0.3
+Madhya Pradesh,Damoh,damoh_madhya_pradesh,stunting,43.2,40.3
+Madhya Pradesh,Damoh,damoh_madhya_pradesh,wasting,8.8,6
+Madhya Pradesh,Damoh,damoh_madhya_pradesh,underweight,38,32.3
+Madhya Pradesh,Damoh,damoh_madhya_pradesh,overweight,1.9,2.4
+Madhya Pradesh,Datia,datia_madhya_pradesh,stunting,48.9,36.8
+Madhya Pradesh,Datia,datia_madhya_pradesh,wasting,8.2,6.8
+Madhya Pradesh,Datia,datia_madhya_pradesh,underweight,46.9,29.4
+Madhya Pradesh,Datia,datia_madhya_pradesh,overweight,1.7,2.8
+Madhya Pradesh,Dewas,dewas_madhya_pradesh,stunting,42,36.8
+Madhya Pradesh,Dewas,dewas_madhya_pradesh,wasting,5.5,7.6
+Madhya Pradesh,Dewas,dewas_madhya_pradesh,underweight,44.7,30.7
+Madhya Pradesh,Dewas,dewas_madhya_pradesh,overweight,0.7,4.5
+Madhya Pradesh,Dhar,dhar_madhya_pradesh,stunting,42.6,28.8
+Madhya Pradesh,Dhar,dhar_madhya_pradesh,wasting,10.5,11.1
+Madhya Pradesh,Dhar,dhar_madhya_pradesh,underweight,47.9,35.9
+Madhya Pradesh,Dhar,dhar_madhya_pradesh,overweight,1,5.2
+Madhya Pradesh,Dindori,dindori_madhya_pradesh,stunting,45.8,38.9
+Madhya Pradesh,Dindori,dindori_madhya_pradesh,wasting,10.5,4.6
+Madhya Pradesh,Dindori,dindori_madhya_pradesh,underweight,46.6,33.6
+Madhya Pradesh,Dindori,dindori_madhya_pradesh,overweight,1,1.9
+Madhya Pradesh,Guna,guna_madhya_pradesh,stunting,43.4,31.9
+Madhya Pradesh,Guna,guna_madhya_pradesh,wasting,12.1,4.3
+Madhya Pradesh,Guna,guna_madhya_pradesh,underweight,51.2,25.1
+Madhya Pradesh,Guna,guna_madhya_pradesh,overweight,2,1.6
+Madhya Pradesh,Gwalior,gwalior_madhya_pradesh,stunting,42.8,40.1
+Madhya Pradesh,Gwalior,gwalior_madhya_pradesh,wasting,11.1,2.4
+Madhya Pradesh,Gwalior,gwalior_madhya_pradesh,underweight,48.5,33
+Madhya Pradesh,Gwalior,gwalior_madhya_pradesh,overweight,1.1,0.7
+Madhya Pradesh,Harda,harda_madhya_pradesh,stunting,39.7,38.8
+Madhya Pradesh,Harda,harda_madhya_pradesh,wasting,8.6,18.8
+Madhya Pradesh,Harda,harda_madhya_pradesh,underweight,40.6,34.7
+Madhya Pradesh,Harda,harda_madhya_pradesh,overweight,1.8,5.3
+Madhya Pradesh,Hoshangabad,hoshangabad_madhya_pradesh,stunting,37.2,34.8
+Madhya Pradesh,Hoshangabad,hoshangabad_madhya_pradesh,wasting,10.6,8.2
+Madhya Pradesh,Hoshangabad,hoshangabad_madhya_pradesh,underweight,40.7,27.2
+Madhya Pradesh,Hoshangabad,hoshangabad_madhya_pradesh,overweight,1.1,2.8
+Madhya Pradesh,Indore,indore_madhya_pradesh,stunting,39.2,28.7
+Madhya Pradesh,Indore,indore_madhya_pradesh,wasting,6.7,6.3
+Madhya Pradesh,Indore,indore_madhya_pradesh,underweight,30.6,24.9
+Madhya Pradesh,Indore,indore_madhya_pradesh,overweight,4.5,2.2
+Madhya Pradesh,Jabalpur,jabalpur_madhya_pradesh,stunting,36.2,18
+Madhya Pradesh,Jabalpur,jabalpur_madhya_pradesh,wasting,10.5,10
+Madhya Pradesh,Jabalpur,jabalpur_madhya_pradesh,underweight,42.7,31.3
+Madhya Pradesh,Jabalpur,jabalpur_madhya_pradesh,overweight,0.6,0
+Madhya Pradesh,Jhabua,jhabua_madhya_pradesh,stunting,45.6,49.3
+Madhya Pradesh,Jhabua,jhabua_madhya_pradesh,wasting,9,5.6
+Madhya Pradesh,Jhabua,jhabua_madhya_pradesh,underweight,43.6,41.7
+Madhya Pradesh,Jhabua,jhabua_madhya_pradesh,overweight,2.2,1.1
+Madhya Pradesh,Katni,katni_madhya_pradesh,stunting,45.5,49.5
+Madhya Pradesh,Katni,katni_madhya_pradesh,wasting,12.2,10.6
+Madhya Pradesh,Katni,katni_madhya_pradesh,underweight,43.1,44
+Madhya Pradesh,Katni,katni_madhya_pradesh,overweight,2.4,1.7
+Madhya Pradesh,Khandwa (East Nimar),khandwa_east_nimar_madhya_pradesh,stunting,43.6,38.4
+Madhya Pradesh,Khandwa (East Nimar),khandwa_east_nimar_madhya_pradesh,wasting,6.6,7.5
+Madhya Pradesh,Khandwa (East Nimar),khandwa_east_nimar_madhya_pradesh,underweight,46.8,35.3
+Madhya Pradesh,Khandwa (East Nimar),khandwa_east_nimar_madhya_pradesh,overweight,0.2,3.2
+Madhya Pradesh,Khargone (West Nimar),khargone_west_nimar_madhya_pradesh,stunting,48.3,31.4
+Madhya Pradesh,Khargone (West Nimar),khargone_west_nimar_madhya_pradesh,wasting,5.7,11.9
+Madhya Pradesh,Khargone (West Nimar),khargone_west_nimar_madhya_pradesh,underweight,44.7,44
+Madhya Pradesh,Khargone (West Nimar),khargone_west_nimar_madhya_pradesh,overweight,0.9,4.9
+Madhya Pradesh,Mandla,mandla_madhya_pradesh,stunting,36.9,32.1
+Madhya Pradesh,Mandla,mandla_madhya_pradesh,wasting,11,3.9
+Madhya Pradesh,Mandla,mandla_madhya_pradesh,underweight,49.8,33
+Madhya Pradesh,Mandla,mandla_madhya_pradesh,overweight,0.3,2
+Madhya Pradesh,Mandsaur,mandsaur_madhya_pradesh,stunting,34,30.9
+Madhya Pradesh,Mandsaur,mandsaur_madhya_pradesh,wasting,7.5,4.1
+Madhya Pradesh,Mandsaur,mandsaur_madhya_pradesh,underweight,31.2,22.9
+Madhya Pradesh,Mandsaur,mandsaur_madhya_pradesh,overweight,0.8,1.2
+Madhya Pradesh,Morena,morena_madhya_pradesh,stunting,47.7,40
+Madhya Pradesh,Morena,morena_madhya_pradesh,wasting,12.5,2.7
+Madhya Pradesh,Morena,morena_madhya_pradesh,underweight,52.2,29.6
+Madhya Pradesh,Morena,morena_madhya_pradesh,overweight,1.3,2.4
+Madhya Pradesh,Narsinghpur,narsinghpur_madhya_pradesh,stunting,37.9,32
+Madhya Pradesh,Narsinghpur,narsinghpur_madhya_pradesh,wasting,10.1,5.1
+Madhya Pradesh,Narsinghpur,narsinghpur_madhya_pradesh,underweight,35.3,28.1
+Madhya Pradesh,Narsinghpur,narsinghpur_madhya_pradesh,overweight,0.3,1
+Madhya Pradesh,Neemuch,neemuch_madhya_pradesh,stunting,36.3,33
+Madhya Pradesh,Neemuch,neemuch_madhya_pradesh,wasting,8.2,5.4
+Madhya Pradesh,Neemuch,neemuch_madhya_pradesh,underweight,39.2,27.7
+Madhya Pradesh,Neemuch,neemuch_madhya_pradesh,overweight,1.2,2.5
+Madhya Pradesh,Panna,panna_madhya_pradesh,stunting,42.3,45.1
+Madhya Pradesh,Panna,panna_madhya_pradesh,wasting,10,7.9
+Madhya Pradesh,Panna,panna_madhya_pradesh,underweight,40.8,39.2
+Madhya Pradesh,Panna,panna_madhya_pradesh,overweight,1.4,2.4
+Madhya Pradesh,Raisen,raisen_madhya_pradesh,stunting,45.8,30.4
+Madhya Pradesh,Raisen,raisen_madhya_pradesh,wasting,7.3,4.8
+Madhya Pradesh,Raisen,raisen_madhya_pradesh,underweight,44.4,25.4
+Madhya Pradesh,Raisen,raisen_madhya_pradesh,overweight,2.1,0
+Madhya Pradesh,Rajgarh,rajgarh_madhya_pradesh,stunting,38.8,27.6
+Madhya Pradesh,Rajgarh,rajgarh_madhya_pradesh,wasting,9,9
+Madhya Pradesh,Rajgarh,rajgarh_madhya_pradesh,underweight,46.8,26.8
+Madhya Pradesh,Rajgarh,rajgarh_madhya_pradesh,overweight,1.4,4.1
+Madhya Pradesh,Ratlam,ratlam_madhya_pradesh,stunting,46.1,29
+Madhya Pradesh,Ratlam,ratlam_madhya_pradesh,wasting,7.5,4.2
+Madhya Pradesh,Ratlam,ratlam_madhya_pradesh,underweight,41.9,28.6
+Madhya Pradesh,Ratlam,ratlam_madhya_pradesh,overweight,0.8,1.2
+Madhya Pradesh,Rewa,rewa_madhya_pradesh,stunting,40.4,37
+Madhya Pradesh,Rewa,rewa_madhya_pradesh,wasting,7.4,8.3
+Madhya Pradesh,Rewa,rewa_madhya_pradesh,underweight,36.2,31.5
+Madhya Pradesh,Rewa,rewa_madhya_pradesh,overweight,1.9,2.9
+Madhya Pradesh,Sagar,sagar_madhya_pradesh,stunting,41,42.7
+Madhya Pradesh,Sagar,sagar_madhya_pradesh,wasting,5.2,4.7
+Madhya Pradesh,Sagar,sagar_madhya_pradesh,underweight,30.5,35.8
+Madhya Pradesh,Sagar,sagar_madhya_pradesh,overweight,2,2.3
+Madhya Pradesh,Satna,satna_madhya_pradesh,stunting,41.2,49.4
+Madhya Pradesh,Satna,satna_madhya_pradesh,wasting,10.1,6.2
+Madhya Pradesh,Satna,satna_madhya_pradesh,underweight,39.6,31.2
+Madhya Pradesh,Satna,satna_madhya_pradesh,overweight,1,2.3
+Madhya Pradesh,Sehore,sehore_madhya_pradesh,stunting,33.6,21.9
+Madhya Pradesh,Sehore,sehore_madhya_pradesh,wasting,12.5,9.6
+Madhya Pradesh,Sehore,sehore_madhya_pradesh,underweight,39.9,27.6
+Madhya Pradesh,Sehore,sehore_madhya_pradesh,overweight,1.7,3
+Madhya Pradesh,Seoni,seoni_madhya_pradesh,stunting,34.7,23.5
+Madhya Pradesh,Seoni,seoni_madhya_pradesh,wasting,12.9,5
+Madhya Pradesh,Seoni,seoni_madhya_pradesh,underweight,43.8,31.1
+Madhya Pradesh,Seoni,seoni_madhya_pradesh,overweight,0.4,0
+Madhya Pradesh,Shahdol,shahdol_madhya_pradesh,stunting,36.7,44
+Madhya Pradesh,Shahdol,shahdol_madhya_pradesh,wasting,10.9,5.5
+Madhya Pradesh,Shahdol,shahdol_madhya_pradesh,underweight,41.2,39.2
+Madhya Pradesh,Shahdol,shahdol_madhya_pradesh,overweight,1.5,2.1
+Madhya Pradesh,Shajapur,shajapur_madhya_pradesh,stunting,42,27.8
+Madhya Pradesh,Shajapur,shajapur_madhya_pradesh,wasting,9.2,9.7
+Madhya Pradesh,Shajapur,shajapur_madhya_pradesh,underweight,42.8,27.6
+Madhya Pradesh,Shajapur,shajapur_madhya_pradesh,overweight,1.7,2.5
+Madhya Pradesh,Sheopur,sheopur_madhya_pradesh,stunting,52.1,45.8
+Madhya Pradesh,Sheopur,sheopur_madhya_pradesh,wasting,9,7.9
+Madhya Pradesh,Sheopur,sheopur_madhya_pradesh,underweight,55,37.7
+Madhya Pradesh,Sheopur,sheopur_madhya_pradesh,overweight,0.7,1.2
+Madhya Pradesh,Shivpuri,shivpuri_madhya_pradesh,stunting,48.6,39.2
+Madhya Pradesh,Shivpuri,shivpuri_madhya_pradesh,wasting,7.7,5.7
+Madhya Pradesh,Shivpuri,shivpuri_madhya_pradesh,underweight,49.6,36.1
+Madhya Pradesh,Shivpuri,shivpuri_madhya_pradesh,overweight,0.7,0
+Madhya Pradesh,Sidhi,sidhi_madhya_pradesh,stunting,48.7,39.1
+Madhya Pradesh,Sidhi,sidhi_madhya_pradesh,wasting,8.5,6.4
+Madhya Pradesh,Sidhi,sidhi_madhya_pradesh,underweight,43.9,32.8
+Madhya Pradesh,Sidhi,sidhi_madhya_pradesh,overweight,3.2,2.5
+Madhya Pradesh,Singrauli,singrauli_madhya_pradesh,stunting,33,37.3
+Madhya Pradesh,Singrauli,singrauli_madhya_pradesh,wasting,17.4,6.6
+Madhya Pradesh,Singrauli,singrauli_madhya_pradesh,underweight,37.5,36
+Madhya Pradesh,Singrauli,singrauli_madhya_pradesh,overweight,2.1,0.9
+Madhya Pradesh,Tikamgarh,tikamgarh_madhya_pradesh,stunting,49.7,27.5
+Madhya Pradesh,Tikamgarh,tikamgarh_madhya_pradesh,wasting,7.6,7.3
+Madhya Pradesh,Tikamgarh,tikamgarh_madhya_pradesh,underweight,43.3,34.9
+Madhya Pradesh,Tikamgarh,tikamgarh_madhya_pradesh,overweight,0.5,0
+Madhya Pradesh,Ujjain,ujjain_madhya_pradesh,stunting,35.8,34.7
+Madhya Pradesh,Ujjain,ujjain_madhya_pradesh,wasting,6.9,12.6
+Madhya Pradesh,Ujjain,ujjain_madhya_pradesh,underweight,31.3,36.2
+Madhya Pradesh,Ujjain,ujjain_madhya_pradesh,overweight,2.9,2.8
+Madhya Pradesh,Umaria,umaria_madhya_pradesh,stunting,41.1,45.3
+Madhya Pradesh,Umaria,umaria_madhya_pradesh,wasting,9.4,4
+Madhya Pradesh,Umaria,umaria_madhya_pradesh,underweight,46.6,36.6
+Madhya Pradesh,Umaria,umaria_madhya_pradesh,overweight,0.3,2.7
+Mizoram,Aizawl,aizawl_mizoram,stunting,23.7,25.3
+Mizoram,Aizawl,aizawl_mizoram,wasting,0.8,2.4
+Mizoram,Aizawl,aizawl_mizoram,underweight,6.7,9.6
+Mizoram,Aizawl,aizawl_mizoram,overweight,5.6,12.3
+Mizoram,Champhai,champhai_mizoram,stunting,32.9,27.2
+Mizoram,Champhai,champhai_mizoram,wasting,2.6,7.6
+Mizoram,Champhai,champhai_mizoram,underweight,12.7,13.1
+Mizoram,Champhai,champhai_mizoram,overweight,3.8,10.6
+Mizoram,Kolasib,kolasib_mizoram,stunting,26.3,30.4
+Mizoram,Kolasib,kolasib_mizoram,wasting,2.4,5.3
+Mizoram,Kolasib,kolasib_mizoram,underweight,11.4,12.6
+Mizoram,Kolasib,kolasib_mizoram,overweight,3.7,7.6
+Mizoram,Lawngtlai,lawngtlai_mizoram,stunting,35.3,32.7
+Mizoram,Lawngtlai,lawngtlai_mizoram,wasting,5.9,11.4
+Mizoram,Lawngtlai,lawngtlai_mizoram,underweight,21.3,16.9
+Mizoram,Lawngtlai,lawngtlai_mizoram,overweight,2.5,9.1
+Mizoram,Lunglei,lunglei_mizoram,stunting,25.3,26.5
+Mizoram,Lunglei,lunglei_mizoram,wasting,1.7,3.3
+Mizoram,Lunglei,lunglei_mizoram,underweight,13.1,11.1
+Mizoram,Lunglei,lunglei_mizoram,overweight,3.2,10.1
+Mizoram,Mamit,mamit_mizoram,stunting,30.8,26.4
+Mizoram,Mamit,mamit_mizoram,wasting,2.7,3.8
+Mizoram,Mamit,mamit_mizoram,underweight,17.5,13.9
+Mizoram,Mamit,mamit_mizoram,overweight,3.1,5.9
+Mizoram,Saiha,saiha_mizoram,stunting,37.5,43.8
+Mizoram,Saiha,saiha_mizoram,wasting,4,3.4
+Mizoram,Saiha,saiha_mizoram,underweight,16.7,17.6
+Mizoram,Saiha,saiha_mizoram,overweight,4.2,11.1
+Mizoram,Serchhip,serchhip_mizoram,stunting,25.4,31.8
+Mizoram,Serchhip,serchhip_mizoram,wasting,3.1,4.4
+Mizoram,Serchhip,serchhip_mizoram,underweight,12.2,14.4
+Mizoram,Serchhip,serchhip_mizoram,overweight,3.4,8.7
+Nagaland,Dimapur,dimapur_nagaland,stunting,21.3,28.3
+Nagaland,Dimapur,dimapur_nagaland,wasting,3.1,12
+Nagaland,Dimapur,dimapur_nagaland,underweight,14.9,29.8
+Nagaland,Dimapur,dimapur_nagaland,overweight,2.6,3.8
+Nagaland,Kiphire,kiphire_nagaland,stunting,41.8,36.9
+Nagaland,Kiphire,kiphire_nagaland,wasting,6.4,5.8
+Nagaland,Kiphire,kiphire_nagaland,underweight,25.6,25
+Nagaland,Kiphire,kiphire_nagaland,overweight,1.7,7.5
+Nagaland,Kohima,kohima_nagaland,stunting,24.7,28.3
+Nagaland,Kohima,kohima_nagaland,wasting,3.2,11.4
+Nagaland,Kohima,kohima_nagaland,underweight,15.2,22.1
+Nagaland,Kohima,kohima_nagaland,overweight,4.9,6.6
+Nagaland,Longleng,longleng_nagaland,stunting,26.1,34.1
+Nagaland,Longleng,longleng_nagaland,wasting,9,9.6
+Nagaland,Longleng,longleng_nagaland,underweight,17.1,25.7
+Nagaland,Longleng,longleng_nagaland,overweight,6.2,6.8
+Nagaland,Mokokchung,mokokchung_nagaland,stunting,19.8,31.4
+Nagaland,Mokokchung,mokokchung_nagaland,wasting,0,3.5
+Nagaland,Mokokchung,mokokchung_nagaland,underweight,5.8,22.9
+Nagaland,Mokokchung,mokokchung_nagaland,overweight,2,5.9
+Nagaland,Mon,mon_nagaland,stunting,35.8,35.5
+Nagaland,Mon,mon_nagaland,wasting,9.7,0.5
+Nagaland,Mon,mon_nagaland,underweight,24.5,23.3
+Nagaland,Mon,mon_nagaland,overweight,7.2,3.2
+Nagaland,Peren,peren_nagaland,stunting,29.8,34.9
+Nagaland,Peren,peren_nagaland,wasting,1,1.7
+Nagaland,Peren,peren_nagaland,underweight,10.3,20.7
+Nagaland,Peren,peren_nagaland,overweight,0.5,4.1
+Nagaland,Phek,phek_nagaland,stunting,27.8,28
+Nagaland,Phek,phek_nagaland,wasting,1.7,6.3
+Nagaland,Phek,phek_nagaland,underweight,12.8,15.6
+Nagaland,Phek,phek_nagaland,overweight,4.8,6.8
+Nagaland,Tuensang,tuensang_nagaland,stunting,35.5,37.1
+Nagaland,Tuensang,tuensang_nagaland,wasting,4.2,10.3
+Nagaland,Tuensang,tuensang_nagaland,underweight,20.3,34.2
+Nagaland,Tuensang,tuensang_nagaland,overweight,2.8,5.5
+Nagaland,Wokha,wokha_nagaland,stunting,18,26.3
+Nagaland,Wokha,wokha_nagaland,wasting,2.3,10.6
+Nagaland,Wokha,wokha_nagaland,underweight,11.9,28
+Nagaland,Wokha,wokha_nagaland,overweight,2.1,1.1
+Nagaland,Zunheboto,zunheboto_nagaland,stunting,31.1,44
+Nagaland,Zunheboto,zunheboto_nagaland,wasting,2.1,10.3
+Nagaland,Zunheboto,zunheboto_nagaland,underweight,13.7,44.5
+Nagaland,Zunheboto,zunheboto_nagaland,overweight,3.7,1.5
+Odisha,Anugul,anugul_odisha,stunting,31.8,28.1
+Odisha,Anugul,anugul_odisha,wasting,7.7,7.7
+Odisha,Anugul,anugul_odisha,underweight,35.3,30.5
+Odisha,Anugul,anugul_odisha,overweight,1.4,3.5
+Odisha,Balangir,balangir_odisha,stunting,44.4,32.7
+Odisha,Balangir,balangir_odisha,wasting,9.5,12.7
+Odisha,Balangir,balangir_odisha,underweight,44.7,37.6
+Odisha,Balangir,balangir_odisha,overweight,0.6,2.1
+Odisha,Baleshwar,baleshwar_odisha,stunting,33.2,24.4
+Odisha,Baleshwar,baleshwar_odisha,wasting,6.8,5.4
+Odisha,Baleshwar,baleshwar_odisha,underweight,33.7,22.6
+Odisha,Baleshwar,baleshwar_odisha,overweight,2.9,3.8
+Odisha,Bargarh,bargarh_odisha,stunting,39.1,38.9
+Odisha,Bargarh,bargarh_odisha,wasting,8.8,6
+Odisha,Bargarh,bargarh_odisha,underweight,39,30
+Odisha,Bargarh,bargarh_odisha,overweight,2,2.9
+Odisha,Baudh,baudh_odisha,stunting,42.2,37
+Odisha,Baudh,baudh_odisha,wasting,7.1,6.9
+Odisha,Baudh,baudh_odisha,underweight,43.5,38.6
+Odisha,Baudh,baudh_odisha,overweight,1.5,1.6
+Odisha,Bhadrak,bhadrak_odisha,stunting,34.9,32.3
+Odisha,Bhadrak,bhadrak_odisha,wasting,3.8,7.5
+Odisha,Bhadrak,bhadrak_odisha,underweight,28.2,28.9
+Odisha,Bhadrak,bhadrak_odisha,overweight,1.9,4.5
+Odisha,Cuttack,cuttack_odisha,stunting,15.3,20.4
+Odisha,Cuttack,cuttack_odisha,wasting,2.8,5.6
+Odisha,Cuttack,cuttack_odisha,underweight,17.1,18.9
+Odisha,Cuttack,cuttack_odisha,overweight,4.7,5.6
+Odisha,Debagarh,debagarh_odisha,stunting,33.4,28.4
+Odisha,Debagarh,debagarh_odisha,wasting,5.2,12.1
+Odisha,Debagarh,debagarh_odisha,underweight,37.5,34.3
+Odisha,Debagarh,debagarh_odisha,overweight,1.3,3.2
+Odisha,Dhenkanal,dhenkanal_odisha,stunting,26.1,33.3
+Odisha,Dhenkanal,dhenkanal_odisha,wasting,3.4,5.4
+Odisha,Dhenkanal,dhenkanal_odisha,underweight,29.2,30
+Odisha,Dhenkanal,dhenkanal_odisha,overweight,1.6,6.8
+Odisha,Gajapati,gajapati_odisha,stunting,32.5,43.4
+Odisha,Gajapati,gajapati_odisha,wasting,4.8,4.3
+Odisha,Gajapati,gajapati_odisha,underweight,32.1,34.3
+Odisha,Gajapati,gajapati_odisha,overweight,3.3,6.1
+Odisha,Ganjam,ganjam_odisha,stunting,28.9,23.9
+Odisha,Ganjam,ganjam_odisha,wasting,6.3,1.5
+Odisha,Ganjam,ganjam_odisha,underweight,21.3,18.9
+Odisha,Ganjam,ganjam_odisha,overweight,2.9,4.9
+Odisha,Jagatsinghapur,jagatsinghapur_odisha,stunting,19.5,13.2
+Odisha,Jagatsinghapur,jagatsinghapur_odisha,wasting,4.4,5.6
+Odisha,Jagatsinghapur,jagatsinghapur_odisha,underweight,16.5,11
+Odisha,Jagatsinghapur,jagatsinghapur_odisha,overweight,5.5,8.3
+Odisha,Jajapur,jajapur_odisha,stunting,30.3,25.5
+Odisha,Jajapur,jajapur_odisha,wasting,6.1,6.4
+Odisha,Jajapur,jajapur_odisha,underweight,30,21.8
+Odisha,Jajapur,jajapur_odisha,overweight,1.4,2.2
+Odisha,Jharsuguda,jharsuguda_odisha,stunting,34.9,27.1
+Odisha,Jharsuguda,jharsuguda_odisha,wasting,6.7,3.5
+Odisha,Jharsuguda,jharsuguda_odisha,underweight,36.5,26.9
+Odisha,Jharsuguda,jharsuguda_odisha,overweight,4.7,3.1
+Odisha,Kalahandi,kalahandi_odisha,stunting,36.6,33
+Odisha,Kalahandi,kalahandi_odisha,wasting,9,6
+Odisha,Kalahandi,kalahandi_odisha,underweight,39.7,33.6
+Odisha,Kalahandi,kalahandi_odisha,overweight,2.2,2.1
+Odisha,Kandhamal,kandhamal_odisha,stunting,38.4,34.2
+Odisha,Kandhamal,kandhamal_odisha,wasting,8.4,12.4
+Odisha,Kandhamal,kandhamal_odisha,underweight,43.1,35.2
+Odisha,Kandhamal,kandhamal_odisha,overweight,1.7,2.4
+Odisha,Kendrapara,kendrapara_odisha,stunting,26.9,28.6
+Odisha,Kendrapara,kendrapara_odisha,wasting,4.4,1.4
+Odisha,Kendrapara,kendrapara_odisha,underweight,24.1,17.9
+Odisha,Kendrapara,kendrapara_odisha,overweight,3.6,6.6
+Odisha,Kendujhar,kendujhar_odisha,stunting,44.6,36.2
+Odisha,Kendujhar,kendujhar_odisha,wasting,5.3,6.2
+Odisha,Kendujhar,kendujhar_odisha,underweight,44.3,37.1
+Odisha,Kendujhar,kendujhar_odisha,overweight,1.8,0.9
+Odisha,Khordha,khordha_odisha,stunting,24.7,17.1
+Odisha,Khordha,khordha_odisha,wasting,4.4,2.4
+Odisha,Khordha,khordha_odisha,underweight,20.3,16.9
+Odisha,Khordha,khordha_odisha,overweight,6.3,3.3
+Odisha,Koraput,koraput_odisha,stunting,40.3,43.1
+Odisha,Koraput,koraput_odisha,wasting,8.3,6.8
+Odisha,Koraput,koraput_odisha,underweight,44.4,33.5
+Odisha,Koraput,koraput_odisha,overweight,3.3,3.7
+Odisha,Malkangiri,malkangiri_odisha,stunting,45.7,44.3
+Odisha,Malkangiri,malkangiri_odisha,wasting,8.4,5.5
+Odisha,Malkangiri,malkangiri_odisha,underweight,51.8,41.6
+Odisha,Malkangiri,malkangiri_odisha,overweight,2.2,1
+Odisha,Mayurbhanj,mayurbhanj_odisha,stunting,43.5,36.7
+Odisha,Mayurbhanj,mayurbhanj_odisha,wasting,5,10.4
+Odisha,Mayurbhanj,mayurbhanj_odisha,underweight,43.8,45.9
+Odisha,Mayurbhanj,mayurbhanj_odisha,overweight,1.8,3
+Odisha,Nabarangapur,nabarangapur_odisha,stunting,45.8,44.1
+Odisha,Nabarangapur,nabarangapur_odisha,wasting,11.6,9.7
+Odisha,Nabarangapur,nabarangapur_odisha,underweight,51,46.6
+Odisha,Nabarangapur,nabarangapur_odisha,overweight,1.3,5
+Odisha,Nayagarh,nayagarh_odisha,stunting,28,20
+Odisha,Nayagarh,nayagarh_odisha,wasting,4.1,1.5
+Odisha,Nayagarh,nayagarh_odisha,underweight,25.4,20.2
+Odisha,Nayagarh,nayagarh_odisha,overweight,2.4,2.9
+Odisha,Nuapada,nuapada_odisha,stunting,37.6,43.1
+Odisha,Nuapada,nuapada_odisha,wasting,9.2,3.7
+Odisha,Nuapada,nuapada_odisha,underweight,40,38
+Odisha,Nuapada,nuapada_odisha,overweight,1,3.7
+Odisha,Puri,puri_odisha,stunting,16.1,13.8
+Odisha,Puri,puri_odisha,wasting,3,1.5
+Odisha,Puri,puri_odisha,underweight,17.2,11.3
+Odisha,Puri,puri_odisha,overweight,4.4,3.8
+Odisha,Rayagada,rayagada_odisha,stunting,43.5,43.6
+Odisha,Rayagada,rayagada_odisha,wasting,6,3.6
+Odisha,Rayagada,rayagada_odisha,underweight,42.4,39.8
+Odisha,Rayagada,rayagada_odisha,overweight,3.5,0.6
+Odisha,Sambalpur,sambalpur_odisha,stunting,40.2,40.7
+Odisha,Sambalpur,sambalpur_odisha,wasting,6.4,7.6
+Odisha,Sambalpur,sambalpur_odisha,underweight,45.3,36.3
+Odisha,Sambalpur,sambalpur_odisha,overweight,1.1,3.7
+Odisha,Subarnapur,subarnapur_odisha,stunting,47.5,29.6
+Odisha,Subarnapur,subarnapur_odisha,wasting,5.4,11.7
+Odisha,Subarnapur,subarnapur_odisha,underweight,43,34.5
+Odisha,Subarnapur,subarnapur_odisha,overweight,1,3.1
+Odisha,Sundargarh,sundargarh_odisha,stunting,37.2,32.9
+Odisha,Sundargarh,sundargarh_odisha,wasting,9.3,7.4
+Odisha,Sundargarh,sundargarh_odisha,underweight,44.2,34.7
+Odisha,Sundargarh,sundargarh_odisha,overweight,1.6,1.2
+Punjab,Amritsar,amritsar_punjab,stunting,22.4,19.4
+Punjab,Amritsar,amritsar_punjab,wasting,3.5,6.3
+Punjab,Amritsar,amritsar_punjab,underweight,12.8,11.2
+Punjab,Amritsar,amritsar_punjab,overweight,3.4,6.3
+Punjab,Barnala,barnala_punjab,stunting,24.6,33.8
+Punjab,Barnala,barnala_punjab,wasting,6.1,2.4
+Punjab,Barnala,barnala_punjab,underweight,17.9,16.5
+Punjab,Barnala,barnala_punjab,overweight,3.4,6.1
+Punjab,Bathinda,bathinda_punjab,stunting,24.7,23
+Punjab,Bathinda,bathinda_punjab,wasting,3.5,4.8
+Punjab,Bathinda,bathinda_punjab,underweight,17.2,23.8
+Punjab,Bathinda,bathinda_punjab,overweight,1.6,1.2
+Punjab,Faridkot,faridkot_punjab,stunting,34.8,28.1
+Punjab,Faridkot,faridkot_punjab,wasting,10.7,2.8
+Punjab,Faridkot,faridkot_punjab,underweight,26.9,20.7
+Punjab,Faridkot,faridkot_punjab,overweight,1.2,2.7
+Punjab,Fatehgarh Sahib,fatehgarh_sahib_punjab,stunting,18.7,30
+Punjab,Fatehgarh Sahib,fatehgarh_sahib_punjab,wasting,3.7,2.3
+Punjab,Fatehgarh Sahib,fatehgarh_sahib_punjab,underweight,17.1,18.2
+Punjab,Fatehgarh Sahib,fatehgarh_sahib_punjab,overweight,0,4.6
+Punjab,Fazilka,fazilka_punjab,stunting,25.7,35.9
+Punjab,Fazilka,fazilka_punjab,wasting,5.6,3.7
+Punjab,Fazilka,fazilka_punjab,underweight,21.6,20.2
+Punjab,Fazilka,fazilka_punjab,overweight,2.3,4.2
+Punjab,Firozpur,firozpur_punjab,stunting,25.7,30
+Punjab,Firozpur,firozpur_punjab,wasting,5.6,2.2
+Punjab,Firozpur,firozpur_punjab,underweight,21.6,22
+Punjab,Firozpur,firozpur_punjab,overweight,2.3,2.9
+Punjab,Gurudaspur,gurudaspur_punjab,stunting,25.7,25.1
+Punjab,Gurudaspur,gurudaspur_punjab,wasting,5.6,4.5
+Punjab,Gurudaspur,gurudaspur_punjab,underweight,21.6,15.3
+Punjab,Gurudaspur,gurudaspur_punjab,overweight,2.3,6.5
+Punjab,Hoshiarpur,hoshiarpur_punjab,stunting,25.7,19.3
+Punjab,Hoshiarpur,hoshiarpur_punjab,wasting,7.1,2.5
+Punjab,Hoshiarpur,hoshiarpur_punjab,underweight,21.1,12.4
+Punjab,Hoshiarpur,hoshiarpur_punjab,overweight,3.9,3.8
+Punjab,Jalandhar,jalandhar_punjab,stunting,29.3,24.8
+Punjab,Jalandhar,jalandhar_punjab,wasting,5.6,4.4
+Punjab,Jalandhar,jalandhar_punjab,underweight,25.4,16.7
+Punjab,Jalandhar,jalandhar_punjab,overweight,1.4,1.8
+Punjab,Kapurthala,kapurthala_punjab,stunting,20.8,24.6
+Punjab,Kapurthala,kapurthala_punjab,wasting,2.4,9.1
+Punjab,Kapurthala,kapurthala_punjab,underweight,20.5,19.2
+Punjab,Kapurthala,kapurthala_punjab,overweight,0.6,4.9
+Punjab,Ludhiana,ludhiana_punjab,stunting,30.1,22.1
+Punjab,Ludhiana,ludhiana_punjab,wasting,3.1,1
+Punjab,Ludhiana,ludhiana_punjab,underweight,28.5,12.4
+Punjab,Ludhiana,ludhiana_punjab,overweight,1.1,6.4
+Punjab,Mansa,mansa_punjab,stunting,29.6,36.6
+Punjab,Mansa,mansa_punjab,wasting,6.9,3.4
+Punjab,Mansa,mansa_punjab,underweight,24.9,22.7
+Punjab,Mansa,mansa_punjab,overweight,0.7,3.1
+Punjab,Moga,moga_punjab,stunting,28.6,22
+Punjab,Moga,moga_punjab,wasting,8,3.1
+Punjab,Moga,moga_punjab,underweight,24.4,16.8
+Punjab,Moga,moga_punjab,overweight,2,4.9
+Punjab,Muktsar,muktsar_punjab,stunting,31.5,35
+Punjab,Muktsar,muktsar_punjab,wasting,4.1,6.5
+Punjab,Muktsar,muktsar_punjab,underweight,22.4,30.7
+Punjab,Muktsar,muktsar_punjab,overweight,4,2.8
+Punjab,Pathankot,pathankot_punjab,stunting,25.7,22.1
+Punjab,Pathankot,pathankot_punjab,wasting,5.6,2.9
+Punjab,Pathankot,pathankot_punjab,underweight,21.6,10.8
+Punjab,Pathankot,pathankot_punjab,overweight,2.3,7.8
+Punjab,Patiala,patiala_punjab,stunting,17.6,20.3
+Punjab,Patiala,patiala_punjab,wasting,5.4,1.8
+Punjab,Patiala,patiala_punjab,underweight,13.6,16.9
+Punjab,Patiala,patiala_punjab,overweight,6,0.4
+Punjab,Rupnagar,rupnagar_punjab,stunting,19,15.1
+Punjab,Rupnagar,rupnagar_punjab,wasting,3.6,3.2
+Punjab,Rupnagar,rupnagar_punjab,underweight,20.1,15.3
+Punjab,Rupnagar,rupnagar_punjab,overweight,0,2.5
+Punjab,Sahibzada Ajit Singh Nagar,sahibzada_ajit_singh_nagar_punjab,stunting,24.1,26.2
+Punjab,Sahibzada Ajit Singh Nagar,sahibzada_ajit_singh_nagar_punjab,wasting,1.2,2.3
+Punjab,Sahibzada Ajit Singh Nagar,sahibzada_ajit_singh_nagar_punjab,underweight,24,23
+Punjab,Sahibzada Ajit Singh Nagar,sahibzada_ajit_singh_nagar_punjab,overweight,2.4,4.6
+Punjab,Sangrur,sangrur_punjab,stunting,27.3,23.4
+Punjab,Sangrur,sangrur_punjab,wasting,7.8,3.8
+Punjab,Sangrur,sangrur_punjab,underweight,19.2,18.1
+Punjab,Sangrur,sangrur_punjab,overweight,5.5,2.7
+Punjab,Shahid Bhagat Singh Nagar,shahid_bhagat_singh_nagar_punjab,stunting,23.3,17.9
+Punjab,Shahid Bhagat Singh Nagar,shahid_bhagat_singh_nagar_punjab,wasting,5.4,5.9
+Punjab,Shahid Bhagat Singh Nagar,shahid_bhagat_singh_nagar_punjab,underweight,25.1,11.2
+Punjab,Shahid Bhagat Singh Nagar,shahid_bhagat_singh_nagar_punjab,overweight,3,6.6
+Punjab,Tarn Taran,tarn_taran_punjab,stunting,23.2,23.8
+Punjab,Tarn Taran,tarn_taran_punjab,wasting,3.9,3.6
+Punjab,Tarn Taran,tarn_taran_punjab,underweight,14.3,14.4
+Punjab,Tarn Taran,tarn_taran_punjab,overweight,3.4,4.5
+Puducherry,Karaikal,karaikal_puducherry,stunting,19,25.5
+Puducherry,Karaikal,karaikal_puducherry,wasting,11.9,3.8
+Puducherry,Karaikal,karaikal_puducherry,underweight,24.8,19.7
+Puducherry,Karaikal,karaikal_puducherry,overweight,3,4.3
+Puducherry,Mahe,mahe_puducherry,stunting,31.3,48.2
+Puducherry,Mahe,mahe_puducherry,wasting,1.8,1.2
+Puducherry,Mahe,mahe_puducherry,underweight,13.1,32.6
+Puducherry,Mahe,mahe_puducherry,overweight,14.6,2.6
+Puducherry,Puducherry,puducherry_puducherry,stunting,24.1,17
+Puducherry,Puducherry,puducherry_puducherry,wasting,7,3.7
+Puducherry,Puducherry,puducherry_puducherry,underweight,21.3,13.1
+Puducherry,Puducherry,puducherry_puducherry,overweight,1.4,3.4
+Puducherry,Yanam,yanam_puducherry,stunting,32,25
+Puducherry,Yanam,yanam_puducherry,wasting,7.5,4.3
+Puducherry,Yanam,yanam_puducherry,underweight,27.4,18.7
+Puducherry,Yanam,yanam_puducherry,overweight,4.7,6.9
+Rajasthan,Ajmer,ajmer_rajasthan,stunting,33.5,22.3
+Rajasthan,Ajmer,ajmer_rajasthan,wasting,12.2,11.7
+Rajasthan,Ajmer,ajmer_rajasthan,underweight,39.6,23.1
+Rajasthan,Ajmer,ajmer_rajasthan,overweight,2.3,2.8
+Rajasthan,Alwar,alwar_rajasthan,stunting,41.8,33.9
+Rajasthan,Alwar,alwar_rajasthan,wasting,8.7,7.1
+Rajasthan,Alwar,alwar_rajasthan,underweight,35.6,24
+Rajasthan,Alwar,alwar_rajasthan,overweight,3,4.1
+Rajasthan,Banswara,banswara_rajasthan,stunting,50,44.6
+Rajasthan,Banswara,banswara_rajasthan,wasting,12,7.5
+Rajasthan,Banswara,banswara_rajasthan,underweight,50.7,38.7
+Rajasthan,Banswara,banswara_rajasthan,overweight,0.9,2.1
+Rajasthan,Baran,baran_rajasthan,stunting,40.2,46
+Rajasthan,Baran,baran_rajasthan,wasting,10.6,9
+Rajasthan,Baran,baran_rajasthan,underweight,41.1,40.2
+Rajasthan,Baran,baran_rajasthan,overweight,0.8,3.2
+Rajasthan,Barmer,barmer_rajasthan,stunting,36.6,39.1
+Rajasthan,Barmer,barmer_rajasthan,wasting,9.1,6.2
+Rajasthan,Barmer,barmer_rajasthan,underweight,39.6,31.7
+Rajasthan,Barmer,barmer_rajasthan,overweight,1.3,2.2
+Rajasthan,Bharatpur,bharatpur_rajasthan,stunting,47.6,40.3
+Rajasthan,Bharatpur,bharatpur_rajasthan,wasting,6.7,4.3
+Rajasthan,Bharatpur,bharatpur_rajasthan,underweight,30.9,29.1
+Rajasthan,Bharatpur,bharatpur_rajasthan,overweight,2.8,5.1
+Rajasthan,Bhilwara,bhilwara_rajasthan,stunting,35.5,22.6
+Rajasthan,Bhilwara,bhilwara_rajasthan,wasting,12.9,8.5
+Rajasthan,Bhilwara,bhilwara_rajasthan,underweight,42.6,23.5
+Rajasthan,Bhilwara,bhilwara_rajasthan,overweight,1.6,2.7
+Rajasthan,Bikaner,bikaner_rajasthan,stunting,33.7,22.8
+Rajasthan,Bikaner,bikaner_rajasthan,wasting,9.5,12.6
+Rajasthan,Bikaner,bikaner_rajasthan,underweight,33.2,28.5
+Rajasthan,Bikaner,bikaner_rajasthan,overweight,2.4,3.4
+Rajasthan,Bundi,bundi_rajasthan,stunting,38.4,30
+Rajasthan,Bundi,bundi_rajasthan,wasting,8.6,6.2
+Rajasthan,Bundi,bundi_rajasthan,underweight,43.4,29.1
+Rajasthan,Bundi,bundi_rajasthan,overweight,0.5,1
+Rajasthan,Chittaurgarh,chittaurgarh_rajasthan,stunting,37.4,31.4
+Rajasthan,Chittaurgarh,chittaurgarh_rajasthan,wasting,8.7,4.9
+Rajasthan,Chittaurgarh,chittaurgarh_rajasthan,underweight,41.9,25.9
+Rajasthan,Chittaurgarh,chittaurgarh_rajasthan,overweight,0.8,1
+Rajasthan,Churu,churu_rajasthan,stunting,31.2,27.1
+Rajasthan,Churu,churu_rajasthan,wasting,9.4,5.2
+Rajasthan,Churu,churu_rajasthan,underweight,27.1,23.4
+Rajasthan,Churu,churu_rajasthan,overweight,3.1,4
+Rajasthan,Dausa,dausa_rajasthan,stunting,33.8,37.7
+Rajasthan,Dausa,dausa_rajasthan,wasting,6,9.7
+Rajasthan,Dausa,dausa_rajasthan,underweight,28.1,33.5
+Rajasthan,Dausa,dausa_rajasthan,overweight,1.8,2.2
+Rajasthan,Dhaulpur,dhaulpur_rajasthan,stunting,54.3,45.7
+Rajasthan,Dhaulpur,dhaulpur_rajasthan,wasting,4.8,6.3
+Rajasthan,Dhaulpur,dhaulpur_rajasthan,underweight,39.8,31.3
+Rajasthan,Dhaulpur,dhaulpur_rajasthan,overweight,1.2,5.6
+Rajasthan,Dungarpur,dungarpur_rajasthan,stunting,46.8,31.4
+Rajasthan,Dungarpur,dungarpur_rajasthan,wasting,16.1,4.4
+Rajasthan,Dungarpur,dungarpur_rajasthan,underweight,53.4,25.9
+Rajasthan,Dungarpur,dungarpur_rajasthan,overweight,2.5,2.5
+Rajasthan,Ganganagar,ganganagar_rajasthan,stunting,29.1,24.5
+Rajasthan,Ganganagar,ganganagar_rajasthan,wasting,5.8,10.8
+Rajasthan,Ganganagar,ganganagar_rajasthan,underweight,29.3,26.1
+Rajasthan,Ganganagar,ganganagar_rajasthan,overweight,2.3,4.5
+Rajasthan,Hanumangarh,hanumangarh_rajasthan,stunting,35,24.2
+Rajasthan,Hanumangarh,hanumangarh_rajasthan,wasting,7.6,9
+Rajasthan,Hanumangarh,hanumangarh_rajasthan,underweight,23.4,21.3
+Rajasthan,Hanumangarh,hanumangarh_rajasthan,overweight,2.4,3.9
+Rajasthan,Jaipur,jaipur_rajasthan,stunting,35.7,25
+Rajasthan,Jaipur,jaipur_rajasthan,wasting,4.2,4.2
+Rajasthan,Jaipur,jaipur_rajasthan,underweight,25.2,20.8
+Rajasthan,Jaipur,jaipur_rajasthan,overweight,2,2
+Rajasthan,Jaisalmer,jaisalmer_rajasthan,stunting,37.4,25.5
+Rajasthan,Jaisalmer,jaisalmer_rajasthan,wasting,10.2,13.8
+Rajasthan,Jaisalmer,jaisalmer_rajasthan,underweight,37.4,31.7
+Rajasthan,Jaisalmer,jaisalmer_rajasthan,overweight,0.9,2.7
+Rajasthan,Jalor,jalor_rajasthan,stunting,45,44.3
+Rajasthan,Jalor,jalor_rajasthan,wasting,9.1,4.8
+Rajasthan,Jalor,jalor_rajasthan,underweight,42.7,36.5
+Rajasthan,Jalor,jalor_rajasthan,overweight,2.4,3
+Rajasthan,Jhalawar,jhalawar_rajasthan,stunting,38.1,34
+Rajasthan,Jhalawar,jhalawar_rajasthan,wasting,13.9,14
+Rajasthan,Jhalawar,jhalawar_rajasthan,underweight,47.2,38.1
+Rajasthan,Jhalawar,jhalawar_rajasthan,overweight,0.8,1.4
+Rajasthan,Jhunjhunun,jhunjhunun_rajasthan,stunting,32.5,20.9
+Rajasthan,Jhunjhunun,jhunjhunun_rajasthan,wasting,5,9.1
+Rajasthan,Jhunjhunun,jhunjhunun_rajasthan,underweight,19.5,19.6
+Rajasthan,Jhunjhunun,jhunjhunun_rajasthan,overweight,5.1,5.9
+Rajasthan,Jodhpur,jodhpur_rajasthan,stunting,40.3,32.6
+Rajasthan,Jodhpur,jodhpur_rajasthan,wasting,9,6
+Rajasthan,Jodhpur,jodhpur_rajasthan,underweight,38.6,25.4
+Rajasthan,Jodhpur,jodhpur_rajasthan,overweight,2.1,5.5
+Rajasthan,Karauli,karauli_rajasthan,stunting,45.5,37.6
+Rajasthan,Karauli,karauli_rajasthan,wasting,5.8,10.6
+Rajasthan,Karauli,karauli_rajasthan,underweight,35.7,37.3
+Rajasthan,Karauli,karauli_rajasthan,overweight,1.6,2.3
+Rajasthan,Kota,kota_rajasthan,stunting,32,29.5
+Rajasthan,Kota,kota_rajasthan,wasting,7.6,7.9
+Rajasthan,Kota,kota_rajasthan,underweight,39.7,26.4
+Rajasthan,Kota,kota_rajasthan,overweight,1.2,3.3
+Rajasthan,Nagaur,nagaur_rajasthan,stunting,39.1,31.5
+Rajasthan,Nagaur,nagaur_rajasthan,wasting,7,8.8
+Rajasthan,Nagaur,nagaur_rajasthan,underweight,31.4,26.2
+Rajasthan,Nagaur,nagaur_rajasthan,overweight,2.6,3.7
+Rajasthan,Pali,pali_rajasthan,stunting,44.4,35.9
+Rajasthan,Pali,pali_rajasthan,wasting,6.5,9.4
+Rajasthan,Pali,pali_rajasthan,underweight,41.3,35.9
+Rajasthan,Pali,pali_rajasthan,overweight,1.6,0.9
+Rajasthan,Pratapgarh,pratapgarh_rajasthan,stunting,46.3,29
+Rajasthan,Pratapgarh,pratapgarh_rajasthan,wasting,15.1,11.5
+Rajasthan,Pratapgarh,pratapgarh_rajasthan,underweight,54.6,31.8
+Rajasthan,Pratapgarh,pratapgarh_rajasthan,overweight,1.6,2.9
+Rajasthan,Rajsamand,rajsamand_rajasthan,stunting,38.6,30.3
+Rajasthan,Rajsamand,rajsamand_rajasthan,wasting,11.8,10.2
+Rajasthan,Rajsamand,rajsamand_rajasthan,underweight,38.8,23.7
+Rajasthan,Rajsamand,rajsamand_rajasthan,overweight,2.6,4.5
+Rajasthan,Sawai Madhopur,sawai_madhopur_rajasthan,stunting,39.4,26.9
+Rajasthan,Sawai Madhopur,sawai_madhopur_rajasthan,wasting,5.5,11.1
+Rajasthan,Sawai Madhopur,sawai_madhopur_rajasthan,underweight,34.4,24.2
+Rajasthan,Sawai Madhopur,sawai_madhopur_rajasthan,overweight,1,3.4
+Rajasthan,Sikar,sikar_rajasthan,stunting,28.4,23.1
+Rajasthan,Sikar,sikar_rajasthan,wasting,4.1,6.3
+Rajasthan,Sikar,sikar_rajasthan,underweight,20.5,18.3
+Rajasthan,Sikar,sikar_rajasthan,overweight,4.5,4.1
+Rajasthan,Sirohi,sirohi_rajasthan,stunting,42.3,30.7
+Rajasthan,Sirohi,sirohi_rajasthan,wasting,15.6,8.8
+Rajasthan,Sirohi,sirohi_rajasthan,underweight,50.4,31.2
+Rajasthan,Sirohi,sirohi_rajasthan,overweight,0.9,2.5
+Rajasthan,Tonk,tonk_rajasthan,stunting,32,33.1
+Rajasthan,Tonk,tonk_rajasthan,wasting,5,10.3
+Rajasthan,Tonk,tonk_rajasthan,underweight,37.3,28.2
+Rajasthan,Tonk,tonk_rajasthan,overweight,0.8,4.8
+Rajasthan,Udaipur,udaipur_rajasthan,stunting,47.5,34
+Rajasthan,Udaipur,udaipur_rajasthan,wasting,11.4,3.1
+Rajasthan,Udaipur,udaipur_rajasthan,underweight,52,26.6
+Rajasthan,Udaipur,udaipur_rajasthan,overweight,1.4,1.8
+Sikkim,East District,east_district_sikkim,stunting,24,17.8
+Sikkim,East District,east_district_sikkim,wasting,5.2,5.6
+Sikkim,East District,east_district_sikkim,underweight,11.2,13
+Sikkim,East District,east_district_sikkim,overweight,6.2,6.5
+Sikkim,North District,north_district_sikkim,stunting,24.1,31.8
+Sikkim,North District,north_district_sikkim,wasting,7.8,2.9
+Sikkim,North District,north_district_sikkim,underweight,17.9,15.3
+Sikkim,North District,north_district_sikkim,overweight,9.2,14.1
+Sikkim,South District,south_district_sikkim,stunting,32.8,24.8
+Sikkim,South District,south_district_sikkim,wasting,7.9,4
+Sikkim,South District,south_district_sikkim,underweight,20.5,7.2
+Sikkim,South District,south_district_sikkim,overweight,12.1,16.6
+Sikkim,West District,west_district_sikkim,stunting,42.3,25.2
+Sikkim,West District,west_district_sikkim,wasting,5.1,12.2
+Sikkim,West District,west_district_sikkim,underweight,14.7,19.3
+Sikkim,West District,west_district_sikkim,overweight,10.8,6.5
+Telangana,Adilabad,adilabad_telangana,stunting,28,45.7
+Telangana,Adilabad,adilabad_telangana,wasting,4.8,12.9
+Telangana,Adilabad,adilabad_telangana,underweight,28.4,52
+Telangana,Adilabad,adilabad_telangana,overweight,0.7,2.9
+Telangana,Bhadradri Kothagudem,bhadradri_kothagudem_telangana,stunting,28,28.4
+Telangana,Bhadradri Kothagudem,bhadradri_kothagudem_telangana,wasting,4.8,9
+Telangana,Bhadradri Kothagudem,bhadradri_kothagudem_telangana,underweight,28.4,25.3
+Telangana,Bhadradri Kothagudem,bhadradri_kothagudem_telangana,overweight,0.7,3.7
+Telangana,Hyderabad,hyderabad_telangana,stunting,28,30.4
+Telangana,Hyderabad,hyderabad_telangana,wasting,4.8,8
+Telangana,Hyderabad,hyderabad_telangana,underweight,28.4,18.9
+Telangana,Hyderabad,hyderabad_telangana,overweight,0.7,4.3
+Telangana,Jagitial,jagitial_telangana,stunting,28,29.9
+Telangana,Jagitial,jagitial_telangana,wasting,4.8,8.4
+Telangana,Jagitial,jagitial_telangana,underweight,28.4,32.3
+Telangana,Jagitial,jagitial_telangana,overweight,0.7,5.5
+Telangana,Jangoan,jangoan_telangana,stunting,28,33.4
+Telangana,Jangoan,jangoan_telangana,wasting,4.8,10.1
+Telangana,Jangoan,jangoan_telangana,underweight,28.4,30.9
+Telangana,Jangoan,jangoan_telangana,overweight,0.7,6.4
+Telangana,Jayashankar Bhupalapally,jayashankar_bhupalapally_telangana,stunting,28,32.5
+Telangana,Jayashankar Bhupalapally,jayashankar_bhupalapally_telangana,wasting,4.8,14.6
+Telangana,Jayashankar Bhupalapally,jayashankar_bhupalapally_telangana,underweight,28.4,36.7
+Telangana,Jayashankar Bhupalapally,jayashankar_bhupalapally_telangana,overweight,0.7,1.4
+Telangana,Jogulamba Gadwal,jogulamba_gadwal_telangana,stunting,28,49.7
+Telangana,Jogulamba Gadwal,jogulamba_gadwal_telangana,wasting,4.8,4.9
+Telangana,Jogulamba Gadwal,jogulamba_gadwal_telangana,underweight,28.4,41.7
+Telangana,Jogulamba Gadwal,jogulamba_gadwal_telangana,overweight,0.7,2.8
+Telangana,Kamareddy,kamareddy_telangana,stunting,28,33.4
+Telangana,Kamareddy,kamareddy_telangana,wasting,4.8,17.9
+Telangana,Kamareddy,kamareddy_telangana,underweight,28.4,43.9
+Telangana,Kamareddy,kamareddy_telangana,overweight,0.7,3.1
+Telangana,Karimnagar,karimnagar_telangana,stunting,28,30.3
+Telangana,Karimnagar,karimnagar_telangana,wasting,4.8,4.8
+Telangana,Karimnagar,karimnagar_telangana,underweight,28.4,27.5
+Telangana,Karimnagar,karimnagar_telangana,overweight,0.7,5.9
+Telangana,Khammam,khammam_telangana,stunting,28,22.2
+Telangana,Khammam,khammam_telangana,wasting,4.8,15
+Telangana,Khammam,khammam_telangana,underweight,28.4,26.2
+Telangana,Khammam,khammam_telangana,overweight,0.7,6
+Telangana,Komaram Bheem Asifabad,komaram_bheem_asifabad_telangana,stunting,28,38.1
+Telangana,Komaram Bheem Asifabad,komaram_bheem_asifabad_telangana,wasting,4.8,14.4
+Telangana,Komaram Bheem Asifabad,komaram_bheem_asifabad_telangana,underweight,28.4,41.1
+Telangana,Komaram Bheem Asifabad,komaram_bheem_asifabad_telangana,overweight,0.7,2.7
+Telangana,Mahabubabad,mahabubabad_telangana,stunting,28,33
+Telangana,Mahabubabad,mahabubabad_telangana,wasting,4.8,5.2
+Telangana,Mahabubabad,mahabubabad_telangana,underweight,28.4,26.3
+Telangana,Mahabubabad,mahabubabad_telangana,overweight,0.7,3.6
+Telangana,Mahabubnagar,mahabubnagar_telangana,stunting,28,42.6
+Telangana,Mahabubnagar,mahabubnagar_telangana,wasting,4.8,8.7
+Telangana,Mahabubnagar,mahabubnagar_telangana,underweight,28.4,33
+Telangana,Mahabubnagar,mahabubnagar_telangana,overweight,0.7,4.1
+Telangana,Mancherial,mancherial_telangana,stunting,28,25.9
+Telangana,Mancherial,mancherial_telangana,wasting,4.8,10
+Telangana,Mancherial,mancherial_telangana,underweight,28.4,27.4
+Telangana,Mancherial,mancherial_telangana,overweight,0.7,3.4
+Telangana,Medak,medak_telangana,stunting,28,36.4
+Telangana,Medak,medak_telangana,wasting,4.8,3.5
+Telangana,Medak,medak_telangana,underweight,28.4,42
+Telangana,Medak,medak_telangana,overweight,0.7,1.1
+Telangana,Medchal-Malkajgiri,medchal_malkajgiri_telangana,stunting,28,33.4
+Telangana,Medchal-Malkajgiri,medchal_malkajgiri_telangana,wasting,4.8,5
+Telangana,Medchal-Malkajgiri,medchal_malkajgiri_telangana,underweight,28.4,25
+Telangana,Medchal-Malkajgiri,medchal_malkajgiri_telangana,overweight,0.7,1.2
+Telangana,Nagarkurnool,nagarkurnool_telangana,stunting,28,35.1
+Telangana,Nagarkurnool,nagarkurnool_telangana,wasting,4.8,7
+Telangana,Nagarkurnool,nagarkurnool_telangana,underweight,28.4,30.9
+Telangana,Nagarkurnool,nagarkurnool_telangana,overweight,0.7,2.5
+Telangana,Nalgonda,nalgonda_telangana,stunting,28,31.7
+Telangana,Nalgonda,nalgonda_telangana,wasting,4.8,14.5
+Telangana,Nalgonda,nalgonda_telangana,underweight,28.4,28
+Telangana,Nalgonda,nalgonda_telangana,overweight,0.7,1.7
+Telangana,Nirmal,nirmal_telangana,stunting,28,31.7
+Telangana,Nirmal,nirmal_telangana,wasting,4.8,6.6
+Telangana,Nirmal,nirmal_telangana,underweight,28.4,33.4
+Telangana,Nirmal,nirmal_telangana,overweight,0.7,1.4
+Telangana,Nizamabad,nizamabad_telangana,stunting,28,30.5
+Telangana,Nizamabad,nizamabad_telangana,wasting,4.8,4.3
+Telangana,Nizamabad,nizamabad_telangana,underweight,28.4,38.4
+Telangana,Nizamabad,nizamabad_telangana,overweight,0.7,2.8
+Telangana,Peddapalli,peddapalli_telangana,stunting,28,27.5
+Telangana,Peddapalli,peddapalli_telangana,wasting,4.8,15.6
+Telangana,Peddapalli,peddapalli_telangana,underweight,28.4,33.1
+Telangana,Peddapalli,peddapalli_telangana,overweight,0.7,1.6
+Telangana,Rajanna Sircilla,rajanna_sircilla_telangana,stunting,28,22.4
+Telangana,Rajanna Sircilla,rajanna_sircilla_telangana,wasting,4.8,8.9
+Telangana,Rajanna Sircilla,rajanna_sircilla_telangana,underweight,28.4,26.1
+Telangana,Rajanna Sircilla,rajanna_sircilla_telangana,overweight,0.7,2.3
+Telangana,Ranga Reddy,ranga_reddy_telangana,stunting,28,37.8
+Telangana,Ranga Reddy,ranga_reddy_telangana,wasting,4.8,5.1
+Telangana,Ranga Reddy,ranga_reddy_telangana,underweight,28.4,29.5
+Telangana,Ranga Reddy,ranga_reddy_telangana,overweight,0.7,4
+Telangana,Sangareddy,sangareddy_telangana,stunting,28,32.9
+Telangana,Sangareddy,sangareddy_telangana,wasting,4.8,5.9
+Telangana,Sangareddy,sangareddy_telangana,underweight,28.4,35.1
+Telangana,Sangareddy,sangareddy_telangana,overweight,0.7,3
+Telangana,Siddipet,siddipet_telangana,stunting,28,28.1
+Telangana,Siddipet,siddipet_telangana,wasting,4.8,4.7
+Telangana,Siddipet,siddipet_telangana,underweight,28.4,29.6
+Telangana,Siddipet,siddipet_telangana,overweight,0.7,1.5
+Telangana,Suryapet,suryapet_telangana,stunting,28,29.1
+Telangana,Suryapet,suryapet_telangana,wasting,4.8,8.8
+Telangana,Suryapet,suryapet_telangana,underweight,28.4,30.1
+Telangana,Suryapet,suryapet_telangana,overweight,0.7,2.8
+Telangana,Vikarabad,vikarabad_telangana,stunting,28,32.1
+Telangana,Vikarabad,vikarabad_telangana,wasting,4.8,5.8
+Telangana,Vikarabad,vikarabad_telangana,underweight,28.4,37.1
+Telangana,Vikarabad,vikarabad_telangana,overweight,0.7,0.8
+Telangana,Wanaparthy,wanaparthy_telangana,stunting,28,40.4
+Telangana,Wanaparthy,wanaparthy_telangana,wasting,4.8,4.4
+Telangana,Wanaparthy,wanaparthy_telangana,underweight,28.4,33.2
+Telangana,Wanaparthy,wanaparthy_telangana,overweight,0.7,4.9
+Telangana,Warangal Rural,warangal_rural_telangana,stunting,28,36.1
+Telangana,Warangal Rural,warangal_rural_telangana,wasting,4.8,8.9
+Telangana,Warangal Rural,warangal_rural_telangana,underweight,28.4,37.9
+Telangana,Warangal Rural,warangal_rural_telangana,overweight,0.7,2.4
+Telangana,Warangal Urban,warangal_urban_telangana,stunting,28,29.5
+Telangana,Warangal Urban,warangal_urban_telangana,wasting,4.8,12.6
+Telangana,Warangal Urban,warangal_urban_telangana,underweight,28.4,36
+Telangana,Warangal Urban,warangal_urban_telangana,overweight,0.7,4.4
+Telangana,Yadadri Bhuvanagiri,yadadri_bhuvanagiri_telangana,stunting,28,38.3
+Telangana,Yadadri Bhuvanagiri,yadadri_bhuvanagiri_telangana,wasting,4.8,3
+Telangana,Yadadri Bhuvanagiri,yadadri_bhuvanagiri_telangana,underweight,28.4,27.2
+Telangana,Yadadri Bhuvanagiri,yadadri_bhuvanagiri_telangana,overweight,0.7,5.5
+Tamil Nadu,Ariyalur,ariyalur_tamil_nadu,stunting,37,25.3
+Tamil Nadu,Ariyalur,ariyalur_tamil_nadu,wasting,8.1,4.4
+Tamil Nadu,Ariyalur,ariyalur_tamil_nadu,underweight,29.7,20.1
+Tamil Nadu,Ariyalur,ariyalur_tamil_nadu,overweight,4.9,1.6
+Tamil Nadu,Chennai,chennai_tamil_nadu,stunting,30.9,20.4
+Tamil Nadu,Chennai,chennai_tamil_nadu,wasting,12.6,7.6
+Tamil Nadu,Chennai,chennai_tamil_nadu,underweight,17.2,21.9
+Tamil Nadu,Chennai,chennai_tamil_nadu,overweight,17.3,9.4
+Tamil Nadu,Coimbatore,coimbatore_tamil_nadu,stunting,27.3,23
+Tamil Nadu,Coimbatore,coimbatore_tamil_nadu,wasting,8.9,2.7
+Tamil Nadu,Coimbatore,coimbatore_tamil_nadu,underweight,22.9,18.5
+Tamil Nadu,Coimbatore,coimbatore_tamil_nadu,overweight,4.7,4.2
+Tamil Nadu,Cuddalore,cuddalore_tamil_nadu,stunting,28.2,20.2
+Tamil Nadu,Cuddalore,cuddalore_tamil_nadu,wasting,7,4
+Tamil Nadu,Cuddalore,cuddalore_tamil_nadu,underweight,25,18
+Tamil Nadu,Cuddalore,cuddalore_tamil_nadu,overweight,3.8,1.6
+Tamil Nadu,Dharmapuri,dharmapuri_tamil_nadu,stunting,24.2,28.7
+Tamil Nadu,Dharmapuri,dharmapuri_tamil_nadu,wasting,18.3,6.5
+Tamil Nadu,Dharmapuri,dharmapuri_tamil_nadu,underweight,29.6,23.2
+Tamil Nadu,Dharmapuri,dharmapuri_tamil_nadu,overweight,4,8.9
+Tamil Nadu,Dindigul,dindigul_tamil_nadu,stunting,31.1,27.1
+Tamil Nadu,Dindigul,dindigul_tamil_nadu,wasting,12,8.2
+Tamil Nadu,Dindigul,dindigul_tamil_nadu,underweight,29.8,28.4
+Tamil Nadu,Dindigul,dindigul_tamil_nadu,overweight,4.6,2.2
+Tamil Nadu,Erode,erode_tamil_nadu,stunting,25.6,19.4
+Tamil Nadu,Erode,erode_tamil_nadu,wasting,6.1,11.2
+Tamil Nadu,Erode,erode_tamil_nadu,underweight,16.1,26.9
+Tamil Nadu,Erode,erode_tamil_nadu,overweight,15.4,2.8
+Tamil Nadu,Kancheepuram,kancheepuram_tamil_nadu,stunting,25,20.6
+Tamil Nadu,Kancheepuram,kancheepuram_tamil_nadu,wasting,2.9,6.9
+Tamil Nadu,Kancheepuram,kancheepuram_tamil_nadu,underweight,16.1,19.8
+Tamil Nadu,Kancheepuram,kancheepuram_tamil_nadu,overweight,5.5,3
+Tamil Nadu,Kanniyakumari,kanniyakumari_tamil_nadu,stunting,17.2,17.3
+Tamil Nadu,Kanniyakumari,kanniyakumari_tamil_nadu,wasting,2,2.7
+Tamil Nadu,Kanniyakumari,kanniyakumari_tamil_nadu,underweight,12.8,14.5
+Tamil Nadu,Kanniyakumari,kanniyakumari_tamil_nadu,overweight,2.8,2.8
+Tamil Nadu,Karur,karur_tamil_nadu,stunting,27.5,33.6
+Tamil Nadu,Karur,karur_tamil_nadu,wasting,9.5,8.7
+Tamil Nadu,Karur,karur_tamil_nadu,underweight,28.9,36.3
+Tamil Nadu,Karur,karur_tamil_nadu,overweight,6.2,2.4
+Tamil Nadu,Krishnagiri,krishnagiri_tamil_nadu,stunting,25.1,29
+Tamil Nadu,Krishnagiri,krishnagiri_tamil_nadu,wasting,9.7,4.7
+Tamil Nadu,Krishnagiri,krishnagiri_tamil_nadu,underweight,23.1,19.3
+Tamil Nadu,Krishnagiri,krishnagiri_tamil_nadu,overweight,3.7,10.1
+Tamil Nadu,Madurai,madurai_tamil_nadu,stunting,21.2,32.4
+Tamil Nadu,Madurai,madurai_tamil_nadu,wasting,2.6,3.9
+Tamil Nadu,Madurai,madurai_tamil_nadu,underweight,19.5,21.5
+Tamil Nadu,Madurai,madurai_tamil_nadu,overweight,4.1,4.7
+Tamil Nadu,Nagapattinam,nagapattinam_tamil_nadu,stunting,24.5,32.3
+Tamil Nadu,Nagapattinam,nagapattinam_tamil_nadu,wasting,8.1,4.7
+Tamil Nadu,Nagapattinam,nagapattinam_tamil_nadu,underweight,22.9,24.3
+Tamil Nadu,Nagapattinam,nagapattinam_tamil_nadu,overweight,2.1,0.8
+Tamil Nadu,Namakkal,namakkal_tamil_nadu,stunting,25.2,25.2
+Tamil Nadu,Namakkal,namakkal_tamil_nadu,wasting,4.5,4.3
+Tamil Nadu,Namakkal,namakkal_tamil_nadu,underweight,18,15.7
+Tamil Nadu,Namakkal,namakkal_tamil_nadu,overweight,11.4,6.3
+Tamil Nadu,Perambalur,perambalur_tamil_nadu,stunting,24,29.1
+Tamil Nadu,Perambalur,perambalur_tamil_nadu,wasting,4.8,4.2
+Tamil Nadu,Perambalur,perambalur_tamil_nadu,underweight,22,22.3
+Tamil Nadu,Perambalur,perambalur_tamil_nadu,overweight,3.1,2.9
+Tamil Nadu,Pudukkottai,pudukkottai_tamil_nadu,stunting,26.7,32.2
+Tamil Nadu,Pudukkottai,pudukkottai_tamil_nadu,wasting,5.4,1.6
+Tamil Nadu,Pudukkottai,pudukkottai_tamil_nadu,underweight,25,21.6
+Tamil Nadu,Pudukkottai,pudukkottai_tamil_nadu,overweight,3.6,2.8
+Tamil Nadu,Ramanathapuram,ramanathapuram_tamil_nadu,stunting,22.5,26.4
+Tamil Nadu,Ramanathapuram,ramanathapuram_tamil_nadu,wasting,2.9,6
+Tamil Nadu,Ramanathapuram,ramanathapuram_tamil_nadu,underweight,22.6,21.6
+Tamil Nadu,Ramanathapuram,ramanathapuram_tamil_nadu,overweight,0.4,6.3
+Tamil Nadu,Salem,salem_tamil_nadu,stunting,27,23.6
+Tamil Nadu,Salem,salem_tamil_nadu,wasting,8.4,4.3
+Tamil Nadu,Salem,salem_tamil_nadu,underweight,22.2,20.8
+Tamil Nadu,Salem,salem_tamil_nadu,overweight,7.6,6.3
+Tamil Nadu,Sivaganga,sivaganga_tamil_nadu,stunting,20.9,27.6
+Tamil Nadu,Sivaganga,sivaganga_tamil_nadu,wasting,7.8,11.6
+Tamil Nadu,Sivaganga,sivaganga_tamil_nadu,underweight,22.7,28.4
+Tamil Nadu,Sivaganga,sivaganga_tamil_nadu,overweight,0.8,9.1
+Tamil Nadu,Thanjavur,thanjavur_tamil_nadu,stunting,26,19.6
+Tamil Nadu,Thanjavur,thanjavur_tamil_nadu,wasting,7.5,3.7
+Tamil Nadu,Thanjavur,thanjavur_tamil_nadu,underweight,22.9,21.9
+Tamil Nadu,Thanjavur,thanjavur_tamil_nadu,overweight,3.2,4.9
+Tamil Nadu,Theni,theni_tamil_nadu,stunting,27.4,20.2
+Tamil Nadu,Theni,theni_tamil_nadu,wasting,3.4,6.6
+Tamil Nadu,Theni,theni_tamil_nadu,underweight,22,18.8
+Tamil Nadu,Theni,theni_tamil_nadu,overweight,2,4.2
+Tamil Nadu,The Nilgiris,the_nilgiris_tamil_nadu,stunting,33.1,26.7
+Tamil Nadu,The Nilgiris,the_nilgiris_tamil_nadu,wasting,17.1,7.7
+Tamil Nadu,The Nilgiris,the_nilgiris_tamil_nadu,underweight,30.7,23.2
+Tamil Nadu,The Nilgiris,the_nilgiris_tamil_nadu,overweight,5,8.5
+Tamil Nadu,Thiruvallur,thiruvallur_tamil_nadu,stunting,30.1,18.1
+Tamil Nadu,Thiruvallur,thiruvallur_tamil_nadu,wasting,10.7,3.6
+Tamil Nadu,Thiruvallur,thiruvallur_tamil_nadu,underweight,26.6,20.6
+Tamil Nadu,Thiruvallur,thiruvallur_tamil_nadu,overweight,3.1,2.1
+Tamil Nadu,Thiruvarur,thiruvarur_tamil_nadu,stunting,28.4,19.8
+Tamil Nadu,Thiruvarur,thiruvarur_tamil_nadu,wasting,6.7,6.8
+Tamil Nadu,Thiruvarur,thiruvarur_tamil_nadu,underweight,29.6,21.5
+Tamil Nadu,Thiruvarur,thiruvarur_tamil_nadu,overweight,3.7,3
+Tamil Nadu,Thoothukkudi,thoothukkudi_tamil_nadu,stunting,21.2,20.3
+Tamil Nadu,Thoothukkudi,thoothukkudi_tamil_nadu,wasting,5,7.7
+Tamil Nadu,Thoothukkudi,thoothukkudi_tamil_nadu,underweight,17.6,21
+Tamil Nadu,Thoothukkudi,thoothukkudi_tamil_nadu,overweight,2.7,6.7
+Tamil Nadu,Tiruchirappalli,tiruchirappalli_tamil_nadu,stunting,30,27.6
+Tamil Nadu,Tiruchirappalli,tiruchirappalli_tamil_nadu,wasting,8.2,8.6
+Tamil Nadu,Tiruchirappalli,tiruchirappalli_tamil_nadu,underweight,27.6,27.4
+Tamil Nadu,Tiruchirappalli,tiruchirappalli_tamil_nadu,overweight,2.6,3.1
+Tamil Nadu,Tirunelveli,tirunelveli_tamil_nadu,stunting,30.8,29.4
+Tamil Nadu,Tirunelveli,tirunelveli_tamil_nadu,wasting,3.3,3.1
+Tamil Nadu,Tirunelveli,tirunelveli_tamil_nadu,underweight,22.7,22.7
+Tamil Nadu,Tirunelveli,tirunelveli_tamil_nadu,overweight,1.3,3.7
+Tamil Nadu,Tiruppur,tiruppur_tamil_nadu,stunting,29.4,21.5
+Tamil Nadu,Tiruppur,tiruppur_tamil_nadu,wasting,10,10.3
+Tamil Nadu,Tiruppur,tiruppur_tamil_nadu,underweight,24.9,23.1
+Tamil Nadu,Tiruppur,tiruppur_tamil_nadu,overweight,3.1,6.2
+Tamil Nadu,Tiruvannamalai,tiruvannamalai_tamil_nadu,stunting,24.5,30.6
+Tamil Nadu,Tiruvannamalai,tiruvannamalai_tamil_nadu,wasting,18.7,4
+Tamil Nadu,Tiruvannamalai,tiruvannamalai_tamil_nadu,underweight,34.7,25
+Tamil Nadu,Tiruvannamalai,tiruvannamalai_tamil_nadu,overweight,2.8,3.3
+Tamil Nadu,Vellore,vellore_tamil_nadu,stunting,29,29.8
+Tamil Nadu,Vellore,vellore_tamil_nadu,wasting,12,2.5
+Tamil Nadu,Vellore,vellore_tamil_nadu,underweight,32.6,19.7
+Tamil Nadu,Vellore,vellore_tamil_nadu,overweight,2.3,4.2
+Tamil Nadu,Viluppuram,viluppuram_tamil_nadu,stunting,31.8,23.9
+Tamil Nadu,Viluppuram,viluppuram_tamil_nadu,wasting,3,3.4
+Tamil Nadu,Viluppuram,viluppuram_tamil_nadu,underweight,28.6,20.5
+Tamil Nadu,Viluppuram,viluppuram_tamil_nadu,overweight,2.8,0
+Tamil Nadu,Virudhunagar,virudhunagar_tamil_nadu,stunting,29.9,29.2
+Tamil Nadu,Virudhunagar,virudhunagar_tamil_nadu,wasting,4.4,7.6
+Tamil Nadu,Virudhunagar,virudhunagar_tamil_nadu,underweight,25.7,23.7
+Tamil Nadu,Virudhunagar,virudhunagar_tamil_nadu,overweight,1.2,6.8
+Tripura,Dhalai,dhalai_tripura,stunting,32.5,45.7
+Tripura,Dhalai,dhalai_tripura,wasting,12.1,7.7
+Tripura,Dhalai,dhalai_tripura,underweight,27.2,27.6
+Tripura,Dhalai,dhalai_tripura,overweight,3.2,13.1
+Tripura,Gomati,gomati_tripura,stunting,24.3,22.7
+Tripura,Gomati,gomati_tripura,wasting,6.3,11.2
+Tripura,Gomati,gomati_tripura,underweight,24.1,29
+Tripura,Gomati,gomati_tripura,overweight,3,3.4
+Tripura,Khowai,khowai_tripura,stunting,24.3,47
+Tripura,Khowai,khowai_tripura,wasting,6.3,6.2
+Tripura,Khowai,khowai_tripura,underweight,24.1,24.7
+Tripura,Khowai,khowai_tripura,overweight,3,8.1
+Tripura,North Tripura,north_tripura_tripura,stunting,24.3,26.2
+Tripura,North Tripura,north_tripura_tripura,wasting,6.3,18.1
+Tripura,North Tripura,north_tripura_tripura,underweight,24.1,32.2
+Tripura,North Tripura,north_tripura_tripura,overweight,3,9
+Tripura,Sepahijala,sepahijala_tripura,stunting,24.3,34.5
+Tripura,Sepahijala,sepahijala_tripura,wasting,6.3,6.7
+Tripura,Sepahijala,sepahijala_tripura,underweight,24.1,21
+Tripura,Sepahijala,sepahijala_tripura,overweight,3,12.4
+Tripura,South Tripura,south_tripura_tripura,stunting,24.3,25.5
+Tripura,South Tripura,south_tripura_tripura,wasting,6.3,5.2
+Tripura,South Tripura,south_tripura_tripura,underweight,24.1,21.6
+Tripura,South Tripura,south_tripura_tripura,overweight,3,5
+Tripura,Unakoti,unakoti_tripura,stunting,24.3,31.8
+Tripura,Unakoti,unakoti_tripura,wasting,6.3,4
+Tripura,Unakoti,unakoti_tripura,underweight,24.1,32
+Tripura,Unakoti,unakoti_tripura,overweight,3,1.9
+Tripura,West Tripura,west_tripura_tripura,stunting,24.3,30.3
+Tripura,West Tripura,west_tripura_tripura,wasting,6.3,2.1
+Tripura,West Tripura,west_tripura_tripura,underweight,24.1,21.2
+Tripura,West Tripura,west_tripura_tripura,overweight,3,8.7
+Uttar Pradesh,Agra,agra_uttar_pradesh,stunting,44.7,35.9
+Uttar Pradesh,Agra,agra_uttar_pradesh,wasting,5.2,4.6
+Uttar Pradesh,Agra,agra_uttar_pradesh,underweight,34.8,26.2
+Uttar Pradesh,Agra,agra_uttar_pradesh,overweight,1.2,3.4
+Uttar Pradesh,Aligarh,aligarh_uttar_pradesh,stunting,49.1,35
+Uttar Pradesh,Aligarh,aligarh_uttar_pradesh,wasting,3.2,4
+Uttar Pradesh,Aligarh,aligarh_uttar_pradesh,underweight,38.2,26.3
+Uttar Pradesh,Aligarh,aligarh_uttar_pradesh,overweight,0.8,2
+Uttar Pradesh,Ambedkar Nagar,ambedkar_nagar_uttar_pradesh,stunting,43,31.1
+Uttar Pradesh,Ambedkar Nagar,ambedkar_nagar_uttar_pradesh,wasting,7.4,3.9
+Uttar Pradesh,Ambedkar Nagar,ambedkar_nagar_uttar_pradesh,underweight,41,29.2
+Uttar Pradesh,Ambedkar Nagar,ambedkar_nagar_uttar_pradesh,overweight,0.9,1.9
+Uttar Pradesh,Amethi,amethi_uttar_pradesh,stunting,46.3,35.8
+Uttar Pradesh,Amethi,amethi_uttar_pradesh,wasting,6,5.1
+Uttar Pradesh,Amethi,amethi_uttar_pradesh,underweight,39.5,33.1
+Uttar Pradesh,Amethi,amethi_uttar_pradesh,overweight,1.5,1.2
+Uttar Pradesh,Auraiya,auraiya_uttar_pradesh,stunting,43.6,39.7
+Uttar Pradesh,Auraiya,auraiya_uttar_pradesh,wasting,13.1,9.2
+Uttar Pradesh,Auraiya,auraiya_uttar_pradesh,underweight,46.4,32.6
+Uttar Pradesh,Auraiya,auraiya_uttar_pradesh,overweight,1,7.3
+Uttar Pradesh,Azamgarh,azamgarh_uttar_pradesh,stunting,40,33.4
+Uttar Pradesh,Azamgarh,azamgarh_uttar_pradesh,wasting,6.1,4.3
+Uttar Pradesh,Azamgarh,azamgarh_uttar_pradesh,underweight,33,28
+Uttar Pradesh,Azamgarh,azamgarh_uttar_pradesh,overweight,1.2,0.5
+Uttar Pradesh,Baghpat,baghpat_uttar_pradesh,stunting,35.8,25.5
+Uttar Pradesh,Baghpat,baghpat_uttar_pradesh,wasting,3.2,3.9
+Uttar Pradesh,Baghpat,baghpat_uttar_pradesh,underweight,33.3,26
+Uttar Pradesh,Baghpat,baghpat_uttar_pradesh,overweight,0.2,1.7
+Uttar Pradesh,Bahraich,bahraich_uttar_pradesh,stunting,65.1,52.1
+Uttar Pradesh,Bahraich,bahraich_uttar_pradesh,wasting,5.6,7.5
+Uttar Pradesh,Bahraich,bahraich_uttar_pradesh,underweight,44,38
+Uttar Pradesh,Bahraich,bahraich_uttar_pradesh,overweight,1.5,4.1
+Uttar Pradesh,Ballia,ballia_uttar_pradesh,stunting,39.6,43.8
+Uttar Pradesh,Ballia,ballia_uttar_pradesh,wasting,4,10.7
+Uttar Pradesh,Ballia,ballia_uttar_pradesh,underweight,31.1,42.5
+Uttar Pradesh,Ballia,ballia_uttar_pradesh,overweight,1.6,2.2
+Uttar Pradesh,Balrampur,balrampur_uttar_pradesh,stunting,62.8,41.2
+Uttar Pradesh,Balrampur,balrampur_uttar_pradesh,wasting,3.3,14.3
+Uttar Pradesh,Balrampur,balrampur_uttar_pradesh,underweight,43.5,37.2
+Uttar Pradesh,Balrampur,balrampur_uttar_pradesh,overweight,4,3.9
+Uttar Pradesh,Banda,banda_uttar_pradesh,stunting,46.7,51
+Uttar Pradesh,Banda,banda_uttar_pradesh,wasting,6.7,13
+Uttar Pradesh,Banda,banda_uttar_pradesh,underweight,41.5,49.8
+Uttar Pradesh,Banda,banda_uttar_pradesh,overweight,10,6.3
+Uttar Pradesh,Barabanki,barabanki_uttar_pradesh,stunting,51.5,41.9
+Uttar Pradesh,Barabanki,barabanki_uttar_pradesh,wasting,2.3,7.8
+Uttar Pradesh,Barabanki,barabanki_uttar_pradesh,underweight,40.2,31.9
+Uttar Pradesh,Barabanki,barabanki_uttar_pradesh,overweight,1.4,3
+Uttar Pradesh,Bareilly,bareilly_uttar_pradesh,stunting,45.6,45.9
+Uttar Pradesh,Bareilly,bareilly_uttar_pradesh,wasting,4,5.6
+Uttar Pradesh,Bareilly,bareilly_uttar_pradesh,underweight,42.1,35.2
+Uttar Pradesh,Bareilly,bareilly_uttar_pradesh,overweight,0.5,1.4
+Uttar Pradesh,Basti,basti_uttar_pradesh,stunting,48.9,35.9
+Uttar Pradesh,Basti,basti_uttar_pradesh,wasting,4.2,15.2
+Uttar Pradesh,Basti,basti_uttar_pradesh,underweight,33.3,39.2
+Uttar Pradesh,Basti,basti_uttar_pradesh,overweight,2.6,2.7
+Uttar Pradesh,Bijnor,bijnor_uttar_pradesh,stunting,42.6,36.2
+Uttar Pradesh,Bijnor,bijnor_uttar_pradesh,wasting,6.9,2
+Uttar Pradesh,Bijnor,bijnor_uttar_pradesh,underweight,41.8,21.9
+Uttar Pradesh,Bijnor,bijnor_uttar_pradesh,overweight,1.1,2.7
+Uttar Pradesh,Budaun,budaun_uttar_pradesh,stunting,46.3,51.8
+Uttar Pradesh,Budaun,budaun_uttar_pradesh,wasting,6,6.8
+Uttar Pradesh,Budaun,budaun_uttar_pradesh,underweight,39.5,43
+Uttar Pradesh,Budaun,budaun_uttar_pradesh,overweight,1.5,3.8
+Uttar Pradesh,Bulandshahr,bulandshahr_uttar_pradesh,stunting,43.2,37.6
+Uttar Pradesh,Bulandshahr,bulandshahr_uttar_pradesh,wasting,7,2.6
+Uttar Pradesh,Bulandshahr,bulandshahr_uttar_pradesh,underweight,33.8,26.5
+Uttar Pradesh,Bulandshahr,bulandshahr_uttar_pradesh,overweight,3.3,2.9
+Uttar Pradesh,Chandauli,chandauli_uttar_pradesh,stunting,43.3,39.5
+Uttar Pradesh,Chandauli,chandauli_uttar_pradesh,wasting,6.6,7.4
+Uttar Pradesh,Chandauli,chandauli_uttar_pradesh,underweight,34.8,29.9
+Uttar Pradesh,Chandauli,chandauli_uttar_pradesh,overweight,2.3,0.6
+Uttar Pradesh,Chitrakoot,chitrakoot_uttar_pradesh,stunting,50.9,47.5
+Uttar Pradesh,Chitrakoot,chitrakoot_uttar_pradesh,wasting,14.7,12
+Uttar Pradesh,Chitrakoot,chitrakoot_uttar_pradesh,underweight,52.5,41.8
+Uttar Pradesh,Chitrakoot,chitrakoot_uttar_pradesh,overweight,1,6.7
+Uttar Pradesh,Deoria,deoria_uttar_pradesh,stunting,41.2,36.8
+Uttar Pradesh,Deoria,deoria_uttar_pradesh,wasting,4.6,10.8
+Uttar Pradesh,Deoria,deoria_uttar_pradesh,underweight,31.6,39.4
+Uttar Pradesh,Deoria,deoria_uttar_pradesh,overweight,2,3.4
+Uttar Pradesh,Etah,etah_uttar_pradesh,stunting,51,48.8
+Uttar Pradesh,Etah,etah_uttar_pradesh,wasting,2,8.4
+Uttar Pradesh,Etah,etah_uttar_pradesh,underweight,32.2,30.6
+Uttar Pradesh,Etah,etah_uttar_pradesh,overweight,1,3.7
+Uttar Pradesh,Etawah,etawah_uttar_pradesh,stunting,53.2,38.8
+Uttar Pradesh,Etawah,etawah_uttar_pradesh,wasting,2.3,6.2
+Uttar Pradesh,Etawah,etawah_uttar_pradesh,underweight,32.6,24.3
+Uttar Pradesh,Etawah,etawah_uttar_pradesh,overweight,1.5,2.6
+Uttar Pradesh,Faizabad,faizabad_uttar_pradesh,stunting,49.9,30.6
+Uttar Pradesh,Faizabad,faizabad_uttar_pradesh,wasting,5.8,2
+Uttar Pradesh,Faizabad,faizabad_uttar_pradesh,underweight,44.9,27.5
+Uttar Pradesh,Faizabad,faizabad_uttar_pradesh,overweight,0.7,2.6
+Uttar Pradesh,Farrukhabad,farrukhabad_uttar_pradesh,stunting,49.1,47.8
+Uttar Pradesh,Farrukhabad,farrukhabad_uttar_pradesh,wasting,2.2,6.1
+Uttar Pradesh,Farrukhabad,farrukhabad_uttar_pradesh,underweight,31.4,31.1
+Uttar Pradesh,Farrukhabad,farrukhabad_uttar_pradesh,overweight,0.6,4.7
+Uttar Pradesh,Fatehpur,fatehpur_uttar_pradesh,stunting,52.4,51.1
+Uttar Pradesh,Fatehpur,fatehpur_uttar_pradesh,wasting,5.9,9.1
+Uttar Pradesh,Fatehpur,fatehpur_uttar_pradesh,underweight,40.4,38
+Uttar Pradesh,Fatehpur,fatehpur_uttar_pradesh,overweight,4.4,3.6
+Uttar Pradesh,Firozabad,firozabad_uttar_pradesh,stunting,44,46.9
+Uttar Pradesh,Firozabad,firozabad_uttar_pradesh,wasting,3.8,3.8
+Uttar Pradesh,Firozabad,firozabad_uttar_pradesh,underweight,27.9,25.6
+Uttar Pradesh,Firozabad,firozabad_uttar_pradesh,overweight,1.6,4.8
+Uttar Pradesh,Gautam Buddha Nagar,gautam_buddha_nagar_uttar_pradesh,stunting,32.2,25.5
+Uttar Pradesh,Gautam Buddha Nagar,gautam_buddha_nagar_uttar_pradesh,wasting,4.5,3.5
+Uttar Pradesh,Gautam Buddha Nagar,gautam_buddha_nagar_uttar_pradesh,underweight,28.4,21.9
+Uttar Pradesh,Gautam Buddha Nagar,gautam_buddha_nagar_uttar_pradesh,overweight,1.2,0.6
+Uttar Pradesh,Ghaziabad,ghaziabad_uttar_pradesh,stunting,46.3,28.2
+Uttar Pradesh,Ghaziabad,ghaziabad_uttar_pradesh,wasting,6,3
+Uttar Pradesh,Ghaziabad,ghaziabad_uttar_pradesh,underweight,39.5,23.4
+Uttar Pradesh,Ghaziabad,ghaziabad_uttar_pradesh,overweight,1.5,3
+Uttar Pradesh,Ghazipur,ghazipur_uttar_pradesh,stunting,41.4,39.3
+Uttar Pradesh,Ghazipur,ghazipur_uttar_pradesh,wasting,7.6,13.9
+Uttar Pradesh,Ghazipur,ghazipur_uttar_pradesh,underweight,31.7,38.3
+Uttar Pradesh,Ghazipur,ghazipur_uttar_pradesh,overweight,2.3,3.6
+Uttar Pradesh,Gonda,gonda_uttar_pradesh,stunting,56.9,45.9
+Uttar Pradesh,Gonda,gonda_uttar_pradesh,wasting,3.5,3.8
+Uttar Pradesh,Gonda,gonda_uttar_pradesh,underweight,38.6,28
+Uttar Pradesh,Gonda,gonda_uttar_pradesh,overweight,2.3,4.7
+Uttar Pradesh,Gorakhpur,gorakhpur_uttar_pradesh,stunting,42.1,29.6
+Uttar Pradesh,Gorakhpur,gorakhpur_uttar_pradesh,wasting,5.2,12
+Uttar Pradesh,Gorakhpur,gorakhpur_uttar_pradesh,underweight,35.2,33.7
+Uttar Pradesh,Gorakhpur,gorakhpur_uttar_pradesh,overweight,1.6,1.3
+Uttar Pradesh,Hamirpur,hamirpur_uttar_pradesh,stunting,38.5,48
+Uttar Pradesh,Hamirpur,hamirpur_uttar_pradesh,wasting,14.6,10.7
+Uttar Pradesh,Hamirpur,hamirpur_uttar_pradesh,underweight,39.8,36.3
+Uttar Pradesh,Hamirpur,hamirpur_uttar_pradesh,overweight,2,9.1
+Uttar Pradesh,Hapur,hapur_uttar_pradesh,stunting,46.3,30.2
+Uttar Pradesh,Hapur,hapur_uttar_pradesh,wasting,6,9.2
+Uttar Pradesh,Hapur,hapur_uttar_pradesh,underweight,39.5,26.9
+Uttar Pradesh,Hapur,hapur_uttar_pradesh,overweight,1.5,5.1
+Uttar Pradesh,Hardoi,hardoi_uttar_pradesh,stunting,50.5,44.5
+Uttar Pradesh,Hardoi,hardoi_uttar_pradesh,wasting,5,9.9
+Uttar Pradesh,Hardoi,hardoi_uttar_pradesh,underweight,39.9,33
+Uttar Pradesh,Hardoi,hardoi_uttar_pradesh,overweight,0.7,5.4
+Uttar Pradesh,Jalaun,jalaun_uttar_pradesh,stunting,45.6,45.1
+Uttar Pradesh,Jalaun,jalaun_uttar_pradesh,wasting,14.3,8.5
+Uttar Pradesh,Jalaun,jalaun_uttar_pradesh,underweight,49.2,36.1
+Uttar Pradesh,Jalaun,jalaun_uttar_pradesh,overweight,0.4,2.3
+Uttar Pradesh,Jaunpur,jaunpur_uttar_pradesh,stunting,48,40.5
+Uttar Pradesh,Jaunpur,jaunpur_uttar_pradesh,wasting,8.4,6.7
+Uttar Pradesh,Jaunpur,jaunpur_uttar_pradesh,underweight,52.7,30.3
+Uttar Pradesh,Jaunpur,jaunpur_uttar_pradesh,overweight,0.5,2.7
+Uttar Pradesh,Jhansi,jhansi_uttar_pradesh,stunting,36.1,40.9
+Uttar Pradesh,Jhansi,jhansi_uttar_pradesh,wasting,11,10.4
+Uttar Pradesh,Jhansi,jhansi_uttar_pradesh,underweight,39.5,39.3
+Uttar Pradesh,Jhansi,jhansi_uttar_pradesh,overweight,0.7,3.3
+Uttar Pradesh,Jyotiba Phule Nagar,jyotiba_phule_nagar_uttar_pradesh,stunting,44.7,42.2
+Uttar Pradesh,Jyotiba Phule Nagar,jyotiba_phule_nagar_uttar_pradesh,wasting,7,12.5
+Uttar Pradesh,Jyotiba Phule Nagar,jyotiba_phule_nagar_uttar_pradesh,underweight,42.4,35.4
+Uttar Pradesh,Jyotiba Phule Nagar,jyotiba_phule_nagar_uttar_pradesh,overweight,0.6,4.6
+Uttar Pradesh,Kannauj,kannauj_uttar_pradesh,stunting,50.4,43
+Uttar Pradesh,Kannauj,kannauj_uttar_pradesh,wasting,3.8,10.8
+Uttar Pradesh,Kannauj,kannauj_uttar_pradesh,underweight,32.9,33.5
+Uttar Pradesh,Kannauj,kannauj_uttar_pradesh,overweight,1.1,5.2
+Uttar Pradesh,Kanpur Dehat,kanpur_dehat_uttar_pradesh,stunting,45.9,44.1
+Uttar Pradesh,Kanpur Dehat,kanpur_dehat_uttar_pradesh,wasting,5.8,6.7
+Uttar Pradesh,Kanpur Dehat,kanpur_dehat_uttar_pradesh,underweight,36.1,32.8
+Uttar Pradesh,Kanpur Dehat,kanpur_dehat_uttar_pradesh,overweight,1.4,6.8
+Uttar Pradesh,Kanpur Nagar,kanpur_nagar_uttar_pradesh,stunting,43.6,34.6
+Uttar Pradesh,Kanpur Nagar,kanpur_nagar_uttar_pradesh,wasting,10.8,12.6
+Uttar Pradesh,Kanpur Nagar,kanpur_nagar_uttar_pradesh,underweight,41.8,27.8
+Uttar Pradesh,Kanpur Nagar,kanpur_nagar_uttar_pradesh,overweight,2.8,5.8
+Uttar Pradesh,Kanshiram Nagar,kanshiram_nagar_uttar_pradesh,stunting,51.5,45.1
+Uttar Pradesh,Kanshiram Nagar,kanshiram_nagar_uttar_pradesh,wasting,4.1,9.9
+Uttar Pradesh,Kanshiram Nagar,kanshiram_nagar_uttar_pradesh,underweight,32.8,35.5
+Uttar Pradesh,Kanshiram Nagar,kanshiram_nagar_uttar_pradesh,overweight,1.8,4.6
+Uttar Pradesh,Kaushambi,kaushambi_uttar_pradesh,stunting,50.1,40.2
+Uttar Pradesh,Kaushambi,kaushambi_uttar_pradesh,wasting,13.5,4.3
+Uttar Pradesh,Kaushambi,kaushambi_uttar_pradesh,underweight,52.8,36.8
+Uttar Pradesh,Kaushambi,kaushambi_uttar_pradesh,overweight,1,0.8
+Uttar Pradesh,Kheri,kheri_uttar_pradesh,stunting,53.9,47.6
+Uttar Pradesh,Kheri,kheri_uttar_pradesh,wasting,6.9,3.9
+Uttar Pradesh,Kheri,kheri_uttar_pradesh,underweight,40.8,36.3
+Uttar Pradesh,Kheri,kheri_uttar_pradesh,overweight,2.1,2.2
+Uttar Pradesh,Kushinagar,kushinagar_uttar_pradesh,stunting,45,32.2
+Uttar Pradesh,Kushinagar,kushinagar_uttar_pradesh,wasting,4.3,9
+Uttar Pradesh,Kushinagar,kushinagar_uttar_pradesh,underweight,35.1,36.6
+Uttar Pradesh,Kushinagar,kushinagar_uttar_pradesh,overweight,3.3,2.2
+Uttar Pradesh,Lalitpur,lalitpur_uttar_pradesh,stunting,40.7,46.6
+Uttar Pradesh,Lalitpur,lalitpur_uttar_pradesh,wasting,16.9,7.5
+Uttar Pradesh,Lalitpur,lalitpur_uttar_pradesh,underweight,48.8,34.8
+Uttar Pradesh,Lalitpur,lalitpur_uttar_pradesh,overweight,0.5,6.7
+Uttar Pradesh,Lucknow,lucknow_uttar_pradesh,stunting,37.5,32.1
+Uttar Pradesh,Lucknow,lucknow_uttar_pradesh,wasting,17.9,1.4
+Uttar Pradesh,Lucknow,lucknow_uttar_pradesh,underweight,44.5,25.5
+Uttar Pradesh,Lucknow,lucknow_uttar_pradesh,overweight,1.8,2
+Uttar Pradesh,Mahamaya Nagar,mahamaya_nagar_uttar_pradesh,stunting,44.2,39.1
+Uttar Pradesh,Mahamaya Nagar,mahamaya_nagar_uttar_pradesh,wasting,2.1,4.7
+Uttar Pradesh,Mahamaya Nagar,mahamaya_nagar_uttar_pradesh,underweight,31.7,24.5
+Uttar Pradesh,Mahamaya Nagar,mahamaya_nagar_uttar_pradesh,overweight,0.8,3.7
+Uttar Pradesh,Maharajganj,maharajganj_uttar_pradesh,stunting,53.3,40.5
+Uttar Pradesh,Maharajganj,maharajganj_uttar_pradesh,wasting,3.3,9.1
+Uttar Pradesh,Maharajganj,maharajganj_uttar_pradesh,underweight,37.1,37.4
+Uttar Pradesh,Maharajganj,maharajganj_uttar_pradesh,overweight,3,3.4
+Uttar Pradesh,Mahoba,mahoba_uttar_pradesh,stunting,44.6,42.3
+Uttar Pradesh,Mahoba,mahoba_uttar_pradesh,wasting,6.4,11.7
+Uttar Pradesh,Mahoba,mahoba_uttar_pradesh,underweight,47.7,33.4
+Uttar Pradesh,Mahoba,mahoba_uttar_pradesh,overweight,1.8,5
+Uttar Pradesh,Mainpuri,mainpuri_uttar_pradesh,stunting,46.5,44.3
+Uttar Pradesh,Mainpuri,mainpuri_uttar_pradesh,wasting,3.8,6.7
+Uttar Pradesh,Mainpuri,mainpuri_uttar_pradesh,underweight,32.5,33.6
+Uttar Pradesh,Mainpuri,mainpuri_uttar_pradesh,overweight,1.7,4
+Uttar Pradesh,Mathura,mathura_uttar_pradesh,stunting,40.8,31.6
+Uttar Pradesh,Mathura,mathura_uttar_pradesh,wasting,5.1,3.2
+Uttar Pradesh,Mathura,mathura_uttar_pradesh,underweight,27.7,21.3
+Uttar Pradesh,Mathura,mathura_uttar_pradesh,overweight,2.2,2.1
+Uttar Pradesh,Mau,mau_uttar_pradesh,stunting,40.9,25.4
+Uttar Pradesh,Mau,mau_uttar_pradesh,wasting,4.2,9.6
+Uttar Pradesh,Mau,mau_uttar_pradesh,underweight,35.1,30.3
+Uttar Pradesh,Mau,mau_uttar_pradesh,overweight,2.1,1.2
+Uttar Pradesh,Meerut,meerut_uttar_pradesh,stunting,35.3,32.1
+Uttar Pradesh,Meerut,meerut_uttar_pradesh,wasting,6.3,2.1
+Uttar Pradesh,Meerut,meerut_uttar_pradesh,underweight,35.2,23.7
+Uttar Pradesh,Meerut,meerut_uttar_pradesh,overweight,0.6,1.3
+Uttar Pradesh,Mirzapur,mirzapur_uttar_pradesh,stunting,49.1,43.4
+Uttar Pradesh,Mirzapur,mirzapur_uttar_pradesh,wasting,6.6,3.3
+Uttar Pradesh,Mirzapur,mirzapur_uttar_pradesh,underweight,46.5,27.6
+Uttar Pradesh,Mirzapur,mirzapur_uttar_pradesh,overweight,1.3,2.9
+Uttar Pradesh,Moradabad,moradabad_uttar_pradesh,stunting,46.3,34.7
+Uttar Pradesh,Moradabad,moradabad_uttar_pradesh,wasting,6,9.8
+Uttar Pradesh,Moradabad,moradabad_uttar_pradesh,underweight,39.5,27
+Uttar Pradesh,Moradabad,moradabad_uttar_pradesh,overweight,1.5,2.3
+Uttar Pradesh,Muzaffarnagar,muzaffarnagar_uttar_pradesh,stunting,46.3,29.8
+Uttar Pradesh,Muzaffarnagar,muzaffarnagar_uttar_pradesh,wasting,6,9.9
+Uttar Pradesh,Muzaffarnagar,muzaffarnagar_uttar_pradesh,underweight,39.5,29.9
+Uttar Pradesh,Muzaffarnagar,muzaffarnagar_uttar_pradesh,overweight,1.5,4.2
+Uttar Pradesh,Pilibhit,pilibhit_uttar_pradesh,stunting,51.5,38.9
+Uttar Pradesh,Pilibhit,pilibhit_uttar_pradesh,wasting,8.3,7.5
+Uttar Pradesh,Pilibhit,pilibhit_uttar_pradesh,underweight,44.1,39.4
+Uttar Pradesh,Pilibhit,pilibhit_uttar_pradesh,overweight,1.1,1.4
+Uttar Pradesh,Pratapgarh,pratapgarh_uttar_pradesh,stunting,41.3,35.5
+Uttar Pradesh,Pratapgarh,pratapgarh_uttar_pradesh,wasting,8.5,2.5
+Uttar Pradesh,Pratapgarh,pratapgarh_uttar_pradesh,underweight,42.6,27.7
+Uttar Pradesh,Pratapgarh,pratapgarh_uttar_pradesh,overweight,2.3,1.3
+Uttar Pradesh,Prayagraj,prayagraj_uttar_pradesh,stunting,43.8,37.9
+Uttar Pradesh,Prayagraj,prayagraj_uttar_pradesh,wasting,7.4,4.3
+Uttar Pradesh,Prayagraj,prayagraj_uttar_pradesh,underweight,43.4,32.6
+Uttar Pradesh,Prayagraj,prayagraj_uttar_pradesh,overweight,1.4,1
+Uttar Pradesh,Rae Bareli,rae_bareli_uttar_pradesh,stunting,46.3,47
+Uttar Pradesh,Rae Bareli,rae_bareli_uttar_pradesh,wasting,6,6.3
+Uttar Pradesh,Rae Bareli,rae_bareli_uttar_pradesh,underweight,39.5,28.8
+Uttar Pradesh,Rae Bareli,rae_bareli_uttar_pradesh,overweight,1.5,4.3
+Uttar Pradesh,Rampur,rampur_uttar_pradesh,stunting,46,40.4
+Uttar Pradesh,Rampur,rampur_uttar_pradesh,wasting,5,5.9
+Uttar Pradesh,Rampur,rampur_uttar_pradesh,underweight,44.4,32.1
+Uttar Pradesh,Rampur,rampur_uttar_pradesh,overweight,0.4,2.1
+Uttar Pradesh,Saharanpur,saharanpur_uttar_pradesh,stunting,36.9,28.8
+Uttar Pradesh,Saharanpur,saharanpur_uttar_pradesh,wasting,4.4,12.9
+Uttar Pradesh,Saharanpur,saharanpur_uttar_pradesh,underweight,36.1,26.7
+Uttar Pradesh,Saharanpur,saharanpur_uttar_pradesh,overweight,0.3,1.9
+Uttar Pradesh,Sambhal,sambhal_uttar_pradesh,stunting,46.3,51.6
+Uttar Pradesh,Sambhal,sambhal_uttar_pradesh,wasting,6,5.6
+Uttar Pradesh,Sambhal,sambhal_uttar_pradesh,underweight,39.5,29.8
+Uttar Pradesh,Sambhal,sambhal_uttar_pradesh,overweight,1.5,3.8
+Uttar Pradesh,Sant Kabeer Nagar,sant_kabeer_nagar_uttar_pradesh,stunting,50.5,42.3
+Uttar Pradesh,Sant Kabeer Nagar,sant_kabeer_nagar_uttar_pradesh,wasting,2.5,8.8
+Uttar Pradesh,Sant Kabeer Nagar,sant_kabeer_nagar_uttar_pradesh,underweight,36.5,34.2
+Uttar Pradesh,Sant Kabeer Nagar,sant_kabeer_nagar_uttar_pradesh,overweight,1.1,2.9
+Uttar Pradesh,Sant Ravidas Nagar (Bhadohi),sant_ravidas_nagar_bhadohi_uttar_pradesh,stunting,51.4,42.7
+Uttar Pradesh,Sant Ravidas Nagar (Bhadohi),sant_ravidas_nagar_bhadohi_uttar_pradesh,wasting,8,2.4
+Uttar Pradesh,Sant Ravidas Nagar (Bhadohi),sant_ravidas_nagar_bhadohi_uttar_pradesh,underweight,49.1,26.5
+Uttar Pradesh,Sant Ravidas Nagar (Bhadohi),sant_ravidas_nagar_bhadohi_uttar_pradesh,overweight,1,2.3
+Uttar Pradesh,Shahjahanpur,shahjahanpur_uttar_pradesh,stunting,49.3,44.5
+Uttar Pradesh,Shahjahanpur,shahjahanpur_uttar_pradesh,wasting,5.9,8.1
+Uttar Pradesh,Shahjahanpur,shahjahanpur_uttar_pradesh,underweight,54.3,34.7
+Uttar Pradesh,Shahjahanpur,shahjahanpur_uttar_pradesh,overweight,0.9,3.2
+Uttar Pradesh,Shamli,shamli_uttar_pradesh,stunting,46.3,28.6
+Uttar Pradesh,Shamli,shamli_uttar_pradesh,wasting,6,13.2
+Uttar Pradesh,Shamli,shamli_uttar_pradesh,underweight,39.5,27.5
+Uttar Pradesh,Shamli,shamli_uttar_pradesh,overweight,1.5,2.1
+Uttar Pradesh,Shravasti,shravasti_uttar_pradesh,stunting,63.5,50.9
+Uttar Pradesh,Shravasti,shravasti_uttar_pradesh,wasting,3.1,9.3
+Uttar Pradesh,Shravasti,shravasti_uttar_pradesh,underweight,39.2,40.8
+Uttar Pradesh,Shravasti,shravasti_uttar_pradesh,overweight,2.3,3.3
+Uttar Pradesh,Siddharthnagar,siddharthnagar_uttar_pradesh,stunting,57.9,37.2
+Uttar Pradesh,Siddharthnagar,siddharthnagar_uttar_pradesh,wasting,4.4,14.5
+Uttar Pradesh,Siddharthnagar,siddharthnagar_uttar_pradesh,underweight,43.5,36.3
+Uttar Pradesh,Siddharthnagar,siddharthnagar_uttar_pradesh,overweight,1,2.8
+Uttar Pradesh,Sitapur,sitapur_uttar_pradesh,stunting,56.4,47.8
+Uttar Pradesh,Sitapur,sitapur_uttar_pradesh,wasting,5.6,6.5
+Uttar Pradesh,Sitapur,sitapur_uttar_pradesh,underweight,48.6,37.9
+Uttar Pradesh,Sitapur,sitapur_uttar_pradesh,overweight,1.3,2.9
+Uttar Pradesh,Sonbhadra,sonbhadra_uttar_pradesh,stunting,45.9,38.3
+Uttar Pradesh,Sonbhadra,sonbhadra_uttar_pradesh,wasting,7,17.4
+Uttar Pradesh,Sonbhadra,sonbhadra_uttar_pradesh,underweight,46.4,46.5
+Uttar Pradesh,Sonbhadra,sonbhadra_uttar_pradesh,overweight,2.7,0.9
+Uttar Pradesh,Sultanpur,sultanpur_uttar_pradesh,stunting,46.3,33.4
+Uttar Pradesh,Sultanpur,sultanpur_uttar_pradesh,wasting,6,2.5
+Uttar Pradesh,Sultanpur,sultanpur_uttar_pradesh,underweight,39.5,28.3
+Uttar Pradesh,Sultanpur,sultanpur_uttar_pradesh,overweight,1.5,1.4
+Uttar Pradesh,Unnao,unnao_uttar_pradesh,stunting,46.5,39.2
+Uttar Pradesh,Unnao,unnao_uttar_pradesh,wasting,2.6,5.1
+Uttar Pradesh,Unnao,unnao_uttar_pradesh,underweight,34.3,29.3
+Uttar Pradesh,Unnao,unnao_uttar_pradesh,overweight,2.5,7.5
+Uttar Pradesh,Varanasi,varanasi_uttar_pradesh,stunting,44.7,37.4
+Uttar Pradesh,Varanasi,varanasi_uttar_pradesh,wasting,8.1,13.3
+Uttar Pradesh,Varanasi,varanasi_uttar_pradesh,underweight,45.4,39
+Uttar Pradesh,Varanasi,varanasi_uttar_pradesh,overweight,0.9,3.1
+Uttarakhand,Almora,almora_uttarakhand,stunting,32.9,26
+Uttarakhand,Almora,almora_uttarakhand,wasting,7.7,6.1
+Uttarakhand,Almora,almora_uttarakhand,underweight,22.5,22.9
+Uttarakhand,Almora,almora_uttarakhand,overweight,4.1,4.4
+Uttarakhand,Bageshwar,bageshwar_uttarakhand,stunting,25.1,23.6
+Uttarakhand,Bageshwar,bageshwar_uttarakhand,wasting,13.5,3.7
+Uttarakhand,Bageshwar,bageshwar_uttarakhand,underweight,27.2,11.9
+Uttarakhand,Bageshwar,bageshwar_uttarakhand,overweight,3.9,3.5
+Uttarakhand,Chamoli,chamoli_uttarakhand,stunting,33.7,34.1
+Uttarakhand,Chamoli,chamoli_uttarakhand,wasting,7.2,5
+Uttarakhand,Chamoli,chamoli_uttarakhand,underweight,22.3,21.6
+Uttarakhand,Chamoli,chamoli_uttarakhand,overweight,2.2,7.5
+Uttarakhand,Champawat,champawat_uttarakhand,stunting,30.5,24.9
+Uttarakhand,Champawat,champawat_uttarakhand,wasting,6.1,5.8
+Uttarakhand,Champawat,champawat_uttarakhand,underweight,21.2,15.3
+Uttarakhand,Champawat,champawat_uttarakhand,overweight,5.4,4.7
+Uttarakhand,Dehradun,dehradun_uttarakhand,stunting,28.5,20.9
+Uttarakhand,Dehradun,dehradun_uttarakhand,wasting,12,2.4
+Uttarakhand,Dehradun,dehradun_uttarakhand,underweight,30.7,19.1
+Uttarakhand,Dehradun,dehradun_uttarakhand,overweight,4,3.8
+Uttarakhand,Haridwar,haridwar_uttarakhand,stunting,39.1,31.1
+Uttarakhand,Haridwar,haridwar_uttarakhand,wasting,5.3,6.4
+Uttarakhand,Haridwar,haridwar_uttarakhand,underweight,24.7,27
+Uttarakhand,Haridwar,haridwar_uttarakhand,overweight,2.8,4
+Uttarakhand,Nainital,nainital_uttarakhand,stunting,32.1,23.2
+Uttarakhand,Nainital,nainital_uttarakhand,wasting,3.7,5.9
+Uttarakhand,Nainital,nainital_uttarakhand,underweight,17,14.8
+Uttarakhand,Nainital,nainital_uttarakhand,overweight,4.9,7.5
+Uttarakhand,Pauri Garhwal,pauri_garhwal_uttarakhand,stunting,22.9,30
+Uttarakhand,Pauri Garhwal,pauri_garhwal_uttarakhand,wasting,18.1,5
+Uttarakhand,Pauri Garhwal,pauri_garhwal_uttarakhand,underweight,27.9,18.8
+Uttarakhand,Pauri Garhwal,pauri_garhwal_uttarakhand,overweight,2.2,4.7
+Uttarakhand,Pithoragarh,pithoragarh_uttarakhand,stunting,30.6,25.6
+Uttarakhand,Pithoragarh,pithoragarh_uttarakhand,wasting,9.2,6.9
+Uttarakhand,Pithoragarh,pithoragarh_uttarakhand,underweight,16.6,20.6
+Uttarakhand,Pithoragarh,pithoragarh_uttarakhand,overweight,7.2,4.4
+Uttarakhand,Rudraprayag,rudraprayag_uttarakhand,stunting,29.9,25.2
+Uttarakhand,Rudraprayag,rudraprayag_uttarakhand,wasting,7.5,2.4
+Uttarakhand,Rudraprayag,rudraprayag_uttarakhand,underweight,25.9,10.9
+Uttarakhand,Rudraprayag,rudraprayag_uttarakhand,overweight,3.6,4.2
+Uttarakhand,Tehri Garhwal,tehri_garhwal_uttarakhand,stunting,30.1,29.3
+Uttarakhand,Tehri Garhwal,tehri_garhwal_uttarakhand,wasting,28.1,5.2
+Uttarakhand,Tehri Garhwal,tehri_garhwal_uttarakhand,underweight,44.2,20.7
+Uttarakhand,Tehri Garhwal,tehri_garhwal_uttarakhand,overweight,2.1,2.2
+Uttarakhand,Udam Singh Nagar,udam_singh_nagar_uttarakhand,stunting,37.9,26.8
+Uttarakhand,Udam Singh Nagar,udam_singh_nagar_uttarakhand,wasting,3.5,3.1
+Uttarakhand,Udam Singh Nagar,udam_singh_nagar_uttarakhand,underweight,27,22
+Uttarakhand,Udam Singh Nagar,udam_singh_nagar_uttarakhand,overweight,2.9,2.4
+Uttarakhand,Uttarkashi,uttarkashi_uttarakhand,stunting,35.2,34.1
+Uttarakhand,Uttarkashi,uttarkashi_uttarakhand,wasting,23.6,5.4
+Uttarakhand,Uttarkashi,uttarkashi_uttarakhand,underweight,40.3,23.5
+Uttarakhand,Uttarkashi,uttarkashi_uttarakhand,overweight,4.3,2.7
+West Bengal,Bankura,bankura_west_bengal,stunting,34,30.3
+West Bengal,Bankura,bankura_west_bengal,wasting,7.8,8.3
+West Bengal,Bankura,bankura_west_bengal,underweight,39.8,38.8
+West Bengal,Bankura,bankura_west_bengal,overweight,1.2,1.9
+West Bengal,Birbhum,birbhum_west_bengal,stunting,40.5,37
+West Bengal,Birbhum,birbhum_west_bengal,wasting,10.1,5.6
+West Bengal,Birbhum,birbhum_west_bengal,underweight,43.1,41.8
+West Bengal,Birbhum,birbhum_west_bengal,overweight,1.3,3.4
+West Bengal,Dakshin Dinajpur,dakshin_dinajpur_west_bengal,stunting,32.9,31.9
+West Bengal,Dakshin Dinajpur,dakshin_dinajpur_west_bengal,wasting,4.3,9.6
+West Bengal,Dakshin Dinajpur,dakshin_dinajpur_west_bengal,underweight,28.1,30.2
+West Bengal,Dakshin Dinajpur,dakshin_dinajpur_west_bengal,overweight,4.4,3.9
+West Bengal,Darjeeling,darjeeling_west_bengal,stunting,29.1,34.3
+West Bengal,Darjeeling,darjeeling_west_bengal,wasting,3.7,11.6
+West Bengal,Darjeeling,darjeeling_west_bengal,underweight,25.7,31.6
+West Bengal,Darjeeling,darjeeling_west_bengal,overweight,4.1,8.2
+West Bengal,Howrah,howrah_west_bengal,stunting,34.6,27.5
+West Bengal,Howrah,howrah_west_bengal,wasting,4.4,10.5
+West Bengal,Howrah,howrah_west_bengal,underweight,28.4,27.3
+West Bengal,Howrah,howrah_west_bengal,overweight,1.9,4.6
+West Bengal,Hooghly,hooghly_west_bengal,stunting,30.1,28.9
+West Bengal,Hooghly,hooghly_west_bengal,wasting,4.7,5
+West Bengal,Hooghly,hooghly_west_bengal,underweight,28.7,33.4
+West Bengal,Hooghly,hooghly_west_bengal,overweight,3,5.2
+West Bengal,Jalpaiguri,jalpaiguri_west_bengal,stunting,31.2,28.9
+West Bengal,Jalpaiguri,jalpaiguri_west_bengal,wasting,7.6,7.3
+West Bengal,Jalpaiguri,jalpaiguri_west_bengal,underweight,24.6,25.4
+West Bengal,Jalpaiguri,jalpaiguri_west_bengal,overweight,3.9,5.5
+West Bengal,Koch Bihar,koch_bihar_west_bengal,stunting,32.9,28.7
+West Bengal,Koch Bihar,koch_bihar_west_bengal,wasting,7.8,5.2
+West Bengal,Koch Bihar,koch_bihar_west_bengal,underweight,29.3,22.5
+West Bengal,Koch Bihar,koch_bihar_west_bengal,overweight,2.6,2.3
+West Bengal,Kolkata,kolkata_west_bengal,stunting,24.2,29.6
+West Bengal,Kolkata,kolkata_west_bengal,wasting,4.7,16.9
+West Bengal,Kolkata,kolkata_west_bengal,underweight,19.6,32.9
+West Bengal,Kolkata,kolkata_west_bengal,overweight,5.1,6
+West Bengal,Maldah,maldah_west_bengal,stunting,37.8,40.5
+West Bengal,Maldah,maldah_west_bengal,wasting,8.9,6.3
+West Bengal,Maldah,maldah_west_bengal,underweight,37.2,35.3
+West Bengal,Maldah,maldah_west_bengal,overweight,0.9,3.3
+West Bengal,Murshidabad,murshidabad_west_bengal,stunting,41.9,39.8
+West Bengal,Murshidabad,murshidabad_west_bengal,wasting,4.6,3.7
+West Bengal,Murshidabad,murshidabad_west_bengal,underweight,34.6,32.4
+West Bengal,Murshidabad,murshidabad_west_bengal,overweight,2.4,3.6
+West Bengal,Nadia,nadia_west_bengal,stunting,23.3,26.1
+West Bengal,Nadia,nadia_west_bengal,wasting,2.4,7.5
+West Bengal,Nadia,nadia_west_bengal,underweight,19.3,25.1
+West Bengal,Nadia,nadia_west_bengal,overweight,1.4,3
+West Bengal,North Twenty Four Parganas,north_twenty_four_parganas_west_bengal,stunting,23.8,32.4
+West Bengal,North Twenty Four Parganas,north_twenty_four_parganas_west_bengal,wasting,6.2,5
+West Bengal,North Twenty Four Parganas,north_twenty_four_parganas_west_bengal,underweight,18.3,23.6
+West Bengal,North Twenty Four Parganas,north_twenty_four_parganas_west_bengal,overweight,3.1,6.5
+West Bengal,Paschim Barddhaman,paschim_barddhaman_west_bengal,stunting,32.5,39.7
+West Bengal,Paschim Barddhaman,paschim_barddhaman_west_bengal,wasting,6.5,8
+West Bengal,Paschim Barddhaman,paschim_barddhaman_west_bengal,underweight,31.6,41
+West Bengal,Paschim Barddhaman,paschim_barddhaman_west_bengal,overweight,2.1,3.1
+West Bengal,Paschim Medinipur,paschim_medinipur_west_bengal,stunting,29.4,31.1
+West Bengal,Paschim Medinipur,paschim_medinipur_west_bengal,wasting,9.1,9.6
+West Bengal,Paschim Medinipur,paschim_medinipur_west_bengal,underweight,40.3,40
+West Bengal,Paschim Medinipur,paschim_medinipur_west_bengal,overweight,2,1.7
+West Bengal,Purba Barddhaman,purba_barddhaman_west_bengal,stunting,32.5,32.7
+West Bengal,Purba Barddhaman,purba_barddhaman_west_bengal,wasting,6.5,5.4
+West Bengal,Purba Barddhaman,purba_barddhaman_west_bengal,underweight,31.6,31.6
+West Bengal,Purba Barddhaman,purba_barddhaman_west_bengal,overweight,2.1,3
+West Bengal,Purba Medinipur,purba_medinipur_west_bengal,stunting,29.9,25.8
+West Bengal,Purba Medinipur,purba_medinipur_west_bengal,wasting,5.7,3
+West Bengal,Purba Medinipur,purba_medinipur_west_bengal,underweight,32.8,30.6
+West Bengal,Purba Medinipur,purba_medinipur_west_bengal,overweight,1,3.1
+West Bengal,Puruliya,puruliya_west_bengal,stunting,45.5,36.9
+West Bengal,Puruliya,puruliya_west_bengal,wasting,11.3,7.9
+West Bengal,Puruliya,puruliya_west_bengal,underweight,58.2,46.3
+West Bengal,Puruliya,puruliya_west_bengal,overweight,1.1,1
+West Bengal,South Twenty Four Parganas,south_twenty_four_parganas_west_bengal,stunting,27.3,36.7
+West Bengal,South Twenty Four Parganas,south_twenty_four_parganas_west_bengal,wasting,5.9,11.8
+West Bengal,South Twenty Four Parganas,south_twenty_four_parganas_west_bengal,underweight,27.8,32.2
+West Bengal,South Twenty Four Parganas,south_twenty_four_parganas_west_bengal,overweight,0.6,7
+West Bengal,Uttar Dinajpur,uttar_dinajpur_west_bengal,stunting,40.4,44.8
+West Bengal,Uttar Dinajpur,uttar_dinajpur_west_bengal,wasting,5.6,7.2
+West Bengal,Uttar Dinajpur,uttar_dinajpur_west_bengal,underweight,34.7,32
+West Bengal,Uttar Dinajpur,uttar_dinajpur_west_bengal,overweight,2,7.1
+Chandigarh,Chandigarh,chandigarh_chandigarh,stunting,28.7,25.2
+Chandigarh,Chandigarh,chandigarh_chandigarh,wasting,3.9,2.4
+Chandigarh,Chandigarh,chandigarh_chandigarh,underweight,24.5,20.2
+Chandigarh,Chandigarh,chandigarh_chandigarh,overweight,1.1,1.9
+Lakshadweep,Lakshadweep,lakshadweep_lakshadweep,stunting,26.8,32
+Lakshadweep,Lakshadweep,lakshadweep_lakshadweep,wasting,13.7,17.4
+Lakshadweep,Lakshadweep,lakshadweep_lakshadweep,underweight,23.6,25.8
+Lakshadweep,Lakshadweep,lakshadweep_lakshadweep,overweight,1.6,10.5
+Telangana,mulugu,mulugu_telangana,overweight,0.7,3.2161290322580647
+Telangana,mulugu,mulugu_telangana,stunting,28,33.17741935483871
+Telangana,mulugu,mulugu_telangana,underweight,28.4,32.76774193548387
+Telangana,mulugu,mulugu_telangana,wasting,4.8,8.661290322580646
+Madhya Pradesh,vidisha,vidisha_madhya_pradesh,overweight,1.492,1.97
+Madhya Pradesh,vidisha,vidisha_madhya_pradesh,stunting,41.906,35.352
+Madhya Pradesh,vidisha,vidisha_madhya_pradesh,underweight,43.21,33.156
+Madhya Pradesh,vidisha,vidisha_madhya_pradesh,wasting,9.47,6.754
+West Bengal,alipurduar,alipurduar_west_bengal,overweight,2.31,4.17
+West Bengal,alipurduar,alipurduar_west_bengal,stunting,32.69,33.18
+West Bengal,alipurduar,alipurduar_west_bengal,underweight,31.685000000000002,32.7
+West Bengal,alipurduar,alipurduar_west_bengal,wasting,6.39,7.77
+Manipur,kamjong,kamjong_manipur,overweight,3.4,3.8444444444444446
+Manipur,kamjong,kamjong_manipur,stunting,30.955555555555556,24.622222222222224
+Manipur,kamjong,kamjong_manipur,underweight,13.744444444444444,13.766666666666667
+Manipur,kamjong,kamjong_manipur,wasting,2.511111111111111,3.7222222222222223
+Manipur,kakching,kakching_manipur,overweight,3.4,3.8444444444444446
+Manipur,kakching,kakching_manipur,stunting,30.955555555555556,24.622222222222224
+Manipur,kakching,kakching_manipur,underweight,13.744444444444444,13.766666666666667
+Manipur,kakching,kakching_manipur,wasting,2.511111111111111,3.7222222222222223
+Manipur,kangpokpi,kangpokpi_manipur,overweight,3.4,3.8444444444444446
+Manipur,kangpokpi,kangpokpi_manipur,stunting,30.955555555555556,24.622222222222224
+Manipur,kangpokpi,kangpokpi_manipur,underweight,13.744444444444444,13.766666666666667
+Manipur,kangpokpi,kangpokpi_manipur,wasting,2.511111111111111,3.7222222222222223
+Manipur,tengnoupal,tengnoupal_manipur,overweight,3.4,3.8444444444444446
+Manipur,tengnoupal,tengnoupal_manipur,stunting,30.955555555555556,24.622222222222224
+Manipur,tengnoupal,tengnoupal_manipur,underweight,13.744444444444444,13.766666666666667
+Manipur,tengnoupal,tengnoupal_manipur,wasting,2.511111111111111,3.7222222222222223
+West Bengal,kalimpong,kalimpong_west_bengal,overweight,2.31,4.17
+West Bengal,kalimpong,kalimpong_west_bengal,stunting,32.69,33.18
+West Bengal,kalimpong,kalimpong_west_bengal,underweight,31.685000000000002,32.7
+West Bengal,kalimpong,kalimpong_west_bengal,wasting,6.39,7.77
+West Bengal,jhargram,jhargram_west_bengal,overweight,2.31,4.17
+West Bengal,jhargram,jhargram_west_bengal,stunting,32.69,33.18
+West Bengal,jhargram,jhargram_west_bengal,underweight,31.685000000000002,32.7
+West Bengal,jhargram,jhargram_west_bengal,wasting,6.39,7.77
+Manipur,jiribam,jiribam_manipur,overweight,3.4,3.8444444444444446
+Manipur,jiribam,jiribam_manipur,stunting,30.955555555555556,24.622222222222224
+Manipur,jiribam,jiribam_manipur,underweight,13.744444444444444,13.766666666666667
+Manipur,jiribam,jiribam_manipur,wasting,2.511111111111111,3.7222222222222223
+Manipur,noney,noney_manipur,overweight,3.4,3.8444444444444446
+Manipur,noney,noney_manipur,stunting,30.955555555555556,24.622222222222224
+Manipur,noney,noney_manipur,underweight,13.744444444444444,13.766666666666667
+Manipur,noney,noney_manipur,wasting,2.511111111111111,3.7222222222222223
+Manipur,pherzawl,pherzawl_manipur,overweight,3.4,3.8444444444444446
+Manipur,pherzawl,pherzawl_manipur,stunting,30.955555555555556,24.622222222222224
+Manipur,pherzawl,pherzawl_manipur,underweight,13.744444444444444,13.766666666666667
+Manipur,pherzawl,pherzawl_manipur,wasting,2.511111111111111,3.7222222222222223
+Arunachal Pradesh,lower_siang,lower_siang_arunachal_pradesh,overweight,5.6850000000000005,10.09
+Arunachal Pradesh,lower_siang,lower_siang_arunachal_pradesh,stunting,28.54,26.75
+Arunachal Pradesh,lower_siang,lower_siang_arunachal_pradesh,underweight,17.115,14.115
+Arunachal Pradesh,lower_siang,lower_siang_arunachal_pradesh,wasting,8.045,6.685
+Telangana,narayanpet,narayanpet_telangana,overweight,0.7,3.2161290322580647
+Telangana,narayanpet,narayanpet_telangana,stunting,28,33.17741935483871
+Telangana,narayanpet,narayanpet_telangana,underweight,28.4,32.76774193548387
+Telangana,narayanpet,narayanpet_telangana,wasting,4.8,8.661290322580646
+Arunachal Pradesh,shi_yomi,shi_yomi_arunachal_pradesh,overweight,5.6850000000000005,10.09
+Arunachal Pradesh,shi_yomi,shi_yomi_arunachal_pradesh,stunting,28.54,26.75
+Arunachal Pradesh,shi_yomi,shi_yomi_arunachal_pradesh,underweight,17.115,14.115
+Arunachal Pradesh,shi_yomi,shi_yomi_arunachal_pradesh,wasting,8.045,6.685
+Arunachal Pradesh,pakke_kessang,pakke_kessang_arunachal_pradesh,overweight,5.6850000000000005,10.09
+Arunachal Pradesh,pakke_kessang,pakke_kessang_arunachal_pradesh,stunting,28.54,26.75
+Arunachal Pradesh,pakke_kessang,pakke_kessang_arunachal_pradesh,underweight,17.115,14.115
+Arunachal Pradesh,pakke_kessang,pakke_kessang_arunachal_pradesh,wasting,8.045,6.685
+Arunachal Pradesh,lepa_rada,lepa_rada_arunachal_pradesh,overweight,5.6850000000000005,10.09
+Arunachal Pradesh,lepa_rada,lepa_rada_arunachal_pradesh,stunting,28.54,26.75
+Arunachal Pradesh,lepa_rada,lepa_rada_arunachal_pradesh,underweight,17.115,14.115
+Arunachal Pradesh,lepa_rada,lepa_rada_arunachal_pradesh,wasting,8.045,6.685
+Arunachal Pradesh,kamle,kamle_arunachal_pradesh,overweight,5.6850000000000005,10.09
+Arunachal Pradesh,kamle,kamle_arunachal_pradesh,stunting,28.54,26.75
+Arunachal Pradesh,kamle,kamle_arunachal_pradesh,underweight,17.115,14.115
+Arunachal Pradesh,kamle,kamle_arunachal_pradesh,wasting,8.045,6.685
+Jammu & Kashmir,muzaffarabad,muzaffarabad_jammu_kashmir,overweight,5.05,10.695
+Jammu & Kashmir,muzaffarabad,muzaffarabad_jammu_kashmir,stunting,27.12,26.15
+Jammu & Kashmir,muzaffarabad,muzaffarabad_jammu_kashmir,underweight,15.74,21.065
+Jammu & Kashmir,muzaffarabad,muzaffarabad_jammu_kashmir,wasting,5.11,9.77
+Jammu & Kashmir,mirpur,mirpur_jammu_kashmir,overweight,5.05,10.695
+Jammu & Kashmir,mirpur,mirpur_jammu_kashmir,stunting,27.12,26.15
+Jammu & Kashmir,mirpur,mirpur_jammu_kashmir,underweight,15.74,21.065
+Jammu & Kashmir,mirpur,mirpur_jammu_kashmir,wasting,5.11,9.77
